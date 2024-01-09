@@ -1,0 +1,37 @@
+************************** 2023-12-09T11:00:16+00:00 **************************
+2023-12-09T11:00:16+00:00 | [INFO	] GameLabs v1.920 start for server 32aa1299-db58-4670-afae-a5845f498aec
+2023-12-09T11:00:19+00:00 | [INFO	] Server up (GameLabs v1.920)
+2023-12-09T11:00:19+00:00 | [INFO	] RPC interface initiated and handler registered
+2023-12-09T11:00:19+00:00 | [INFO	] Experimental speed check is enabled
+2023-12-09T12:00:20+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-12-09T12:00:20+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-12-09T12:00:20+00:00 | [WARN	] RegisterAsync re-authorized
+2023-12-09T13:00:20+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-12-09T13:00:20+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-12-09T13:00:20+00:00 | [WARN	] RegisterAsync re-authorized
+2023-12-09T14:00:25+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-12-09T14:00:25+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-12-09T14:00:25+00:00 | [WARN	] RegisterAsync re-authorized
+2023-12-09T14:58:15+00:00 | [WARN	] [Spawn] Spawning Sedan_02_Red (x1) at 0x00000000b8271ef8 {<6698.9,15.23,11358.8>}
+2023-12-09T15:00:26+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-12-09T15:00:26+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-12-09T15:00:27+00:00 | [WARN	] RegisterAsync re-authorized
+2023-12-09T15:13:31+00:00 | [WARN	] [Heal] SurvivorBase<2e108bd0>
+2023-12-09T15:18:51+00:00 | [WARN	] [Vehicle-Delete] Sedan_02_Red<8128cc40>
+2023-12-09T15:20:21+00:00 | [WARN	] [Spawn] Spawning CivilianSedan_Wine (x1) at 0x00000000b8271ef8 {<6687.9,15.2,11142.9>}
+2023-12-09T15:21:41+00:00 | [WARN	] [Vehicle-Delete] CivilianSedan_Wine<33cf6400>
+2023-12-09T15:21:51+00:00 | [WARN	] [Spawn] Spawning CivilianSedan_Wine (x1) at 0x00000000b8271ef8 {<6668.9,15.233,11141.9>}
+2023-12-09T15:45:41+00:00 | [WARN	] [Weather] Updating weather (sunny/clear)
+2023-12-09T15:46:41+00:00 | [WARN	] [Heal] SurvivorBase<2e108bd0>
+2023-12-09T16:00:27+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-12-09T16:00:27+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-12-09T16:00:27+00:00 | [WARN	] RegisterAsync re-authorized
+2023-12-09T16:03:52+00:00 | [WARN	] [Heal] SurvivorBase<2e108bd0>
+2023-12-09T16:09:37+00:00 | [WARN	] [Heal] SurvivorBase<2e108bd0>
+2023-12-09T16:10:32+00:00 | [WARN	] [Vehicle-Delete] CivilianSedan_Wine<33cf6400>
+2023-12-09T16:10:52+00:00 | [WARN	] [Spawn] Spawning CivilianSedan_Wine (x1) at 0x00000000b8271ef8 {<6150.85,37.4803,10919.8>}
+2023-12-09T16:28:17+00:00 | [WARN	] [Spawn] Spawning Pot (x1) for SurvivorBase<2e108bd0>
+2023-12-09T16:58:32+00:00 | [WARN	] Order requires VEHICLE reference, but no vehicle found by referenceKey=_Vehicle<39af23a0>
+2023-12-09T16:58:32+00:00 | [WARN	] Order 1/1 [action=CFCloud_DeleteVehicle] failed
+2023-12-09T16:59:59+00:00 | [INFO	] (Reporter) Disabled
+2023-12-09T16:59:59+00:00 | [INFO	] (Core) Attempting graceful exit

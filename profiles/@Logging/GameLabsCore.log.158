@@ -1,0 +1,31 @@
+************************** 2023-11-03T16:00:13+00:00 **************************
+2023-11-03T16:00:17+00:00 | [INFO	] Server up (GameLabs v1.910)
+2023-11-03T16:00:17+00:00 | [INFO	] Experimental speed check is enabled
+2023-11-03T17:00:17+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-11-03T17:00:17+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-11-03T17:00:18+00:00 | [WARN	] RegisterAsync re-authorized
+2023-11-03T18:00:22+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-11-03T18:00:22+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-11-03T18:00:23+00:00 | [WARN	] RegisterAsync re-authorized
+2023-11-03T19:00:29+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-11-03T19:00:29+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-11-03T19:00:29+00:00 | [WARN	] RegisterAsync re-authorized
+2023-11-03T20:00:29+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-11-03T20:00:29+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-11-03T20:00:30+00:00 | [WARN	] RegisterAsync re-authorized
+2023-11-03T20:02:44+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-11-03T20:02:49+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-11-03T20:02:54+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-11-03T20:02:59+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-11-03T20:03:04+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-11-03T20:03:09+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-11-03T20:03:14+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-11-03T20:03:19+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-11-03T20:03:24+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-11-03T20:03:29+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-11-03T20:03:34+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-11-03T21:00:29+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-11-03T21:00:29+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-11-03T21:00:30+00:00 | [WARN	] RegisterAsync re-authorized
+2023-11-03T22:00:00+00:00 | [INFO	] (Reporter) Disabled
+2023-11-03T22:00:00+00:00 | [INFO	] (Core) Attempting graceful exit

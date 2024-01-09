@@ -1,0 +1,39 @@
+************************** 2023-10-30T16:00:14+00:00 **************************
+2023-10-30T16:00:17+00:00 | [INFO	] Server up (GameLabs v1.910)
+2023-10-30T16:00:17+00:00 | [INFO	] Experimental speed check is enabled
+2023-10-30T16:48:14+00:00 | [WARN	] [Spawn] Spawning NailBox (x2) for SurvivorBase<a7b9d8e0>
+2023-10-30T16:53:32+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-10-30T16:53:32+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-10-30T16:53:32+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199108250772, distance=3261.51u, unitsPerSecond=1304.6 [threshold=8, inVehicle=0, triggers=1])
+2023-10-30T16:53:32+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-10-30T16:53:32+00:00 | [WARN	] ****************************************
+2023-10-30T16:54:47+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-10-30T16:54:47+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-10-30T16:54:47+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199108250772, distance=313.219u, unitsPerSecond=125.288 [threshold=8, inVehicle=0, triggers=2])
+2023-10-30T16:54:47+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-10-30T16:54:47+00:00 | [WARN	] ****************************************
+2023-10-30T17:00:19+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-10-30T17:00:19+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-10-30T17:00:19+00:00 | [WARN	] RegisterAsync re-authorized
+2023-10-30T17:19:57+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-10-30T17:19:57+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-10-30T17:19:57+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199108250772, distance=2462.71u, unitsPerSecond=985.085 [threshold=8, inVehicle=0, triggers=1])
+2023-10-30T17:19:57+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-10-30T17:19:57+00:00 | [WARN	] ****************************************
+2023-10-30T18:00:24+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-10-30T18:00:24+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-10-30T18:00:24+00:00 | [WARN	] RegisterAsync re-authorized
+2023-10-30T19:00:29+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-10-30T19:00:29+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-10-30T19:00:29+00:00 | [WARN	] RegisterAsync re-authorized
+2023-10-30T20:00:29+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-10-30T20:00:29+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-10-30T20:00:29+00:00 | [WARN	] RegisterAsync re-authorized
+2023-10-30T21:00:29+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-10-30T21:00:29+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-10-30T21:00:30+00:00 | [WARN	] RegisterAsync re-authorized
+2023-10-30T21:26:24+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-10-30T21:26:49+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-10-30T21:27:24+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-10-30T21:59:59+00:00 | [INFO	] (Reporter) Disabled
+2023-10-30T21:59:59+00:00 | [INFO	] (Core) Attempting graceful exit

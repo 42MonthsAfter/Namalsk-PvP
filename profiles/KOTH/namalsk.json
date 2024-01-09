@@ -1,0 +1,518 @@
+{
+    "enabled": 1,
+    "loggingLevel": 2,
+    "useLocationText": 1,
+    "useMapMarker": 1,
+    "useNotifications": 1,
+    "reduceProgressOnAbandoned": 1,
+    "reduceProgressOnDeathFromOutside": 1,
+    "requireFlagConstruction": 0,
+    "estimateLocation": 0,
+    "celebrateWin": 1,
+    "punishLoss": 0,
+    "baseCaptureTime": 600.0,
+    "maxTimeBetweenEvents": 3600.0,
+    "minTimeBetweenEvents": 600.0,
+    "playerTimeMultiplier": 1.5,
+    "timeDespawn": 1800.0,
+    "timeLimit": 0.0,
+    "timeStart": 30.0,
+    "timeSpawn": 1800.0,
+    "timeZoneCooldown": 300.0,
+    "minPlayerCount": 1,
+    "maxEnemyCount": 20,
+    "minEnemyCount": 5,
+    "maxEvents": 1,
+    "minimumDeaths": 0,
+    "minimumPlayers": 1,
+    "maximumPlayers": 4,
+    "rewardCount": 3,
+    "flagClassname": "Doc_42Finger",
+    "enemies": [
+        "ZmbM_PatrolNormal_Autumn",
+        "ZmbM_PatrolNormal_Flat",
+        "ZmbM_PatrolNormal_PautRev",
+        "ZmbM_PatrolNormal_Summer",
+        "ZmbM_SoldierNormal",
+        "ZmbM_usSoldier_normal_Desert",
+        "ZmbM_usSoldier_normal_Woodland"
+    ],
+    "lootCrate": "KOTH_Chest",
+    "crateLifeTime": 0,
+    "lootSets": [],
+    "zones": [
+        {
+            "zoneName": "Airfield",
+            "zonePosition": [
+                6247.66259765625,
+                21.068666458129884,
+                9314.9033203125
+            ],
+            "zoneRadius": 50,
+            "baseCaptureTime": -1.0,
+            "playerTimeMultiplier": -1.0,
+            "timeDespawn": -1.0,
+            "timeLimit": -1.0,
+            "timeStart": -1.0,
+            "maxEnemyCount": -1,
+            "minEnemyCount": -1,
+            "minimumDeaths": -1,
+            "minimumPlayers": -1,
+            "maximumPlayers": -1,
+            "rewardCount": -1,
+            "flagClassname": "",
+            "objects": [
+                {
+                    "classname": "Wreck_Mi8",
+                    "position": [
+                        15.0,
+                        0.0,
+                        5.0
+                    ],
+                    "orientation": [
+                        98.7207260131836,
+                        59.530860900878909,
+                        0.0
+                    ],
+                    "absolutePlacement": 0,
+                    "alignToTerrain": 1,
+                    "placeOnSurface": 1
+                }
+            ],
+            "enemies": [],
+            "lootCrate": "",
+            "crateLifeTime": -1,
+            "lootSets": []
+        },
+        {
+            "zoneName": "Factory",
+            "zonePosition": [
+                6473.1611328125,
+                16.01248550415039,
+                9305.7626953125
+            ],
+            "zoneRadius": 20,
+            "baseCaptureTime": -1.0,
+            "playerTimeMultiplier": -1.0,
+            "timeDespawn": -1.0,
+            "timeLimit": -1.0,
+            "timeStart": -1.0,
+            "maxEnemyCount": -1,
+            "minEnemyCount": -1,
+            "minimumDeaths": -1,
+            "minimumPlayers": -1,
+            "maximumPlayers": -1,
+            "rewardCount": -1,
+            "flagClassname": "",
+            "objects": [
+                {
+                    "classname": "Wreck_Mi8",
+                    "position": [
+                        15.0,
+                        0.0,
+                        5.0
+                    ],
+                    "orientation": [
+                        62.045166015625,
+                        314.6919250488281,
+                        0.0
+                    ],
+                    "absolutePlacement": 0,
+                    "alignToTerrain": 1,
+                    "placeOnSurface": 1
+                }
+            ],
+            "enemies": [],
+            "lootCrate": "",
+            "crateLifeTime": -1,
+            "lootSets": []
+        },
+        {
+            "zoneName": "BK-T07",
+            "zonePosition": [
+                4407.99951171875,
+                15.002476692199707,
+                10736.3916015625
+            ],
+            "zoneRadius": 20,
+            "baseCaptureTime": -1.0,
+            "playerTimeMultiplier": -1.0,
+            "timeDespawn": -1.0,
+            "timeLimit": -1.0,
+            "timeStart": -1.0,
+            "maxEnemyCount": -1,
+            "minEnemyCount": -1,
+            "minimumDeaths": -1,
+            "minimumPlayers": -1,
+            "maximumPlayers": -1,
+            "rewardCount": -1,
+            "flagClassname": "",
+            "objects": [
+                {
+                    "classname": "Wreck_Mi8",
+                    "position": [
+                        15.0,
+                        0.0,
+                        5.0
+                    ],
+                    "orientation": [
+                        135.21405029296876,
+                        0.9632144570350647,
+                        0.0
+                    ],
+                    "absolutePlacement": 0,
+                    "alignToTerrain": 1,
+                    "placeOnSurface": 1
+                }
+            ],
+            "enemies": [],
+            "lootCrate": "",
+            "crateLifeTime": -1,
+            "lootSets": []
+        },
+        {
+            "zoneName": "BK-M06",
+            "zonePosition": [
+                4847.4404296875,
+                13.249850273132325,
+                10869.462890625
+            ],
+            "zoneRadius": 50,
+            "baseCaptureTime": -1.0,
+            "playerTimeMultiplier": -1.0,
+            "timeDespawn": -1.0,
+            "timeLimit": -1.0,
+            "timeStart": -1.0,
+            "maxEnemyCount": -1,
+            "minEnemyCount": -1,
+            "minimumDeaths": -1,
+            "minimumPlayers": -1,
+            "maximumPlayers": -1,
+            "rewardCount": -1,
+            "flagClassname": "",
+            "objects": [
+                {
+                    "classname": "Wreck_Mi8",
+                    "position": [
+                        15.0,
+                        0.0,
+                        5.0
+                    ],
+                    "orientation": [
+                        95.5298843383789,
+                        17.899627685546876,
+                        0.0
+                    ],
+                    "absolutePlacement": 0,
+                    "alignToTerrain": 1,
+                    "placeOnSurface": 1
+                }
+            ],
+            "enemies": [],
+            "lootCrate": "",
+            "crateLifeTime": -1,
+            "lootSets": []
+        },
+        {
+            "zoneName": "Citadel",
+            "zonePosition": [
+                4685.66552734375,
+                23.552453994750978,
+                8910.30859375
+            ],
+            "zoneRadius": 50,
+            "baseCaptureTime": -1.0,
+            "playerTimeMultiplier": -1.0,
+            "timeDespawn": -1.0,
+            "timeLimit": -1.0,
+            "timeStart": -1.0,
+            "maxEnemyCount": -1,
+            "minEnemyCount": -1,
+            "minimumDeaths": -1,
+            "minimumPlayers": -1,
+            "maximumPlayers": -1,
+            "rewardCount": -1,
+            "flagClassname": "",
+            "objects": [
+                {
+                    "classname": "Wreck_Mi8",
+                    "position": [
+                        15.0,
+                        0.0,
+                        5.0
+                    ],
+                    "orientation": [
+                        235.8222198486328,
+                        32.33258056640625,
+                        0.0
+                    ],
+                    "absolutePlacement": 0,
+                    "alignToTerrain": 1,
+                    "placeOnSurface": 1
+                }
+            ],
+            "enemies": [],
+            "lootCrate": "",
+            "crateLifeTime": -1,
+            "lootSets": []
+        },
+        {
+            "zoneName": "Eagle's Nest",
+            "zonePosition": [
+                4083.981689453125,
+                70.35179138183594,
+                9212.8154296875
+            ],
+            "zoneRadius": 25,
+            "baseCaptureTime": -1.0,
+            "playerTimeMultiplier": -1.0,
+            "timeDespawn": -1.0,
+            "timeLimit": -1.0,
+            "timeStart": -1.0,
+            "maxEnemyCount": -1,
+            "minEnemyCount": -1,
+            "minimumDeaths": -1,
+            "minimumPlayers": -1,
+            "maximumPlayers": -1,
+            "rewardCount": -1,
+            "flagClassname": "",
+            "objects": [
+                {
+                    "classname": "Wreck_Mi8",
+                    "position": [
+                        15.0,
+                        0.0,
+                        5.0
+                    ],
+                    "orientation": [
+                        134.37136840820313,
+                        355.34527587890627,
+                        0.0
+                    ],
+                    "absolutePlacement": 0,
+                    "alignToTerrain": 1,
+                    "placeOnSurface": 1
+                }
+            ],
+            "enemies": [],
+            "lootCrate": "",
+            "crateLifeTime": -1,
+            "lootSets": []
+        },
+        {
+            "zoneName": "RefugeeCamp",
+            "zonePosition": [
+                7310.263671875,
+                45.50886154174805,
+                10525.8564453125
+            ],
+            "zoneRadius": 20,
+            "baseCaptureTime": -1.0,
+            "playerTimeMultiplier": -1.0,
+            "timeDespawn": -1.0,
+            "timeLimit": -1.0,
+            "timeStart": -1.0,
+            "maxEnemyCount": -1,
+            "minEnemyCount": -1,
+            "minimumDeaths": -1,
+            "minimumPlayers": -1,
+            "maximumPlayers": -1,
+            "rewardCount": -1,
+            "flagClassname": "",
+            "objects": [
+                {
+                    "classname": "Wreck_Mi8",
+                    "position": [
+                        15.0,
+                        0.0,
+                        5.0
+                    ],
+                    "orientation": [
+                        221.92727661132813,
+                        25.245206832885743,
+                        0.0
+                    ],
+                    "absolutePlacement": 0,
+                    "alignToTerrain": 1,
+                    "placeOnSurface": 1
+                }
+            ],
+            "enemies": [],
+            "lootCrate": "",
+            "crateLifeTime": -1,
+            "lootSets": []
+        },
+        {
+            "zoneName": "Seraja",
+            "zonePosition": [
+                4202.80859375,
+                390.65032958984377,
+                6607.42333984375
+            ],
+            "zoneRadius": 50,
+            "baseCaptureTime": -1.0,
+            "playerTimeMultiplier": -1.0,
+            "timeDespawn": -1.0,
+            "timeLimit": -1.0,
+            "timeStart": -1.0,
+            "maxEnemyCount": -1,
+            "minEnemyCount": -1,
+            "minimumDeaths": -1,
+            "minimumPlayers": -1,
+            "maximumPlayers": -1,
+            "rewardCount": -1,
+            "flagClassname": "",
+            "objects": [
+                {
+                    "classname": "Wreck_Mi8",
+                    "position": [
+                        15.0,
+                        0.0,
+                        5.0
+                    ],
+                    "orientation": [
+                        358.4710693359375,
+                        297.1317138671875,
+                        0.0
+                    ],
+                    "absolutePlacement": 0,
+                    "alignToTerrain": 1,
+                    "placeOnSurface": 1
+                }
+            ],
+            "enemies": [],
+            "lootCrate": "",
+            "crateLifeTime": -1,
+            "lootSets": []
+        },
+        {
+            "zoneName": "Tara",
+            "zonePosition": [
+                7254.4619140625,
+                238.90664672851563,
+                7076.9931640625
+            ],
+            "zoneRadius": 50,
+            "baseCaptureTime": -1.0,
+            "playerTimeMultiplier": -1.0,
+            "timeDespawn": -1.0,
+            "timeLimit": -1.0,
+            "timeStart": -1.0,
+            "maxEnemyCount": -1,
+            "minEnemyCount": -1,
+            "minimumDeaths": -1,
+            "minimumPlayers": -1,
+            "maximumPlayers": -1,
+            "rewardCount": -1,
+            "flagClassname": "",
+            "objects": [
+                {
+                    "classname": "Wreck_Mi8",
+                    "position": [
+                        15.0,
+                        0.0,
+                        5.0
+                    ],
+                    "orientation": [
+                        262.4766845703125,
+                        40.48255157470703,
+                        0.0
+                    ],
+                    "absolutePlacement": 0,
+                    "alignToTerrain": 1,
+                    "placeOnSurface": 1
+                }
+            ],
+            "enemies": [],
+            "lootCrate": "",
+            "crateLifeTime": -1,
+            "lootSets": []
+        },
+        {
+            "zoneName": "Uranium Mine",
+            "zonePosition": [
+                5074.37255859375,
+                39.46928787231445,
+                8172.78076171875
+            ],
+            "zoneRadius": 50,
+            "baseCaptureTime": -1.0,
+            "playerTimeMultiplier": -1.0,
+            "timeDespawn": -1.0,
+            "timeLimit": -1.0,
+            "timeStart": -1.0,
+            "maxEnemyCount": -1,
+            "minEnemyCount": -1,
+            "minimumDeaths": -1,
+            "minimumPlayers": -1,
+            "maximumPlayers": -1,
+            "rewardCount": -1,
+            "flagClassname": "",
+            "objects": [
+                {
+                    "classname": "Wreck_Mi8",
+                    "position": [
+                        15.0,
+                        0.0,
+                        5.0
+                    ],
+                    "orientation": [
+                        113.93169403076172,
+                        68.2776870727539,
+                        0.0
+                    ],
+                    "absolutePlacement": 0,
+                    "alignToTerrain": 1,
+                    "placeOnSurface": 1
+                }
+            ],
+            "enemies": [],
+            "lootCrate": "",
+            "crateLifeTime": -1,
+            "lootSets": []
+        },
+        {
+            "zoneName": "Vorkuta",
+            "zonePosition": [
+                6685.62841796875,
+                15.012418746948243,
+                11158.72265625
+            ],
+            "zoneRadius": 50,
+            "baseCaptureTime": -1.0,
+            "playerTimeMultiplier": -1.0,
+            "timeDespawn": -1.0,
+            "timeLimit": -1.0,
+            "timeStart": -1.0,
+            "maxEnemyCount": -1,
+            "minEnemyCount": -1,
+            "minimumDeaths": -1,
+            "minimumPlayers": -1,
+            "maximumPlayers": -1,
+            "rewardCount": -1,
+            "flagClassname": "",
+            "objects": [
+                {
+                    "classname": "Wreck_Mi8",
+                    "position": [
+                        15.0,
+                        0.0,
+                        5.0
+                    ],
+                    "orientation": [
+                        130.78280639648438,
+                        352.8575744628906,
+                        0.0
+                    ],
+                    "absolutePlacement": 0,
+                    "alignToTerrain": 1,
+                    "placeOnSurface": 1
+                }
+            ],
+            "enemies": [],
+            "lootCrate": "",
+            "crateLifeTime": -1,
+            "lootSets": []
+        }
+    ]
+}

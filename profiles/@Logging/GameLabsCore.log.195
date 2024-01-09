@@ -1,0 +1,11 @@
+************************** 2023-11-10T21:34:46+00:00 **************************
+2023-11-10T21:34:50+00:00 | [INFO	] Server up (GameLabs v1.910)
+2023-11-10T21:34:50+00:00 | [INFO	] Experimental speed check is enabled
+2023-11-10T21:46:33+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-11-10T22:15:43+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-11-10T22:34:53+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-11-10T22:34:53+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-11-10T22:34:54+00:00 | [WARN	] RegisterAsync re-authorized
+2023-11-10T22:44:38+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-11-10T23:00:00+00:00 | [INFO	] (Reporter) Disabled
+2023-11-10T23:00:00+00:00 | [INFO	] (Core) Attempting graceful exit

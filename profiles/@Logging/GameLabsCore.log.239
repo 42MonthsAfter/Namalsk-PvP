@@ -1,0 +1,36 @@
+************************** 2023-11-22T00:46:52+00:00 **************************
+2023-11-22T00:46:55+00:00 | [INFO	] Server up (GameLabs v1.910)
+2023-11-22T00:46:55+00:00 | [INFO	] Experimental speed check is enabled
+2023-11-22T01:46:55+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-11-22T01:46:55+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-11-22T01:46:55+00:00 | [WARN	] RegisterAsync re-authorized
+2023-11-22T02:47:00+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-11-22T02:47:00+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-11-22T02:47:00+00:00 | [WARN	] RegisterAsync re-authorized
+2023-11-22T03:47:00+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-11-22T03:47:00+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-11-22T03:47:01+00:00 | [WARN	] RegisterAsync re-authorized
+2023-11-22T04:47:05+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-11-22T04:47:05+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-11-22T04:47:06+00:00 | [WARN	] RegisterAsync re-authorized
+2023-11-22T05:47:11+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-11-22T05:47:11+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-11-22T05:47:11+00:00 | [WARN	] RegisterAsync re-authorized
+2023-11-22T06:47:16+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-11-22T06:47:16+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-11-22T06:47:16+00:00 | [WARN	] RegisterAsync re-authorized
+2023-11-22T07:32:24+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2023-11-22T07:34:47+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-11-22T07:34:52+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-11-22T07:34:57+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-11-22T07:35:02+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-11-22T07:35:07+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-11-22T07:47:17+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-11-22T07:47:17+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-11-22T07:47:17+00:00 | [WARN	] RegisterAsync re-authorized
+2023-11-22T07:57:18+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<d7da3690>> fired for already disconnected player [steam64=76561199241834565]
+2023-11-22T08:47:19+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-11-22T08:47:19+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-11-22T08:47:19+00:00 | [WARN	] RegisterAsync re-authorized
+2023-11-22T08:48:24+00:00 | [INFO	] (Reporter) Disabled
+2023-11-22T08:48:24+00:00 | [INFO	] (Core) Attempting graceful exit

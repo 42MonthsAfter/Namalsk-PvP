@@ -1,0 +1,22 @@
+{
+    "CategoryName": "Animal Parts",
+    "Products": [
+        "Bone 3 0",
+        "Lard 1 0",
+        "Guts 2 0",
+        "SmallGuts 4 0",
+        "GoatPelt 6 0",
+        "SheepPelt 8 0",
+        "PigPelt 10 0",
+        "CowPelt 6 0",
+        "RabbitPelt 6 0",
+        "WildboarPelt 3 0",
+        "DeerPelt 4 0",
+        "pelt_goldenhind 0 0",
+        "pelt_whitestag 9 0",
+        "WolfPelt 2 0",
+        "pelt_hellhound 10 0",
+        "pelt_ghosthound 7 0",
+        "BearPelt 9 0"
+    ]
+}

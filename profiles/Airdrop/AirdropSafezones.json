@@ -1,0 +1,11 @@
+{
+    "SafeZones": [
+        {
+            "Title": "Safe Zone",
+            "Message": "Airdrops cannot be dispatched to your current location ... Airdrop cancelled!",
+            "X": 6506,
+            "Z": 8526,
+            "Radius": 100
+        }
+    ]
+}

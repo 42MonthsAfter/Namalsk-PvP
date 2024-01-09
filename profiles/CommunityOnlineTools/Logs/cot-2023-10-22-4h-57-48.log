@@ -1,0 +1,20 @@
+[COT 2023-10-22 5h:1m:1s] 76561198036774377: Spawned Entity 100 US-Dollar Note (ItemBase<37691980>, 500, 100, 0) at <6507.645020, 3.144839, 8524.561523>
+[COT 2023-10-22 5h:1m:1s] 76561198036774377: Spawned Entity 100 US-Dollar Note (ItemBase<3769a8f0>, 500, 100, 0) at <6507.645020, 3.144839, 8524.561523>
+[COT 2023-10-22 5h:1m:1s] 76561198036774377: Spawned Entity 100 US-Dollar Note (ItemBase<376b60d0>, 500, 100, 0) at <6507.645020, 3.144839, 8524.561523>
+[COT 2023-10-22 5h:1m:1s] 76561198036774377: Spawned Entity 100 US-Dollar Note (ItemBase<376bf040>, 500, 100, 0) at <6507.645020, 3.144839, 8524.561523>
+[COT 2023-10-22 5h:1m:1s] 76561198036774377: Spawned Entity 100 US-Dollar Note (ItemBase<3276c590>, 500, 100, 0) at <6507.645020, 3.144839, 8524.561523>
+[COT 2023-10-22 5h:1m:1s] 76561198036774377: Spawned Entity 100 US-Dollar Note (ItemBase<3276ebd0>, 500, 100, 0) at <6507.645020, 3.144839, 8524.561523>
+[COT 2023-10-22 5h:1m:2s] 76561198036774377: Spawned Entity 100 US-Dollar Note (ItemBase<3273abe0>, 500, 100, 0) at <6507.645020, 3.144839, 8524.561523>
+[COT 2023-10-22 5h:1m:2s] 76561198036774377: Spawned Entity 100 US-Dollar Note (ItemBase<362ea0d0>, 500, 100, 0) at <6507.645020, 3.144839, 8524.561523>
+[COT 2023-10-22 5h:1m:2s] 76561198036774377: Spawned Entity 100 US-Dollar Note (ItemBase<362f9970>, 500, 100, 0) at <6507.645020, 3.144839, 8524.561523>
+[COT 2023-10-22 5h:1m:2s] 76561198036774377: Spawned Entity 100 US-Dollar Note (ItemBase<362be6c0>, 500, 100, 0) at <6507.645020, 3.144839, 8524.561523>
+[COT 2023-10-22 5h:1m:2s] 76561198036774377: Spawned Entity 100 US-Dollar Note (ItemBase<37a50770>, 500, 100, 0) at <6507.645020, 3.144839, 8524.561523>
+[COT 2023-10-22 5h:4m:5s] 76561199108250772: Spawned Entity Fence Kit (FenceKit<28b63cf0>, 100, 200, 0) at <4486.145508, 4.990549, 9996.132813>
+[COT 2023-10-22 5h:4m:25] 76561199108250772: ESP: Viewing ESP
+[COT 2023-10-22 5h:4m:28] 76561199108250772: ESP target=Fence<6aac9660> action=built part=base required_materials=false
+[COT 2023-10-22 5h:4m:30] 76561199108250772: ESP target=Fence<6aac9660> action=built part=wall_base_down required_materials=false
+[COT 2023-10-22 5h:4m:34] 76561199108250772: ESP target=Fence<6aac9660> action=built part=wall_metal_down required_materials=false
+[COT 2023-10-22 5h:4m:36] 76561199108250772: ESP target=Fence<6aac9660> action=built part=wall_platform required_materials=false
+[COT 2023-10-22 5h:4m:54] 76561199108250772: ESP target=Fence<6aac9660> action=built part=wall_platform_stairs_left required_materials=false
+[COT 2023-10-22 5h:4m:59] 76561199108250772: ESP: Clearing ESP
+[COT 2023-10-22 5h:5m:27] 76561199108250772: Spawned Entity Large Gas Canister (LargeGasCanister<325e5030>, 20, 20, 0) at <4487.011719, 5.011101, 10002.822266>

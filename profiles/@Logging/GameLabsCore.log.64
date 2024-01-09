@@ -1,0 +1,78 @@
+************************** 2023-10-23T10:00:17+00:00 **************************
+2023-10-23T10:00:20+00:00 | [INFO	] Server up (GameLabs v1.910)
+2023-10-23T10:00:20+00:00 | [INFO	] Experimental speed check is enabled
+2023-10-23T11:00:23+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-10-23T11:00:23+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-10-23T11:00:23+00:00 | [WARN	] RegisterAsync re-authorized
+2023-10-23T11:31:13+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-10-23T11:31:18+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-10-23T11:31:23+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-10-23T11:31:28+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-10-23T11:31:33+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-10-23T11:31:38+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-10-23T11:31:43+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-10-23T11:31:48+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-10-23T11:31:53+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-10-23T11:31:58+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-10-23T11:32:03+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-10-23T11:32:08+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-10-23T12:00:23+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-10-23T12:00:23+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-10-23T12:00:24+00:00 | [WARN	] RegisterAsync re-authorized
+2023-10-23T13:00:29+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-10-23T13:00:29+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-10-23T13:00:29+00:00 | [WARN	] RegisterAsync re-authorized
+2023-10-23T13:59:29+00:00 | [WARN	] [Teleport] SurvivorBase<e2895060> position=0x00000000dd5aac40 {<6254.28,20.9963,9548.46>}
+2023-10-23T13:59:29+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-10-23T13:59:29+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-10-23T13:59:29+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199407766611, distance=20.9963u, unitsPerSecond=8.39852 [threshold=8, inVehicle=0, triggers=1])
+2023-10-23T13:59:29+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-10-23T13:59:29+00:00 | [WARN	] ****************************************
+2023-10-23T14:00:19+00:00 | [WARN	] [Teleport] SurvivorBase<e2895060> position=0x00000000dd5aac40 {<4071.26,364.168,6708.61>}
+2023-10-23T14:00:19+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-10-23T14:00:19+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-10-23T14:00:19+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199407766611, distance=364.168u, unitsPerSecond=145.667 [threshold=8, inVehicle=0, triggers=2])
+2023-10-23T14:00:19+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-10-23T14:00:19+00:00 | [WARN	] ****************************************
+2023-10-23T14:00:34+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-10-23T14:00:34+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-10-23T14:00:34+00:00 | [WARN	] RegisterAsync re-authorized
+2023-10-23T14:00:39+00:00 | [WARN	] [Heal] SurvivorBase<e2895060>
+2023-10-23T14:01:24+00:00 | [WARN	] [Spawn] Spawning MVS_Rucksack_Snow (x1) for SurvivorBase<e2895060>
+2023-10-23T14:03:19+00:00 | [WARN	] [Spawn] Spawning HuntingOptic (x1) for SurvivorBase<e2895060>
+2023-10-23T14:03:34+00:00 | [WARN	] [Spawn] Spawning SNAFUGM6Lynx_5rdMag (x3) for SurvivorBase<e2895060>
+2023-10-23T14:04:14+00:00 | [WARN	] [Spawn] Spawning Firewood (x5) for SurvivorBase<e2895060>
+2023-10-23T14:04:39+00:00 | [WARN	] [Heal] SurvivorBase<e2895060>
+2023-10-23T14:05:14+00:00 | [WARN	] [Spawn] Spawning DisinfectantAlcohol (x1) for SurvivorBase<e2895060>
+2023-10-23T14:10:09+00:00 | [WARN	] [Spawn] Spawning SNAFUSRSA2 (x1) for SurvivorBase<e2895060>
+2023-10-23T14:10:29+00:00 | [WARN	] [Spawn] Spawning SNAFUSRSA2_10rdMag (x4) for SurvivorBase<e2895060>
+2023-10-23T14:10:44+00:00 | [WARN	] [Spawn] Spawning HuntingOptic (x1) for SurvivorBase<e2895060>
+2023-10-23T14:11:59+00:00 | [WARN	] [Spawn] Spawning GCGN_M200 (x1) for SurvivorBase<e2895060>
+2023-10-23T14:12:19+00:00 | [WARN	] [Spawn] Spawning SNAFU_M200SNOW (x1) for SurvivorBase<e2895060>
+2023-10-23T14:12:44+00:00 | [WARN	] [Spawn] Spawning GCGN_M200_Mag (x5) for SurvivorBase<e2895060>
+2023-10-23T14:13:49+00:00 | [WARN	] [Spawn] Spawning SNAFU_M200S_Snow (x1) for SurvivorBase<e2895060>
+2023-10-23T14:24:59+00:00 | [WARN	] [Heal] SurvivorBase<e2895060>
+2023-10-23T14:26:34+00:00 | [WARN	] [Heal] SurvivorBase<e2895060>
+2023-10-23T14:29:04+00:00 | [WARN	] [Heal] SurvivorBase<e2895060>
+2023-10-23T14:29:24+00:00 | [WARN	] [Spawn] Spawning Firewood (x5) for SurvivorBase<e2895060>
+2023-10-23T14:29:39+00:00 | [WARN	] [Spawn] Spawning PetrolLighter (x5) for SurvivorBase<e2895060>
+2023-10-23T14:34:19+00:00 | [WARN	] [Spawn] Spawning MVS_Pants_BDU_Snow (x1) for SurvivorBase<e2895060>
+2023-10-23T14:34:34+00:00 | [WARN	] [Spawn] Spawning WoolGloves_White (x1) for SurvivorBase<e2895060>
+2023-10-23T14:35:24+00:00 | [WARN	] [Spawn] Spawning SN_M9 (x1) for SurvivorBase<e2895060>
+2023-10-23T14:35:39+00:00 | [WARN	] [Spawn] Spawning SN_M9_Mag (x3) for SurvivorBase<e2895060>
+2023-10-23T14:36:44+00:00 | [WARN	] [Spawn] Spawning PistolSuppressor (x3) for SurvivorBase<e2895060>
+2023-10-23T14:37:54+00:00 | [WARN	] [Teleport] SurvivorBase<e2895060> position=0x00000000dd5c04a0 {<7059.66,40.2,5838.3>}
+2023-10-23T14:37:54+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-10-23T14:37:54+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-10-23T14:37:54+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199407766611, distance=40.2033u, unitsPerSecond=16.0813 [threshold=8, inVehicle=0, triggers=3])
+2023-10-23T14:37:54+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-10-23T14:37:54+00:00 | [WARN	] ****************************************
+2023-10-23T14:42:04+00:00 | [WARN	] [Heal] SurvivorBase<e2895060>
+2023-10-23T14:43:59+00:00 | [WARN	] [Teleport] SurvivorBase<e2895060> position=0x00000000dd5c04a0 {<6613.75,15.3013,11011.7>}
+2023-10-23T14:44:24+00:00 | [WARN	] [Spawn] Spawning BandageDressing (x3) for SurvivorBase<e2895060>
+2023-10-23T14:44:39+00:00 | [WARN	] [Heal] SurvivorBase<e2895060>
+2023-10-23T15:00:39+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-10-23T15:00:39+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-10-23T15:00:39+00:00 | [WARN	] RegisterAsync re-authorized
+2023-10-23T15:59:59+00:00 | [INFO	] (Reporter) Disabled
+2023-10-23T15:59:59+00:00 | [INFO	] (Core) Attempting graceful exit

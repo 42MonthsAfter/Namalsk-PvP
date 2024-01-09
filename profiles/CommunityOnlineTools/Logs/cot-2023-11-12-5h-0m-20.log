@@ -1,0 +1,198 @@
+[COT 2023-11-12 5h:7m:19] 76561199108250772: Spawned Entity Firewood (Firewood<bc430f20>, 1, 500, 0) at <8481.567383, 15.057423, 10295.294922>
+[COT 2023-11-12 5h:7m:20] 76561199108250772: Spawned Entity Firewood (Firewood<bc45ac80>, 1, 500, 0) at <8481.622070, 15.234034, 10295.371094>
+[COT 2023-11-12 5h:7m:20] 76561199108250772: Spawned Entity Firewood (Firewood<bc456990>, 1, 500, 0) at <8481.681641, 15.411118, 10295.453125>
+[COT 2023-11-12 5h:7m:21] 76561199108250772: Spawned Entity Firewood (Firewood<a8b215b0>, 1, 500, 0) at <8481.742188, 15.587153, 10295.532227>
+[COT 2023-11-12 5h:7m:21] 76561199108250772: Spawned Entity Firewood (Firewood<a8b24f10>, 1, 500, 0) at <8481.797852, 15.763765, 10295.610352>
+[COT 2023-11-12 5h:7m:22] 76561199108250772: Spawned Entity Firewood (Firewood<a8b29200>, 1, 500, 0) at <8481.851563, 15.940377, 10295.689453>
+[COT 2023-11-12 5h:7m:33] 76561199108250772: Spawned Entity Rope (Rope<c09a2e10>, 100, 200, 0) at <8484.030273, 15.057423, 10295.862305>
+[COT 2023-11-12 5h:7m:42] 76561199108250772: Spawned Entity Short Stick (WoodenStick<be046390>, 5, 50, 0) at <8484.035156, 15.088903, 10295.856445>
+[COT 2023-11-12 5h:8m:21] 76561199108250772: ESP: Viewing ESP
+[COT 2023-11-12 5h:8m:25] 76561199108250772: ESP target=Fence<c013ffb0> action=built part=base required_materials=false
+[COT 2023-11-12 5h:8m:26] 76561199108250772: ESP target=Fence<c013ffb0> action=built part=wall_base_down required_materials=false
+[COT 2023-11-12 5h:8m:28] 76561199108250772: ESP target=Fence<c013ffb0> action=built part=wall_wood_down required_materials=false
+[COT 2023-11-12 5h:8m:30] 76561199108250772: ESP target=Fence<c013ffb0> action=built part=wall_base_up required_materials=false
+[COT 2023-11-12 5h:8m:33] 76561199108250772: ESP target=Fence<c013ffb0> action=built part=wall_gate required_materials=false
+[COT 2023-11-12 5h:8m:35] 76561199108250772: ESP target=Fence<c013ffb0> action=dismantle part=wall_gate
+[COT 2023-11-12 5h:8m:37] 76561199108250772: ESP target=Fence<c013ffb0> action=built part=wall_wood_up required_materials=false
+[COT 2023-11-12 5h:8m:41] 76561199108250772: ESP: Clearing ESP
+[COT 2023-11-12 5h:9m:5s] 76561199108250772: ESP: Viewing ESP
+[COT 2023-11-12 5h:9m:10] 76561199108250772: ESP target=Fence<c2df6320> action=built part=base required_materials=false
+[COT 2023-11-12 5h:9m:11] 76561199108250772: ESP target=Fence<c2df6320> action=built part=wall_base_down required_materials=false
+[COT 2023-11-12 5h:9m:14] 76561199108250772: ESP target=Fence<c2df6320> action=built part=wall_wood_down required_materials=false
+[COT 2023-11-12 5h:9m:15] 76561199108250772: ESP target=Fence<c2df6320> action=built part=wall_base_up required_materials=false
+[COT 2023-11-12 5h:9m:17] 76561199108250772: ESP target=Fence<c2df6320> action=built part=wall_wood_up required_materials=false
+[COT 2023-11-12 5h:9m:34] 76561199108250772: ESP: Clearing ESP
+[COT 2023-11-12 5h:10:28] 76561199108250772: ESP: Viewing ESP
+[COT 2023-11-12 5h:10:48] 76561199108250772: ESP: Clearing ESP
+[COT 2023-11-12 5h:10:49] 76561199108250772: ESP: Viewing ESP
+[COT 2023-11-12 5h:10:52] 76561199108250772: ESP target=Fence<b7ba6c50> action=built part=base required_materials=false
+[COT 2023-11-12 5h:10:54] 76561199108250772: ESP target=Fence<b7ba6c50> action=built part=wall_base_down required_materials=false
+[COT 2023-11-12 5h:10:55] 76561199108250772: ESP target=Fence<b7ba6c50> action=built part=wall_wood_down required_materials=false
+[COT 2023-11-12 5h:10:57] 76561199108250772: ESP target=Fence<b7ba6c50> action=built part=wall_base_up required_materials=false
+[COT 2023-11-12 5h:10:59] 76561199108250772: ESP target=Fence<b7ba6c50> action=built part=wall_wood_up required_materials=false
+[COT 2023-11-12 5h:11:2s] 76561199108250772: ESP: Clearing ESP
+[COT 2023-11-12 5h:11:29] 76561199108250772: ESP: Viewing ESP
+[COT 2023-11-12 5h:11:35] 76561199108250772: ESP: Clearing ESP
+[COT 2023-11-12 5h:11:35] 76561199108250772: ESP: Viewing ESP
+[COT 2023-11-12 5h:11:44] 76561199108250772: ESP: Clearing ESP
+[COT 2023-11-12 5h:11:45] 76561199108250772: ESP: Viewing ESP
+[COT 2023-11-12 5h:11:48] 76561199108250772: ESP target=Fence<be10d1a0> action=built part=base required_materials=false
+[COT 2023-11-12 5h:11:49] 76561199108250772: ESP target=Fence<be10d1a0> action=built part=wall_base_down required_materials=false
+[COT 2023-11-12 5h:11:51] 76561199108250772: ESP target=Fence<be10d1a0> action=built part=wall_wood_down required_materials=false
+[COT 2023-11-12 5h:11:53] 76561199108250772: ESP target=Fence<be10d1a0> action=built part=wall_base_up required_materials=false
+[COT 2023-11-12 5h:11:56] 76561199108250772: ESP: Clearing ESP
+[COT 2023-11-12 5h:12:34] 76561199108250772: Spawned Entity Firewood (Firewood<a8b1b610>, 1, 500, 0) at <8482.782227, 15.057424, 10304.200195>
+[COT 2023-11-12 5h:12:34] 76561199108250772: Spawned Entity Firewood (Firewood<a8af8b70>, 1, 500, 0) at <8482.927734, 15.208441, 10304.189453>
+[COT 2023-11-12 5h:12:34] 76561199108250772: Spawned Entity Firewood (Firewood<c0aa7fb0>, 1, 500, 0) at <8483.073242, 15.362994, 10304.180664>
+[COT 2023-11-12 5h:12:35] 76561199108250772: Spawned Entity Firewood (Firewood<c0a7b280>, 1, 500, 0) at <8483.197266, 15.499475, 10304.175781>
+[COT 2023-11-12 5h:12:35] 76561199108250772: Spawned Entity Firewood (Firewood<c0a76600>, 1, 500, 0) at <8483.366211, 15.676087, 10304.166992>
+[COT 2023-11-12 5h:12:36] 76561199108250772: Spawned Entity Firewood (Firewood<c0a8a190>, 1, 500, 0) at <8483.487305, 15.801441, 10304.158203>
+[COT 2023-11-12 5h:12:38] 76561199108250772: Spawned Entity Firewood (Firewood<c02ee590>, 1, 500, 0) at <8482.740234, 15.057423, 10302.819336>
+[COT 2023-11-12 5h:12:38] 76561199108250772: Spawned Entity Firewood (Firewood<c02fd4a0>, 1, 500, 0) at <8482.913086, 15.230973, 10302.947266>
+[COT 2023-11-12 5h:12:38] 76561199108250772: Spawned Entity Firewood (Firewood<c03182f0>, 1, 500, 0) at <8483.010742, 15.327404, 10303.017578>
+[COT 2023-11-12 5h:12:39] 76561199108250772: Spawned Entity Firewood (Firewood<bddf7d10>, 1, 500, 0) at <8483.189453, 15.504876, 10303.146484>
+[COT 2023-11-12 5h:12:39] 76561199108250772: Spawned Entity Firewood (Firewood<bddcc300>, 1, 500, 0) at <8483.296875, 15.613516, 10303.226563>
+[COT 2023-11-12 5h:12:39] 76561199108250772: Spawned Entity Firewood (Firewood<c0fb2f30>, 1, 500, 0) at <8483.442383, 15.760771, 10303.333984>
+[COT 2023-11-12 5h:13:8s] 76561199108250772: Spawned Entity Nails (Nail<c28e0250>, 99, 80, 0) at <8484.735352, 15.057424, 10303.560547>
+[COT 2023-11-12 5h:13:10] 76561199108250772: Spawned Entity Nails (Nail<c28e91c0>, 99, 80, 0) at <8484.796875, 15.132229, 10303.585938>
+[COT 2023-11-12 5h:13:51] 76561199108250772: Spawned Entity Lumber Pile (PileOfWoodenPlanks<bc69a1f0>, 252, 100, 0) at <8488.916016, 15.057423, 10302.338867>
+[COT 2023-11-12 5h:14:6s] 76561199108250772: Spawned Entity Hand Saw (HandSaw<bc6af0a0>, 100, 100, 0) at <8485.170898, 15.057423, 10303.355469>
+[COT 2023-11-12 5h:14:7s] 76561199108250772: Spawned Entity Hand Saw (HandSaw<b7859f50>, 100, 100, 0) at <8485.126953, 15.117612, 10303.339844>
+[COT 2023-11-12 5h:14:7s] 76561199108250772: Spawned Entity Hand Saw (HandSaw<b7877d70>, 100, 100, 0) at <8485.086914, 15.177795, 10303.325195>
+[COT 2023-11-12 5h:14:32] 76561199108250772: Spawned Entity Firewood (Firewood<bc0715c0>, 1, 500, 0) at <8482.401367, 15.057423, 10295.064453>
+[COT 2023-11-12 5h:14:32] 76561199108250772: Spawned Entity Firewood (Firewood<bc073270>, 1, 500, 0) at <8482.335938, 15.234961, 10295.139648>
+[COT 2023-11-12 5h:15:20] 76561199108250772: Set the date to 2011/12/19 12:0
+[COT 2023-11-12 5h:15:21] 76561199108250772: Set rain to 0 0 0
+[COT 2023-11-12 5h:15:21] 76561199108250772: Set storm to 0 0.8 4000
+[COT 2023-11-12 5h:15:21] 76561199108250772: Set fog to 0 0 0
+[COT 2023-11-12 5h:15:21] 76561199108250772: Set overcast to 0 0 0
+[COT 2023-11-12 5h:15:21] 76561199108250772: Set wind to 0 0 1
+[COT 2023-11-12 5h:16:16] 76561199108250772: Spawned Entity Fence Kit (FenceKit<be69cbe0>, 100, 200, 0) at <8479.633789, 19.184460, 10289.447266>
+[COT 2023-11-12 5h:16:17] 76561199108250772: Spawned Entity Fence Kit (FenceKit<c02eb5c0>, 100, 200, 0) at <8479.561523, 19.326151, 10289.463867>
+[COT 2023-11-12 5h:16:17] 76561199108250772: Spawned Entity Fence Kit (FenceKit<c0313670>, 100, 200, 0) at <8479.494141, 19.456032, 10289.479492>
+[COT 2023-11-12 5h:16:18] 76561199108250772: Spawned Entity Fence Kit (FenceKit<bc69e4e0>, 100, 200, 0) at <8479.434570, 19.565144, 10289.492188>
+[COT 2023-11-12 5h:17:0s] 76561199108250772: ESP: Viewing ESP
+[COT 2023-11-12 5h:17:17] 76561199108250772: ESP: Clearing ESP
+[COT 2023-11-12 5h:17:20] 76561199108250772: ESP: Viewing ESP
+[COT 2023-11-12 5h:17:35] 76561199108250772: ESP target=Fence<c2dfd1d0> action=built part=base required_materials=false
+[COT 2023-11-12 5h:17:37] 76561199108250772: ESP target=Fence<c2dfd1d0> action=built part=wall_base_down required_materials=false
+[COT 2023-11-12 5h:17:38] 76561199108250772: ESP target=Fence<c2dfd1d0> action=built part=wall_wood_down required_materials=false
+[COT 2023-11-12 5h:17:40] 76561199108250772: ESP target=Fence<c2dfd1d0> action=built part=wall_base_up required_materials=false
+[COT 2023-11-12 5h:17:42] 76561199108250772: ESP target=Fence<c2dfd1d0> action=built part=wall_wood_up required_materials=false
+[COT 2023-11-12 5h:17:43] 76561199108250772: ESP target=Fence<c2dfd1d0> action=built part=wall_gate required_materials=false
+[COT 2023-11-12 5h:17:51] 76561199108250772: ESP target=Fence<c2df9570> action=built part=base required_materials=false
+[COT 2023-11-12 5h:17:52] 76561199108250772: ESP target=Fence<c2df9570> action=built part=wall_base_down required_materials=false
+[COT 2023-11-12 5h:17:53] 76561199108250772: ESP target=Fence<c2df9570> action=built part=wall_wood_down required_materials=false
+[COT 2023-11-12 5h:17:57] 76561199108250772: ESP target=Fence<c2df9570> action=built part=wall_base_up required_materials=false
+[COT 2023-11-12 5h:17:58] 76561199108250772: ESP target=Fence<c2df9570> action=built part=wall_wood_up required_materials=false
+[COT 2023-11-12 5h:18:1s] 76561199108250772: ESP: Clearing ESP
+[COT 2023-11-12 5h:19:41] 76561199108250772: Spawned Entity Flag Pole Kit (TerritoryFlagKit<c28fb0a0>, 100, 200, 0) at <8484.218750, 15.057424, 10296.954102>
+[COT 2023-11-12 5h:20:26] 76561199108250772: ESP: Viewing ESP
+[COT 2023-11-12 5h:20:29] 76561199108250772: ESP target=TerritoryFlag<bbbdb850> action=built part=base required_materials=false
+[COT 2023-11-12 5h:20:31] 76561199108250772: ESP target=TerritoryFlag<bbbdb850> action=built part=support required_materials=false
+[COT 2023-11-12 5h:20:32] 76561199108250772: ESP target=TerritoryFlag<bbbdb850> action=built part=pole required_materials=false
+[COT 2023-11-12 5h:20:39] 76561199108250772: ESP: Clearing ESP
+[COT 2023-11-12 5h:20:53] 76561199108250772: Spawned Entity Flag (Flag_Altis<c0c609a0>, 100, 100, 0) at <8485.570313, 15.057424, 10298.858398>
+[COT 2023-11-12 5h:22:3s] 76561199108250772: Spawned Entity 4-Dial Combination Lock (CombinationLock4<c28d4310>, 100, 1500, 0) at <8477.460938, 19.184460, 10289.785156>
+[COT 2023-11-12 5h:22:46] 76561199108250772: Healed [guid=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=]
+[COT 2023-11-12 5h:23:33] 76561199108250772: Spawned Entity Tetracycline Pills (TetracyclineAntibiotics<c07ab710>, 12, 30, 0) at <8475.661133, 19.184460, 10289.031250>
+[COT 2023-11-12 5h:24:46] 76561199108250772: Spawned Entity Barrel (Barrel_Blue<a4005fb0>, 200000, 1300, 1) at <8475.569336, 19.184460, 10288.605469>
+[COT 2023-11-12 5h:24:50] 76561199108250772: Spawned Entity Barrel (Barrel_Green<a3fff100>, 200000, 1300, 1) at <8475.458984, 19.184460, 10289.978516>
+[COT 2023-11-12 5h:24:56] 76561199108250772: Spawned Entity Barrel (Barrel_Red<a4009c10>, 200000, 1300, 1) at <8475.128906, 19.184460, 10288.854492>
+[COT 2023-11-12 5h:25:2s] 76561199108250772: Spawned Entity Barrel (Barrel_Green<a4015130>, 200000, 1300, 1) at <8474.362305, 19.184460, 10286.371094>
+[COT 2023-11-12 5h:25:5s] 76561199108250772: Spawned Entity Barrel (Barrel_Blue<a4018d90>, 200000, 1300, 1) at <8475.946289, 19.184460, 10290.830078>
+[COT 2023-11-12 5h:25:9s] 76561199108250772: Spawned Entity Barrel (Barrel_Red<a40197a0>, 200000, 1300, 1) at <8477.176758, 19.184460, 10289.021484>
+[COT 2023-11-12 5h:26:4s] 76561199108250772: Spawned Entity Multivitamin Pills (VitaminBottle<ba1ac2d0>, 50, 50, 0) at <8474.636719, 19.184460, 10287.283203>
+[COT 2023-11-12 5h:26:5s] 76561199108250772: Spawned Entity Multivitamin Pills (VitaminBottle<ba1b4fb0>, 50, 50, 0) at <8474.718750, 19.276608, 10287.290039>
+[COT 2023-11-12 5h:26:5s] 76561199108250772: Spawned Entity Multivitamin Pills (VitaminBottle<ba1bc870>, 50, 50, 0) at <8475.029297, 19.616365, 10287.327148>
+[COT 2023-11-12 5h:26:13] 76561199108250772: Spawned Entity Tetracycline Pills (TetracyclineAntibiotics<ba1c5550>, 12, 30, 0) at <8474.604492, 19.184460, 10286.784180>
+[COT 2023-11-12 5h:26:14] 76561199108250772: Spawned Entity Tetracycline Pills (TetracyclineAntibiotics<ba1c0ee0>, 12, 30, 0) at <8474.665039, 19.253229, 10286.806641>
+[COT 2023-11-12 5h:26:14] 76561199108250772: Spawned Entity Tetracycline Pills (TetracyclineAntibiotics<ba1d0a70>, 12, 30, 0) at <8474.726563, 19.321951, 10286.825195>
+[COT 2023-11-12 5h:26:26] 76561199108250772: Spawned Entity Bandage (BandageDressing<c0878a20>, 4, 50, 0) at <8474.947266, 19.184460, 10287.612305>
+[COT 2023-11-12 5h:26:26] 76561199108250772: Spawned Entity Bandage (BandageDressing<c04b95a0>, 4, 50, 0) at <8475.004883, 19.260311, 10287.613281>
+[COT 2023-11-12 5h:26:27] 76561199108250772: Spawned Entity Bandage (BandageDressing<c04ca160>, 4, 50, 0) at <8475.069336, 19.345432, 10287.614258>
+[COT 2023-11-12 5h:26:27] 76561199108250772: Spawned Entity Bandage (BandageDressing<c04d86e0>, 4, 50, 0) at <8475.129883, 19.419127, 10287.614258>
+[COT 2023-11-12 5h:26:28] 76561199108250772: Spawned Entity Bandage (BandageDressing<baa27220>, 4, 50, 0) at <8475.192383, 19.492680, 10287.611328>
+[COT 2023-11-12 5h:26:28] 76561199108250772: Spawned Entity Bandage (BandageDressing<baa2ab80>, 4, 50, 0) at <8475.251953, 19.567915, 10287.612305>
+[COT 2023-11-12 5h:26:39] 76561199108250772: Spawned Entity Plastic Bottle (WaterBottle<ba1cb9f0>, 1000, 50, 1) at <8475.114258, 19.184460, 10288.356445>
+[COT 2023-11-12 5h:26:39] 76561199108250772: Spawned Entity Plastic Bottle (WaterBottle<be102690>, 1000, 50, 1) at <8475.194336, 19.282228, 10288.327148>
+[COT 2023-11-12 5h:26:40] 76561199108250772: Spawned Entity Plastic Bottle (WaterBottle<be0fd610>, 1000, 50, 1) at <8475.273438, 19.383368, 10288.300781>
+[COT 2023-11-12 5h:26:40] 76561199108250772: Spawned Entity Plastic Bottle (WaterBottle<be10c790>, 1000, 50, 1) at <8475.351563, 19.492006, 10288.272461>
+[COT 2023-11-12 5h:27:13] 76561199108250772: Spawned Entity Sewing Kit (SewingKit<b527ea20>, 100, 50, 0) at <8474.816406, 19.184460, 10287.999023>
+[COT 2023-11-12 5h:27:14] 76561199108250772: Spawned Entity Sewing Kit (SewingKit<ade1c330>, 100, 50, 0) at <8474.847656, 19.223854, 10287.994141>
+[COT 2023-11-12 5h:27:18] 76561199108250772: Spawned Entity Leather Sewing Kit (LeatherSewingKit<ade49060>, 100, 100, 0) at <8475.176758, 19.184460, 10289.107422>
+[COT 2023-11-12 5h:27:18] 76561199108250772: Spawned Entity Leather Sewing Kit (LeatherSewingKit<bbad5450>, 100, 100, 0) at <8475.241211, 19.271542, 10289.065430>
+[COT 2023-11-12 5h:27:27] 76561199108250772: Spawned Entity MVS Canteen - OD (Canteen<be1227c0>, 1000, 100, 1) at <8475.956055, 19.184460, 10289.441406>
+[COT 2023-11-12 5h:27:28] 76561199108250772: Spawned Entity MVS Canteen - OD (Canteen<be12a080>, 1000, 100, 1) at <8476.022461, 19.327473, 10289.347656>
+[COT 2023-11-12 5h:27:36] 76561199108250772: Spawned Entity MVS - Black (ModularVestSystem_Base<b7b0d540>, 1000, 225, 0) at <8477.262695, 19.184460, 10289.682617>
+[COT 2023-11-12 5h:27:43] 76561199108250772: Spawned Entity MVS Magazine Pouch - Black (MVS_Pouch_Base<b7b22d80>, 1000, 100, 0) at <8477.266602, 19.456511, 10289.486328>
+[COT 2023-11-12 5h:27:49] 76561199108250772: Spawned Entity MVS Raid Pouch - Black (Modular_Pouch_Base_Taco<b7b266e0>, 1000, 100, 0) at <8477.269531, 19.563431, 10289.404297>
+[COT 2023-11-12 5h:27:53] 76561199108250772: Spawned Entity MVS Admin Pouch - Black (MVS_Pouch_Base<b74653e0>, 1000, 100, 0) at <8477.263672, 19.665462, 10289.333008>
+[COT 2023-11-12 5h:28:2s] 76561199108250772: Spawned Entity MVS Utility Pouch - Black (MVS_Pouch_Base<b1e97ff0>, 1000, 100, 0) at <8476.484375, 19.184460, 10289.983398>
+[COT 2023-11-12 5h:28:7s] 76561199108250772: Spawned Entity MVS Medical Pouch - Black (MVS_Pouch_Base<ba72d970>, 1000, 100, 0) at <8476.505859, 19.278105, 10289.899414>
+[COT 2023-11-12 5h:28:11] 76561199108250772: Spawned Entity MVS Combat Helmet - Black (Mich2001Helmet<ba73a240>, 1000, 50, 0) at <8476.540039, 19.379677, 10289.814453>
+[COT 2023-11-12 5h:28:26] 76561199108250772: Spawned Entity MVS Warrior Helmet - Black (Mich2001Helmet<ba724070>, 1000, 100, 0) at <8476.580078, 19.540363, 10289.683594>
+[COT 2023-11-12 5h:28:34] 76561199108250772: Spawned Entity MVS Sling Pack - Black (MountainBag_ColorBase<b7875730>, 1000, 300, 0) at <8476.622070, 19.695108, 10289.549805>
+[COT 2023-11-12 5h:28:52] 76561199108250772: Spawned Entity MVS Combat Belt - Black (Modular_Belt_Base<b7882000>, 1000, 100, 0) at <8476.625000, 19.697807, 10289.550781>
+[COT 2023-11-12 5h:29:3s] 76561199108250772: Spawned Entity MVS Sheath - Black (NylonKnifeSheath<c323ff80>, 1000, 100, 0) at <8476.657227, 19.823221, 10289.439453>
+[COT 2023-11-12 5h:29:11] 76561199108250772: Spawned Entity MVS Balaclava - Black (BalaclavaMask_ColorBase<bbad37a0>, 1000, 100, 0) at <8476.659180, 19.823221, 10289.446289>
+[COT 2023-11-12 5h:29:37] 76561199108250772: Spawned Entity MVS Combat Pants - Black (BDUPants<ba4bcb70>, 1000, 100, 0) at <8475.913086, 19.184460, 10289.955078>
+[COT 2023-11-12 5h:29:44] 76561199108250772: Spawned Entity MVS Combat Shirt - Black (TacticalShirt_ColorBase<ba4c17f0>, 1000, 100, 0) at <8476.024414, 19.413139, 10289.763672>
+[COT 2023-11-12 5h:31:29] 76561199108250772: Spawned Entity KA-101 (AK101<b74f8e90>, 100, 300, 0) at <8476.452148, 19.184460, 10289.170898>
+[COT 2023-11-12 5h:31:40] 76561199108250772: Spawned Entity Blaze (B95<ae98a1e0>, 100, 250, 0) at <8474.997070, 19.184460, 10287.958984>
+[COT 2023-11-12 5h:31:53] 76561199108250772: Spawned Entity CR-527 (CZ527_Base<ae986a90>, 100, 300, 0) at <8478.098633, 19.184460, 10290.095703>
+[COT 2023-11-12 5h:32:0s] 76561199108250772: Spawned Entity CR-61 Skorpion (CZ61_Base<ae9880b0>, 100, 200, 0) at <8477.851563, 19.184460, 10289.166016>
+[COT 2023-11-12 5h:32:3s] 76561199108250772: Spawned Entity CR-61 Skorpion (CZ61_Base<ae98b800>, 100, 200, 0) at <8478.070313, 19.184458, 10289.183594>
+[COT 2023-11-12 5h:32:26] 76561199108250772: Spawned Entity VSS (VSS<b38279b0>, 100, 250, 0) at <8475.407227, 19.184460, 10289.135742>
+[COT 2023-11-12 5h:32:34] 76561199108250772: Spawned Entity M79 (M79<82020100>, 100, 200, 0) at <8479.052734, 19.184460, 10289.373047>
+[COT 2023-11-12 5h:32:42] 76561199108250772: Spawned Entity Engraved Kolt 1911 (Engraved1911<ae988bc0>, 100, 200, 0) at <8477.340820, 19.184460, 10288.922852>
+[COT 2023-11-12 5h:33:12] 76561199108250772: Spawned Entity M4-A1 (CFTools) (M4A1_CFTools<ae985470>, 100, 200, 0) at <8477.158203, 19.184460, 10290.773438>
+[COT 2023-11-12 5h:33:22] 76561199108250772: Spawned Entity Remington ACR (ACR_Gun<ae98c310>, 100, 200, 0) at <8475.649414, 19.184460, 10290.380859>
+[COT 2023-11-12 5h:33:44] 76561199108250772: Entered the Free Camera
+[COT 2023-11-12 5h:33:56] 76561199108250772: Left the Free Camera
+[COT 2023-11-12 5h:34:18] 76561199108250772: Spawned Entity Firewood (Firewood<c2d834d0>, 1, 500, 0) at <8482.766602, 15.057423, 10294.012695>
+[COT 2023-11-12 5h:34:18] 76561199108250772: Spawned Entity Firewood (Firewood<c2d847f0>, 1, 500, 0) at <8482.878906, 15.185006, 10294.081055>
+[COT 2023-11-12 5h:34:18] 76561199108250772: Spawned Entity Firewood (Firewood<c2d8fda0>, 1, 500, 0) at <8482.997070, 15.319026, 10294.151367>
+[COT 2023-11-12 5h:35:13] 76561199108250772: Spawned Entity Tetracycline Pills (TetracyclineAntibiotics<af2b7e90>, 12, 30, 0) at <8481.748047, 15.057424, 10295.841797>
+[COT 2023-11-12 5h:37:46] 76561199108250772: Spawned Entity Jungle Boots (JungleBoots_Black<af049300>, 100, 150, 0) at <8477.609375, 19.184460, 10290.026367>
+[COT 2023-11-12 5h:40:6s] 76561199108250772: Spawned Entity Boxed 5.56x45mm Rounds (AmmoBox_556x45_20Rnd<c0e1adc0>, 100, 100, 0) at <8477.914063, 19.184460, 10290.208984>
+[COT 2023-11-12 5h:40:6s] 76561199108250772: Spawned Entity Boxed 5.56x45mm Rounds (AmmoBox_556x45_20Rnd<c0df06d0>, 100, 100, 0) at <8477.927734, 19.204086, 10290.197266>
+[COT 2023-11-12 5h:40:7s] 76561199108250772: Spawned Entity Boxed 5.56x45mm Rounds (AmmoBox_556x45_20Rnd<c0e09870>, 100, 100, 0) at <8477.942383, 19.223713, 10290.177734>
+[COT 2023-11-12 5h:40:8s] 76561199108250772: Spawned Entity Boxed 5.56x45mm Rounds (AmmoBox_556x45_20Rnd<5f920500>, 100, 100, 0) at <8477.956055, 19.243340, 10290.156250>
+[COT 2023-11-12 5h:40:9s] 76561199108250772: Spawned Entity Boxed 5.56x45mm Rounds (AmmoBox_556x45_20Rnd<bebf1d50>, 100, 100, 0) at <8477.964844, 19.262966, 10290.144531>
+[COT 2023-11-12 5h:40:10] 76561199108250772: Spawned Entity Boxed 5.56x45mm Rounds (AmmoBox_556x45_20Rnd<b57428f0>, 100, 100, 0) at <8477.976563, 19.282518, 10290.118164>
+[COT 2023-11-12 5h:40:11] 76561199108250772: Spawned Entity Boxed 5.56x45mm Rounds (AmmoBox_556x45_20Rnd<ba184fb0>, 100, 100, 0) at <8477.991211, 19.302145, 10290.101563>
+[COT 2023-11-12 5h:40:13] 76561199108250772: Spawned Entity Boxed 5.56x45mm Rounds (AmmoBox_556x45_20Rnd<ba1565d0>, 100, 100, 0) at <8478.006836, 19.321772, 10290.091797>
+[COT 2023-11-12 5h:40:31] 76561199108250772: Spawned Entity Boxed 7.62x39mm Tracer Rounds (AmmoBox_762x39Tracer_20Rnd<ba1684b0>, 5, 100, 0) at <8478.017578, 19.341324, 10290.076172>
+[COT 2023-11-12 5h:40:31] 76561199108250772: Spawned Entity Boxed 7.62x39mm Tracer Rounds (AmmoBox_762x39Tracer_20Rnd<b7883cb0>, 5, 100, 0) at <8478.037109, 19.370424, 10290.041016>
+[COT 2023-11-12 5h:40:32] 76561199108250772: Spawned Entity Boxed 7.62x39mm Tracer Rounds (AmmoBox_762x39Tracer_20Rnd<b7894870>, 5, 100, 0) at <8478.073242, 19.421333, 10289.999023>
+[COT 2023-11-12 5h:40:32] 76561199108250772: Spawned Entity Boxed 7.62x39mm Tracer Rounds (AmmoBox_762x39Tracer_20Rnd<b78582a0>, 5, 100, 0) at <8478.098633, 19.458599, 10289.969727>
+[COT 2023-11-12 5h:40:32] 76561199108250772: Spawned Entity Boxed 7.62x39mm Tracer Rounds (AmmoBox_762x39Tracer_20Rnd<b78730f0>, 5, 100, 0) at <8478.134766, 19.512398, 10289.931641>
+[COT 2023-11-12 5h:40:33] 76561199108250772: Spawned Entity Boxed 7.62x39mm Tracer Rounds (AmmoBox_762x39Tracer_20Rnd<b7870ab0>, 5, 100, 0) at <8478.172852, 19.566196, 10289.888672>
+[COT 2023-11-12 5h:40:33] 76561199108250772: Spawned Entity Boxed 7.62x39mm Tracer Rounds (AmmoBox_762x39Tracer_20Rnd<b7879090>, 5, 100, 0) at <8478.198242, 19.603374, 10289.856445>
+[COT 2023-11-12 5h:40:33] 76561199108250772: Spawned Entity Boxed 7.62x39mm Tracer Rounds (AmmoBox_762x39Tracer_20Rnd<c04bcf00>, 5, 100, 0) at <8478.224609, 19.640776, 10289.825195>
+[COT 2023-11-12 5h:40:33] 76561199108250772: Spawned Entity Boxed 7.62x39mm Tracer Rounds (AmmoBox_762x39Tracer_20Rnd<c04b78f0>, 5, 100, 0) at <8478.250000, 19.678843, 10289.792969>
+[COT 2023-11-12 5h:40:33] 76561199108250772: Spawned Entity Boxed 7.62x39mm Tracer Rounds (AmmoBox_762x39Tracer_20Rnd<c04e1fe0>, 5, 100, 0) at <8478.273438, 19.712196, 10289.761719>
+[COT 2023-11-12 5h:40:34] 76561199108250772: Spawned Entity Boxed 7.62x39mm Tracer Rounds (AmmoBox_762x39Tracer_20Rnd<bc423cc0>, 5, 100, 0) at <8478.296875, 19.748569, 10289.729492>
+[COT 2023-11-12 5h:40:55] 76561199108250772: Spawned Entity 40mm Explosive Grenade (Ammo_40mm_Explosive<baa30b20>, 1, 50, 0) at <8479.044922, 19.184460, 10288.989258>
+[COT 2023-11-12 5h:40:55] 76561199108250772: Spawned Entity 40mm Explosive Grenade (Ammo_40mm_Explosive<baa327d0>, 1, 50, 0) at <8479.018555, 19.211828, 10288.989258>
+[COT 2023-11-12 5h:40:55] 76561199108250772: Spawned Entity 40mm Explosive Grenade (Ammo_40mm_Explosive<baa446b0>, 1, 50, 0) at <8478.992188, 19.239565, 10288.990234>
+[COT 2023-11-12 5h:40:55] 76561199108250772: Spawned Entity 40mm Explosive Grenade (Ammo_40mm_Explosive<baa4cc90>, 1, 50, 0) at <8478.971680, 19.264410, 10288.991211>
+[COT 2023-11-12 5h:40:56] 76561199108250772: Spawned Entity 40mm Explosive Grenade (Ammo_40mm_Explosive<bc684020>, 1, 50, 0) at <8478.948242, 19.290297, 10288.988281>
+[COT 2023-11-12 5h:40:56] 76561199108250772: Spawned Entity 40mm Explosive Grenade (Ammo_40mm_Explosive<bc682d00>, 1, 50, 0) at <8478.927734, 19.316280, 10288.985352>
+[COT 2023-11-12 5h:40:56] 76561199108250772: Spawned Entity 40mm Explosive Grenade (Ammo_40mm_Explosive<bc695f00>, 1, 50, 0) at <8478.903320, 19.344288, 10288.985352>
+[COT 2023-11-12 5h:40:56] 76561199108250772: Spawned Entity 40mm Explosive Grenade (Ammo_40mm_Explosive<bc6a7450>, 1, 50, 0) at <8478.880859, 19.369802, 10288.985352>
+[COT 2023-11-12 5h:40:57] 76561199108250772: Spawned Entity 40mm Explosive Grenade (Ammo_40mm_Explosive<bc6a9100>, 1, 50, 0) at <8478.853516, 19.400036, 10288.985352>
+[COT 2023-11-12 5h:40:57] 76561199108250772: Spawned Entity 40mm Explosive Grenade (Ammo_40mm_Explosive<b82d63c0>, 1, 50, 0) at <8478.826172, 19.428726, 10288.983398>
+[COT 2023-11-12 5h:40:57] 76561199108250772: Spawned Entity 40mm Explosive Grenade (Ammo_40mm_Explosive<b82d20d0>, 1, 50, 0) at <8478.805664, 19.449526, 10288.983398>
+[COT 2023-11-12 5h:40:57] 76561199108250772: Spawned Entity 40mm Explosive Grenade (Ammo_40mm_Explosive<c2a83c90>, 1, 50, 0) at <8478.785156, 19.470978, 10288.983398>
+[COT 2023-11-12 5h:42:43] 76561199108250772: Spawned Entity AR15 SPR 100RND Mag (SNAFUAR15_SPR_100RND_Mag<c097d3a0>, 100, 100, 0) at <8478.629883, 19.184458, 10283.655273>
+[COT 2023-11-12 5h:43:27] 76561199108250772: Spawned Entity 15rd FX-45 Mag (Mag_FNX45_15Rnd<bc045bb0>, 15, 100, 0) at <8478.608398, 19.184458, 10284.073242>
+[COT 2023-11-12 5h:44:14] 76561199108250772: Spawned Entity Firefighter Axe (FirefighterAxe<b74521e0>, 100, 250, 0) at <8476.755859, 19.184460, 10284.633789>
+[COT 2023-11-12 5h:45:18] 76561199108250772: Spawned Entity Firewood (Firewood<be081640>, 1, 500, 0) at <8482.112305, 15.057423, 10295.501953>
+[COT 2023-11-12 5h:45:18] 76561199108250772: Spawned Entity Firewood (Firewood<babdf630>, 1, 500, 0) at <8482.004883, 15.205072, 10295.504883>
+[COT 2023-11-12 5h:45:18] 76561199108250772: Spawned Entity Firewood (Firewood<babe1c70>, 1, 500, 0) at <8481.869141, 15.381683, 10295.511719>
+[COT 2023-11-12 5h:45:18] 76561199108250772: Spawned Entity Firewood (Firewood<babe0950>, 1, 500, 0) at <8481.732422, 15.558295, 10295.519531>
+[COT 2023-11-12 6h:30:42] 76561199108250772: Deleted Entity Land_Barn_Brick1:-21470638081417856463 at <8482.075195, 20.149317, 10294.598633>
+[COT 2023-11-12 6h:39:39] 76561199108250772: Entered the Free Camera
+[COT 2023-11-12 6h:39:40] 76561199108250772: Left the Free Camera

@@ -1,0 +1,33 @@
+{
+    "CategoryName": "Magazines",
+    "Products": [
+        "Mag_IJ70_8Rnd 6 0",
+        "Mag_CZ75_15Rnd 5 0",
+        "Mag_Glock_15Rnd 6 0",
+        "Mag_MKII_10Rnd 7 0",
+        "Mag_1911_7Rnd 0 0",
+        "Mag_FNX45_15Rnd 8 0",
+        "Mag_CZ527_5rnd 1 0",
+        "Mag_CZ61_20Rnd 1 0",
+        "Mag_UMP_25Rnd 2 0",
+        "Mag_MP5_30Rnd 1 0",
+        "Mag_FAL_20Rnd 10 0",
+        "Mag_Saiga_5Rnd 9 0",
+        "Mag_Saiga_8Rnd 5 0",
+        "Mag_Saiga_Drum20Rnd 7 0",
+        "Mag_AKM_30Rnd 4 0",
+        "Mag_AKM_Palm30Rnd 0 0",
+        "Mag_AKM_Drum75Rnd 9 0",
+        "Mag_AK101_30Rnd 8 0",
+        "Mag_AK74_30Rnd 0 0",
+        "Mag_STANAGCoupled_30Rnd 0 0",
+        "Mag_CMAG_10Rnd 3 0",
+        "Mag_CMAG_20Rnd 5 0",
+        "Mag_CMAG_30Rnd 4 0",
+        "Mag_CMAG_40Rnd 8 0",
+        "Mag_VSS_10Rnd 7 0",
+        "Mag_SVD_10Rnd 10 0",
+        "Mag_308WinSnaploader_2Rnd 3 0",
+        "Mag_CZ527_5rnd 1 1"
+    ]
+}

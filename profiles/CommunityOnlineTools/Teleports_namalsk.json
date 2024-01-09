@@ -1,0 +1,532 @@
+{
+    "Types": [
+        "",
+        "City",
+        "Hill",
+        "Local",
+        "Marine",
+        "Village"
+    ],
+    "Locations": [
+        {
+            "Type": "Local",
+            "Name": "Alakit",
+            "Position": [
+                5886.66015625,
+                0.0,
+                10792.9404296875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Athena Research Institute",
+            "Position": [
+                4173.02978515625,
+                0.0,
+                7941.5498046875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Athena-1",
+            "Position": [
+                3800.43994140625,
+                0.0,
+                8231.3798828125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Athena-2",
+            "Position": [
+                5070.830078125,
+                0.0,
+                6685.9501953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "BK-L01",
+            "Position": [
+                4209.93994140625,
+                0.0,
+                6724.39990234375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "BK-L02",
+            "Position": [
+                3487.429931640625,
+                0.0,
+                6668.1201171875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "BK-L16",
+            "Position": [
+                6065.740234375,
+                0.0,
+                6722.60009765625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "BK-M06",
+            "Position": [
+                4895.0400390625,
+                0.0,
+                10850.6298828125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "BK-T07",
+            "Position": [
+                4439.4599609375,
+                0.0,
+                10708.599609375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "BK-T08",
+            "Position": [
+                4002.199951171875,
+                0.0,
+                9967.900390625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "BK-T12",
+            "Position": [
+                4109.33984375,
+                0.0,
+                9230.400390625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Brensk",
+            "Position": [
+                4396.1298828125,
+                0.0,
+                4727.52978515625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Brensk bay",
+            "Position": [
+                5200.669921875,
+                0.0,
+                5374.27001953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Brensk bridge",
+            "Position": [
+                5033.77001953125,
+                0.0,
+                6069.2998046875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Brensk marsh",
+            "Position": [
+                5979.509765625,
+                0.0,
+                5679.43994140625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Bubson's iceberg",
+            "Position": [
+                455.510009765625,
+                0.0,
+                5852.43994140625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "C-130J Mohawk",
+            "Position": [
+                3191.669921875,
+                0.0,
+                7536.39013671875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Jalovisko",
+            "Position": [
+                8422.330078125,
+                0.0,
+                10730.8798828125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Ledjanaja",
+            "Position": [
+                2994.97998046875,
+                0.0,
+                6481.64990234375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Lubjansk",
+            "Position": [
+                4566.47998046875,
+                0.0,
+                11149.98046875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Lubjansk bay",
+            "Position": [
+                5117.419921875,
+                0.0,
+                10255.91015625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Nemsk",
+            "Position": [
+                9110.7197265625,
+                0.0,
+                10160.7197265625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Nemsk bay",
+            "Position": [
+                8013.81005859375,
+                0.0,
+                9685.1298828125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Nitija",
+            "Position": [
+                5267.14013671875,
+                0.0,
+                7199.27001953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Norinsk",
+            "Position": [
+                4065.090087890625,
+                0.0,
+                7540.41015625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Norinsk pass",
+            "Position": [
+                4558.22998046875,
+                0.0,
+                7216.759765625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Phoenix",
+            "Position": [
+                11911.7001953125,
+                0.0,
+                7517.27978515625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "SKAT-12",
+            "Position": [
+                11944.580078125,
+                0.0,
+                12008.349609375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Sebjan",
+            "Position": [
+                5284.93994140625,
+                0.0,
+                8624.849609375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Sebjan dam",
+            "Position": [
+                5822.72021484375,
+                0.0,
+                9806.5
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Sebjan marsh",
+            "Position": [
+                6950.1298828125,
+                0.0,
+                9960.8095703125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Sebjan reservoir",
+            "Position": [
+                6081.66015625,
+                0.0,
+                10067.580078125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Sebjan uranium mine",
+            "Position": [
+                4879.18994140625,
+                0.0,
+                7867.41015625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Sebjan valley",
+            "Position": [
+                5502.33984375,
+                0.0,
+                8887.41015625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Seraja",
+            "Position": [
+                4191.93994140625,
+                0.0,
+                6607.43017578125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Seraja bay",
+            "Position": [
+                3407.3798828125,
+                0.0,
+                5570.66015625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Sibirskiy-2119",
+            "Position": [
+                3940.179931640625,
+                0.0,
+                10300.240234375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "TF Bering outpost",
+            "Position": [
+                1267.4300537109376,
+                0.0,
+                11808.490234375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Tara",
+            "Position": [
+                7300.16015625,
+                0.0,
+                7010.06982421875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Tara bridge",
+            "Position": [
+                6441.33984375,
+                0.0,
+                5811.33984375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Tara harbor",
+            "Position": [
+                7830.7001953125,
+                0.0,
+                7513.77978515625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Tara strait",
+            "Position": [
+                6328.33984375,
+                0.0,
+                8130.5498046875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "City",
+            "Name": "Vorkuta",
+            "Position": [
+                7063.419921875,
+                0.0,
+                11145.150390625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "airfield",
+            "Position": [
+                6197.97021484375,
+                0.0,
+                9334.0595703125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "factory",
+            "Position": [
+                6535.3798828125,
+                0.0,
+                9227.5595703125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "factory",
+            "Position": [
+                6535.3798828125,
+                0.0,
+                9227.5595703125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "factory",
+            "Position": [
+                6535.3798828125,
+                0.0,
+                9227.5595703125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "hospital",
+            "Position": [
+                7341.2900390625,
+                0.0,
+                7918.7001953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "refugee camp",
+            "Position": [
+                7328.0,
+                0.0,
+                10575.16015625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "refugee camp",
+            "Position": [
+                7328.0,
+                0.0,
+                10575.16015625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "sawmill",
+            "Position": [
+                7052.72021484375,
+                0.0,
+                5717.68994140625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "warehouses",
+            "Position": [
+                4705.22998046875,
+                0.0,
+                8892.759765625
+            ],
+            "Radius": 4.0
+        }
+    ]
+}

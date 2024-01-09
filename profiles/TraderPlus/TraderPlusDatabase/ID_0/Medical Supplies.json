@@ -1,0 +1,22 @@
+{
+    "CategoryName": "Medical Supplies",
+    "Products": [
+        "BandageDressing 0 0",
+        "PurificationTablets 6 0",
+        "BloodTestKit 1 0",
+        "Thermometer 1 0",
+        "DisinfectantSpray 8 0",
+        "Heatpack 8 0",
+        "StartKitIV 1 0",
+        "SalineBag 10 0",
+        "BloodBagEmpty 8 0",
+        "FirstAidKit 1 0",
+        "CharcoalTablets 10 0",
+        "DisinfectantAlcohol 4 0",
+        "VitaminBottle 0 0",
+        "TetracyclineAntibiotics 55 0",
+        "PainkillerTablets 1 0",
+        "Epinephrine 2 0",
+        "Morphine 8 0"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "CategoryName": "Vegetables",
+    "Products": [
+        "CaninaBerry 8 0",
+        "SambucusBerry 6 0",
+        "Plum 2 0",
+        "Kiwi 3 0",
+        "Apple 5 0",
+        "Pear 5 0",
+        "Orange 9 0",
+        "Banana 1 0",
+        "Tomato 7 0",
+        "Potato 2 0",
+        "GreenBellPepper 1 0",
+        "Zucchini 1 0",
+        "Pumpkin 0 0",
+        "AgaricusMushroom 7 0",
+        "AmanitaMushroom 4 0",
+        "LactariusMushroom 4 0",
+        "MacrolepiotaMushroom 4 0",
+        "PsilocybeMushroom 6 0",
+        "AuriculariaMushroom 6 0",
+        "BoletusMushroom 10 0",
+        "PleurotusMushroom 9 0"
+    ]
+}

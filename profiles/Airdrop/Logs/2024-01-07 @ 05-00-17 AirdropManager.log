@@ -1,0 +1,15 @@
+[ClearOldAirdropFiles] Backups Cleanup Started.
+[ClearOldAirdropFiles] Backup file removed:  AirdropSettings_bakup_2024-01-01 @ 05-00-18.json (6)
+[ClearOldAirdropFiles] Backup file removed:  AirdropSettings_bakup_2024-01-01 @ 11-00-13.json (6)
+[ClearOldAirdropFiles] Backup file removed:  AirdropSettings_bakup_2024-01-01 @ 17-00-16.json (6)
+[ClearOldAirdropFiles] Backup file removed:  AirdropSettings_bakup_2024-01-01 @ 23-00-14.json (6)
+[ClearOldAirdropFiles] Backups Cleanup Completed.
+[ClearOldAirdropFiles] Airdrop Log File Rremoved:  2024-01-04 @ 02-03-52 AirdropAircraft.log (3)
+[ClearOldAirdropFiles] Airdrop Log File Rremoved:  2024-01-04 @ 02-44-53 AirdropManager.log (3)
+[ClearOldAirdropFiles] Airdrop Log File Rremoved:  2024-01-04 @ 05-00-15 AirdropManager.log (3)
+[ClearOldAirdropFiles] Airdrop Log File Rremoved:  2024-01-04 @ 11-00-15 AirdropManager.log (3)
+[ClearOldAirdropFiles] Airdrop Log File Rremoved:  2024-01-04 @ 17-00-14 AirdropManager.log (3)
+[ClearOldAirdropFiles] Airdrop Log File Rremoved:  2024-01-04 @ 23-00-13 AirdropManager.log (3)
+[ClearOldAirdropFiles] Logs Cleanup Completed.
+[ExportDropZones] DropZone exported not bypassed.
+[AirdropBase] Base class created & settings loaded.

@@ -1,0 +1,22 @@
+************************** 2023-10-22T14:35:19+00:00 **************************
+2023-10-22T14:35:22+00:00 | [INFO	] Server up (GameLabs v1.910)
+2023-10-22T14:35:22+00:00 | [INFO	] Experimental speed check is enabled
+2023-10-22T14:36:34+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2023-10-22T14:43:42+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-10-22T14:43:42+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-10-22T14:43:42+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198036774377, distance=3441.93u, unitsPerSecond=1376.77 [threshold=8, inVehicle=0, triggers=1])
+2023-10-22T14:43:42+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-10-22T14:43:42+00:00 | [WARN	] ****************************************
+2023-10-22T14:45:14+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-10-22T14:45:14+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-10-22T14:45:14+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198036774377, distance=4785.22u, unitsPerSecond=1914.09 [threshold=8, inVehicle=0, triggers=2])
+2023-10-22T14:45:14+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-10-22T14:45:14+00:00 | [WARN	] ****************************************
+2023-10-22T14:49:29+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-10-22T14:49:29+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-10-22T14:49:29+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198036774377, distance=1901.73u, unitsPerSecond=760.692 [threshold=8, inVehicle=0, triggers=3])
+2023-10-22T14:49:29+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-10-22T14:49:29+00:00 | [WARN	] ****************************************
+2023-10-22T14:52:44+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<dccfc010>> fired for already disconnected player [steam64=76561198036774377]
+2023-10-22T14:52:45+00:00 | [INFO	] (Reporter) Disabled
+2023-10-22T14:52:45+00:00 | [INFO	] (Core) Attempting graceful exit

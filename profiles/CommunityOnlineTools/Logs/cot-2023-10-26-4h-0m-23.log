@@ -1,0 +1,62 @@
+[COT 2023-10-26 4h:2m:5s] 76561199108250772: Deleted Entity Fence:04560 at <3835.488770, 7.048887, 9234.871094>
+[COT 2023-10-26 4h:2m:29] 76561199108250772: Deleted Entity Land_House_1W10_Brown:-2147106816637602035 at <3835.642822, 8.508194, 9234.001953>
+[COT 2023-10-26 4h:3m:0s] 76561199108250772: Spawned Entity Barrel (Barrel_Blue<f2652280>, 200000, 1300, 1) at <3840.605713, 7.094001, 9234.581055>
+[COT 2023-10-26 4h:3m:2s] 76561199108250772: Deleted Entity Land_House_1W10_Brown:-2147106816637602035 at <3835.642822, 8.508194, 9234.001953>
+[COT 2023-10-26 4h:3m:5s] 76561199108250772: Deleted Entity Land_House_1W10_Brown:-2147106816637602035 at <3835.642822, 8.508194, 9234.001953>
+[COT 2023-10-26 4h:3m:7s] 76561199108250772: Entered the Free Camera
+[COT 2023-10-26 4h:3m:11] 76561199108250772: Left the Free Camera
+[COT 2023-10-26 4h:3m:45] 76561199108250772: ESP: Viewing ESP
+[COT 2023-10-26 4h:3m:48] 76561199108250772: ESP target=Fence<ef498a30> action=built part=base required_materials=false
+[COT 2023-10-26 4h:3m:50] 76561199108250772: ESP target=Fence<ef498a30> action=built part=wall_base_down required_materials=false
+[COT 2023-10-26 4h:3m:53] 76561199108250772: ESP target=Fence<ef498a30> action=built part=wall_wood_down required_materials=false
+[COT 2023-10-26 4h:3m:54] 76561199108250772: ESP target=Fence<ef498a30> action=built part=wall_base_up required_materials=false
+[COT 2023-10-26 4h:3m:57] 76561199108250772: ESP target=Fence<ef498a30> action=built part=wall_wood_up required_materials=false
+[COT 2023-10-26 4h:3m:59] 76561199108250772: ESP target=Fence<ef498a30> action=built part=wall_gate required_materials=false
+[COT 2023-10-26 4h:4m:5s] 76561199108250772: ESP: Clearing ESP
+[COT 2023-10-26 4h:4m:14] 76561199108250772: Spawned Entity CodeLock (CodeLock<f265af60>, 100, 1500, 0) at <3837.458496, 7.082585, 9235.529297>
+[COT 2023-10-26 4h:4m:34] 76561199108250772: Set GodMode To true [guid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=]
+[COT 2023-10-26 4h:4m:35] 76561199108250772: Set UnlimitedAmmo To true [guid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=]
+[COT 2023-10-26 4h:4m:35] 76561199108250772: Set UnlimitedStamina To true [guid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=]
+[COT 2023-10-26 4h:4m:36] 76561199108250772: Set cannot be targeted by AI to true [guid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=]
+[COT 2023-10-26 4h:4m:56] 76561199108250772: Spawned Entity Window Barricade (BF_WindowBarricade<f0807ee0>, 100, 100, 0) at <3837.577881, 7.082585, 9235.126953>
+[COT 2023-10-26 4h:5m:0s] 76561199108250772: Spawned Entity Window Barricade Kit (BF_WindowBarricadeKit<ea1413b0>, 100, 100, 0) at <3837.584473, 7.082585, 9235.126953>
+[COT 2023-10-26 4h:5m:2s] 76561199108250772: Spawned Entity Window Barricade Kit (BF_WindowBarricadeKit<eed47cd0>, 100, 100, 0) at <3838.085938, 7.082585, 9235.261719>
+[COT 2023-10-26 4h:5m:5s] 76561199108250772: Spawned Entity Window Barricade Kit (BF_WindowBarricadeKit<eed5aed0>, 100, 100, 0) at <3838.105225, 7.199825, 9234.921875>
+[COT 2023-10-26 4h:6m:48] 76561199108250772: Spawned Entity Window Barricade Kit (BF_WindowBarricadeKit<e0ae56a0>, 100, 100, 0) at <3836.300781, 7.082585, 9235.836914>
+[COT 2023-10-26 4h:7m:11] 76561199108250772: ESP: Viewing ESP
+[COT 2023-10-26 4h:7m:16] 76561199108250772: ESP index=0 target=BF_WindowBarricade:09725 position=<3837.577881, 9.071671, 9235.126953> action=delete
+[COT 2023-10-26 4h:7m:16] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2023-10-26 4h:7m:21] 76561199108250772: ESP target=BF_WindowBarricade<f082e4b0> action=built part=base required_materials=false
+[COT 2023-10-26 4h:7m:23] 76561199108250772: ESP target=BF_WindowBarricade<f082e4b0> action=built part=step_one required_materials=false
+[COT 2023-10-26 4h:7m:26] 76561199108250772: ESP target=BF_WindowBarricade<f082e4b0> action=built part=step_two required_materials=false
+[COT 2023-10-26 4h:7m:27] 76561199108250772: ESP target=BF_WindowBarricade<f082e4b0> action=built part=step_three required_materials=false
+[COT 2023-10-26 4h:7m:29] 76561199108250772: ESP target=BF_WindowBarricade<f082e4b0> action=built part=step_four required_materials=false
+[COT 2023-10-26 4h:7m:35] 76561199108250772: ESP target=BF_WindowBarricade<f267d8d0> action=built part=base required_materials=false
+[COT 2023-10-26 4h:7m:36] 76561199108250772: ESP target=BF_WindowBarricade<f267d8d0> action=built part=step_one required_materials=false
+[COT 2023-10-26 4h:7m:38] 76561199108250772: ESP target=BF_WindowBarricade<f267d8d0> action=built part=step_two required_materials=false
+[COT 2023-10-26 4h:7m:39] 76561199108250772: ESP target=BF_WindowBarricade<f267d8d0> action=built part=step_three required_materials=false
+[COT 2023-10-26 4h:7m:41] 76561199108250772: ESP target=BF_WindowBarricade<f267d8d0> action=built part=step_four required_materials=false
+[COT 2023-10-26 4h:7m:50] 76561199108250772: ESP target=BF_WindowBarricade<f30f48c0> action=built part=base required_materials=false
+[COT 2023-10-26 4h:7m:52] 76561199108250772: ESP target=BF_WindowBarricade<f30f48c0> action=built part=step_one required_materials=false
+[COT 2023-10-26 4h:7m:53] 76561199108250772: ESP target=BF_WindowBarricade<f30f48c0> action=built part=step_two required_materials=false
+[COT 2023-10-26 4h:7m:55] 76561199108250772: ESP target=BF_WindowBarricade<f30f48c0> action=built part=step_three required_materials=false
+[COT 2023-10-26 4h:7m:56] 76561199108250772: ESP target=BF_WindowBarricade<f30f48c0> action=built part=step_four required_materials=false
+[COT 2023-10-26 4h:8m:4s] 76561199108250772: ESP target=BF_WindowBarricade<f311a480> action=built part=base required_materials=false
+[COT 2023-10-26 4h:8m:5s] 76561199108250772: ESP target=BF_WindowBarricade<f311a480> action=built part=step_one required_materials=false
+[COT 2023-10-26 4h:8m:7s] 76561199108250772: ESP target=BF_WindowBarricade<f311a480> action=built part=step_two required_materials=false
+[COT 2023-10-26 4h:8m:8s] 76561199108250772: ESP target=BF_WindowBarricade<f311a480> action=built part=step_three required_materials=false
+[COT 2023-10-26 4h:8m:9s] 76561199108250772: ESP target=BF_WindowBarricade<f311a480> action=built part=step_four required_materials=false
+[COT 2023-10-26 4h:8m:16] 76561199108250772: ESP: Clearing ESP
+[COT 2023-10-26 4h:8m:25] 76561199108250772: Set GodMode To false [guid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=]
+[COT 2023-10-26 4h:8m:32] 76561199108250772: Spawned Entity Firewood (Firewood<f0c74170>, 1, 500, 0) at <3838.462158, 7.082585, 9234.288086>
+[COT 2023-10-26 4h:8m:32] 76561199108250772: Spawned Entity Firewood (Firewood<f0c75490>, 1, 500, 0) at <3838.428223, 7.259196, 9234.417969>
+[COT 2023-10-26 4h:8m:32] 76561199108250772: Spawned Entity Firewood (Firewood<ef3973e0>, 1, 500, 0) at <3838.394531, 7.435808, 9234.548828>
+[COT 2023-10-26 4h:8m:32] 76561199108250772: Spawned Entity Firewood (Firewood<ef388e60>, 1, 500, 0) at <3838.360840, 7.612419, 9234.679688>
+[COT 2023-10-26 4h:8m:33] 76561199108250772: Spawned Entity Firewood (Firewood<e0788da0>, 1, 500, 0) at <3838.327393, 7.789031, 9234.811523>
+[COT 2023-10-26 4h:8m:54] 76561199108250772: Spawned Entity Paper (Paper<f02b7d30>, 100, 15, 0) at <3838.426758, 7.082585, 9234.078125>
+[COT 2023-10-26 4h:10:31] 76561199108250772: Entered the Free Camera
+[COT 2023-10-26 4h:10:47] 76561199108250772: Left the Free Camera
+[COT 2023-10-26 4h:11:11] 76561199108250772: Entered the Free Camera
+[COT 2023-10-26 4h:11:21] 76561199108250772: Left the Free Camera
+[COT 2023-10-26 4h:11:54] 76561199108250772: Entered the Free Camera
+[COT 2023-10-26 4h:12:11] 76561199108250772: Left the Free Camera

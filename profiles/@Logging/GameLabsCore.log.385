@@ -1,0 +1,333 @@
+************************** 2023-12-26T11:00:12+00:00 **************************
+2023-12-26T11:00:12+00:00 | [INFO	] GameLabs v1.920 start for server 8cfa0bf0-f136-4471-b86d-4a226a4a57ad
+2023-12-26T11:00:15+00:00 | [INFO	] Server up (GameLabs v1.920)
+2023-12-26T11:00:15+00:00 | [INFO	] RPC interface initiated and handler registered
+2023-12-26T11:00:15+00:00 | [INFO	] Experimental speed check is enabled
+2023-12-26T12:00:15+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-12-26T12:00:15+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-12-26T12:00:15+00:00 | [WARN	] RegisterAsync re-authorized
+2023-12-26T12:54:50+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T12:54:55+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T13:00:15+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-12-26T13:00:15+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-12-26T13:00:15+00:00 | [WARN	] RegisterAsync re-authorized
+2023-12-26T14:00:15+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-12-26T14:00:15+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-12-26T14:00:15+00:00 | [WARN	] RegisterAsync re-authorized
+2023-12-26T14:55:35+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-12-26T14:55:35+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T14:55:35+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199407766611, distance=52.4529u, unitsPerSecond=20.9812 [threshold=8, inVehicle=0, triggers=1])
+2023-12-26T14:55:35+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T14:55:35+00:00 | [WARN	] ****************************************
+2023-12-26T14:55:45+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-12-26T14:55:45+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T14:55:45+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199407766611, distance=75.1492u, unitsPerSecond=30.0597 [threshold=8, inVehicle=0, triggers=2])
+2023-12-26T14:55:45+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T14:55:45+00:00 | [WARN	] ****************************************
+2023-12-26T14:56:32+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-12-26T14:56:32+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T14:56:32+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199407766611, distance=3111.66u, unitsPerSecond=1244.66 [threshold=8, inVehicle=0, triggers=3])
+2023-12-26T14:56:32+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T14:56:32+00:00 | [WARN	] ****************************************
+2023-12-26T14:56:37+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-12-26T14:56:37+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T14:56:37+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199407766611, distance=34.3442u, unitsPerSecond=13.7377 [threshold=8, inVehicle=0, triggers=4])
+2023-12-26T14:56:37+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T14:56:37+00:00 | [WARN	] ****************************************
+2023-12-26T15:00:16+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-12-26T15:00:16+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-12-26T15:00:16+00:00 | [WARN	] RegisterAsync re-authorized
+2023-12-26T15:02:32+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-12-26T15:02:32+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:02:32+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199407766611, distance=55.4882u, unitsPerSecond=22.1953 [threshold=8, inVehicle=0, triggers=5])
+2023-12-26T15:02:32+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:02:32+00:00 | [WARN	] ****************************************
+2023-12-26T15:02:47+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-12-26T15:02:47+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:02:47+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199407766611, distance=56.3482u, unitsPerSecond=22.5393 [threshold=8, inVehicle=0, triggers=6])
+2023-12-26T15:02:47+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:02:47+00:00 | [WARN	] ****************************************
+2023-12-26T15:07:42+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-12-26T15:07:42+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:07:42+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199407766611, distance=31.0407u, unitsPerSecond=12.4163 [threshold=8, inVehicle=0, triggers=7])
+2023-12-26T15:07:42+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:07:42+00:00 | [WARN	] ****************************************
+2023-12-26T15:07:55+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-12-26T15:07:55+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:07:55+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199407766611, distance=27.6332u, unitsPerSecond=11.0533 [threshold=8, inVehicle=0, triggers=8])
+2023-12-26T15:07:55+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:07:55+00:00 | [WARN	] ****************************************
+2023-12-26T15:09:05+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-12-26T15:09:05+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:09:05+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199407766611, distance=120.078u, unitsPerSecond=48.0312 [threshold=8, inVehicle=0, triggers=9])
+2023-12-26T15:09:05+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:09:05+00:00 | [WARN	] ****************************************
+2023-12-26T15:09:35+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-12-26T15:09:35+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:09:35+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199407766611, distance=81.2259u, unitsPerSecond=32.4904 [threshold=8, inVehicle=0, triggers=10])
+2023-12-26T15:09:35+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:09:35+00:00 | [WARN	] ****************************************
+2023-12-26T15:10:01+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T15:10:06+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T15:14:25+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-12-26T15:14:25+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:14:25+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199407766611, distance=148.483u, unitsPerSecond=59.3932 [threshold=8, inVehicle=0, triggers=11])
+2023-12-26T15:14:25+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:14:25+00:00 | [WARN	] ****************************************
+2023-12-26T15:17:42+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-12-26T15:17:42+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:17:42+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199407766611, distance=140.962u, unitsPerSecond=56.385 [threshold=8, inVehicle=0, triggers=12])
+2023-12-26T15:17:42+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:17:42+00:00 | [WARN	] ****************************************
+2023-12-26T15:17:47+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-12-26T15:17:47+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:17:47+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199407766611, distance=40.881u, unitsPerSecond=16.3524 [threshold=8, inVehicle=0, triggers=13])
+2023-12-26T15:17:47+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:17:47+00:00 | [WARN	] ****************************************
+2023-12-26T15:18:00+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-12-26T15:18:00+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:18:00+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199407766611, distance=22.9499u, unitsPerSecond=9.17997 [threshold=8, inVehicle=0, triggers=14])
+2023-12-26T15:18:00+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:18:00+00:00 | [WARN	] ****************************************
+2023-12-26T15:18:25+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-12-26T15:18:25+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:18:25+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199407766611, distance=3005.98u, unitsPerSecond=1202.39 [threshold=8, inVehicle=0, triggers=15])
+2023-12-26T15:18:25+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:18:25+00:00 | [WARN	] ****************************************
+2023-12-26T15:21:10+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-12-26T15:21:10+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:21:10+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199407766611, distance=54.5794u, unitsPerSecond=21.8318 [threshold=8, inVehicle=0, triggers=16])
+2023-12-26T15:21:10+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:21:10+00:00 | [WARN	] ****************************************
+2023-12-26T15:21:12+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-12-26T15:21:12+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:21:12+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199407766611, distance=59.2711u, unitsPerSecond=23.7085 [threshold=8, inVehicle=0, triggers=17])
+2023-12-26T15:21:12+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:21:12+00:00 | [WARN	] ****************************************
+2023-12-26T15:25:32+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-12-26T15:25:32+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:25:32+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199407766611, distance=3119.4u, unitsPerSecond=1247.76 [threshold=8, inVehicle=0, triggers=18])
+2023-12-26T15:25:32+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:25:32+00:00 | [WARN	] ****************************************
+2023-12-26T15:26:17+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-12-26T15:26:17+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:26:17+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199407766611, distance=553.371u, unitsPerSecond=221.349 [threshold=8, inVehicle=0, triggers=19])
+2023-12-26T15:26:17+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:26:17+00:00 | [WARN	] ****************************************
+2023-12-26T15:26:37+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-12-26T15:26:37+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:26:37+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199407766611, distance=24.6511u, unitsPerSecond=9.86043 [threshold=8, inVehicle=0, triggers=20])
+2023-12-26T15:26:37+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:26:37+00:00 | [WARN	] ****************************************
+2023-12-26T15:29:37+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-12-26T15:29:37+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:29:37+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199407766611, distance=3744.19u, unitsPerSecond=1497.68 [threshold=8, inVehicle=0, triggers=21])
+2023-12-26T15:29:37+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:29:37+00:00 | [WARN	] ****************************************
+2023-12-26T15:29:45+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-12-26T15:29:45+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:29:45+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199407766611, distance=57.8074u, unitsPerSecond=23.123 [threshold=8, inVehicle=0, triggers=22])
+2023-12-26T15:29:45+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:29:45+00:00 | [WARN	] ****************************************
+2023-12-26T15:29:47+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-12-26T15:29:47+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:29:47+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199407766611, distance=23.9324u, unitsPerSecond=9.57295 [threshold=8, inVehicle=0, triggers=23])
+2023-12-26T15:29:47+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:29:47+00:00 | [WARN	] ****************************************
+2023-12-26T15:35:05+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-12-26T15:35:05+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:35:05+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199407766611, distance=4357.9u, unitsPerSecond=1743.16 [threshold=8, inVehicle=0, triggers=24])
+2023-12-26T15:35:05+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:35:05+00:00 | [WARN	] ****************************************
+2023-12-26T15:35:17+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-12-26T15:35:17+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:35:17+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199407766611, distance=37.0907u, unitsPerSecond=14.8363 [threshold=8, inVehicle=0, triggers=25])
+2023-12-26T15:35:17+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:35:17+00:00 | [WARN	] ****************************************
+2023-12-26T15:35:20+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-12-26T15:35:20+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:35:20+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199407766611, distance=94.6674u, unitsPerSecond=37.867 [threshold=8, inVehicle=0, triggers=26])
+2023-12-26T15:35:20+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:35:20+00:00 | [WARN	] ****************************************
+2023-12-26T15:35:37+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-12-26T15:35:37+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:35:37+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199407766611, distance=147.848u, unitsPerSecond=59.1391 [threshold=8, inVehicle=0, triggers=27])
+2023-12-26T15:35:37+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:35:37+00:00 | [WARN	] ****************************************
+2023-12-26T15:36:00+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-12-26T15:36:00+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:36:00+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199407766611, distance=57.4729u, unitsPerSecond=22.9891 [threshold=8, inVehicle=0, triggers=28])
+2023-12-26T15:36:00+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:36:00+00:00 | [WARN	] ****************************************
+2023-12-26T15:36:45+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-12-26T15:36:45+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:36:45+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199407766611, distance=1246.07u, unitsPerSecond=498.428 [threshold=8, inVehicle=0, triggers=29])
+2023-12-26T15:36:45+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:36:45+00:00 | [WARN	] ****************************************
+2023-12-26T15:36:52+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-12-26T15:36:52+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:36:52+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199407766611, distance=45.2922u, unitsPerSecond=18.1169 [threshold=8, inVehicle=0, triggers=30])
+2023-12-26T15:36:52+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-26T15:36:52+00:00 | [WARN	] ****************************************
+2023-12-26T16:00:21+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-12-26T16:00:21+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-12-26T16:00:22+00:00 | [WARN	] RegisterAsync re-authorized
+2023-12-26T16:12:11+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:12:16+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:12:21+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:12:26+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:12:31+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:12:36+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:12:41+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:12:46+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:12:51+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:12:56+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:13:01+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:13:06+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:13:11+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:13:16+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:13:21+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:13:26+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:13:36+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:13:41+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:13:46+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:13:51+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:13:56+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:14:01+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:14:06+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:14:11+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:14:16+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:14:21+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:14:26+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:14:31+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:14:36+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:14:41+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:14:46+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:14:51+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:14:56+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:15:01+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:15:06+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:15:11+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:15:16+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:15:21+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:15:26+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:15:31+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:15:36+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:15:41+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:15:46+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:15:51+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:15:56+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:16:01+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:16:06+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:16:11+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:16:16+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:16:21+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:16:26+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:16:31+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:16:36+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:16:41+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:16:46+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:16:51+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:16:56+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:17:01+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:17:06+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:17:11+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:17:16+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:17:21+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:17:26+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:17:31+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:17:36+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:17:41+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:17:45+00:00 | [ERROR	] ServerPoll2 errorCode(6)
+2023-12-26T16:17:45+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-12-26T16:17:47+00:00 | [ERROR	] ServerPoll2 errorCode(6)
+2023-12-26T16:17:47+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-12-26T16:17:52+00:00 | [ERROR	] ServerPoll2 errorCode(6)
+2023-12-26T16:17:52+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-12-26T16:17:55+00:00 | [ERROR	] RegisterAsync errorCode(8)
+2023-12-26T16:17:55+00:00 | [ERROR	] RegisterAsync errorCode(6)
+2023-12-26T16:17:55+00:00 | [ERROR	] RegisterAsync errorCode(6)
+2023-12-26T16:17:56+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:17:56+00:00 | [ERROR	] ServerPoll2 errorCode(6)
+2023-12-26T16:17:56+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-12-26T16:17:57+00:00 | [ERROR	] RegisterAsync errorCode(6)
+2023-12-26T16:18:01+00:00 | [ERROR	] ServerPoll2 errorCode(6)
+2023-12-26T16:18:01+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-12-26T16:18:02+00:00 | [ERROR	] RegisterAsync errorCode(6)
+2023-12-26T16:18:06+00:00 | [ERROR	] ServerPoll2 errorCode(6)
+2023-12-26T16:18:06+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-12-26T16:18:07+00:00 | [ERROR	] RegisterAsync errorCode(6)
+2023-12-26T16:18:11+00:00 | [ERROR	] ServerPoll2 errorCode(6)
+2023-12-26T16:18:11+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-12-26T16:18:12+00:00 | [ERROR	] RegisterAsync errorCode(6)
+2023-12-26T16:18:16+00:00 | [ERROR	] ServerPoll2 errorCode(6)
+2023-12-26T16:18:16+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-12-26T16:18:17+00:00 | [ERROR	] RegisterAsync errorCode(6)
+2023-12-26T16:18:21+00:00 | [ERROR	] ServerPoll2 errorCode(6)
+2023-12-26T16:18:21+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-12-26T16:18:21+00:00 | [ERROR	] RegisterAsync errorCode(6)
+2023-12-26T16:18:26+00:00 | [ERROR	] ServerPoll2 errorCode(6)
+2023-12-26T16:18:26+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-12-26T16:18:26+00:00 | [ERROR	] RegisterAsync errorCode(6)
+2023-12-26T16:18:37+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-12-26T16:18:37+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-12-26T16:18:37+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-12-26T16:18:37+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-12-26T16:18:41+00:00 | [WARN	] RegisterAsync re-authorized
+2023-12-26T16:18:47+00:00 | [ERROR	] RegisterAsync errorCode(8)
+2023-12-26T16:20:31+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:20:36+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:20:41+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:20:46+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:20:51+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:20:56+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:21:01+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:21:06+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:21:11+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:21:16+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:21:21+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:21:26+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:21:31+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:21:36+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:21:41+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:21:46+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:21:51+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:21:56+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:22:01+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:22:06+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:22:11+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:22:16+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:22:21+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:22:26+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:22:31+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:22:36+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:22:41+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-26T16:22:43+00:00 | [ERROR	] ServerPoll2 errorCode(6)
+2023-12-26T16:22:43+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-12-26T16:22:44+00:00 | [ERROR	] RegisterAsync errorCode(6)
+2023-12-26T16:22:46+00:00 | [ERROR	] ServerPoll2 errorCode(6)
+2023-12-26T16:22:46+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-12-26T16:22:48+00:00 | [ERROR	] RegisterAsync errorCode(6)
+2023-12-26T16:22:51+00:00 | [ERROR	] ServerPoll2 errorCode(6)
+2023-12-26T16:22:51+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-12-26T16:22:52+00:00 | [ERROR	] RegisterAsync errorCode(6)
+2023-12-26T16:22:54+00:00 | [ERROR	] ServerPoll2 errorCode(6)
+2023-12-26T16:22:54+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-12-26T16:22:54+00:00 | [ERROR	] RegisterAsync errorCode(6)
+2023-12-26T16:22:56+00:00 | [ERROR	] ServerPoll2 errorCode(6)
+2023-12-26T16:22:56+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-12-26T16:22:57+00:00 | [ERROR	] RegisterAsync errorCode(6)
+2023-12-26T16:23:01+00:00 | [ERROR	] ServerPoll2 errorCode(6)
+2023-12-26T16:23:01+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-12-26T16:23:02+00:00 | [ERROR	] RegisterAsync errorCode(6)
+2023-12-26T16:23:06+00:00 | [ERROR	] ServerPoll2 errorCode(6)
+2023-12-26T16:23:06+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-12-26T16:23:07+00:00 | [ERROR	] RegisterAsync errorCode(6)
+2023-12-26T16:23:11+00:00 | [ERROR	] ServerPoll2 errorCode(6)
+2023-12-26T16:23:11+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-12-26T16:23:11+00:00 | [ERROR	] RegisterAsync errorCode(6)
+2023-12-26T16:23:17+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-12-26T16:23:17+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-12-26T16:23:19+00:00 | [WARN	] RegisterAsync re-authorized
+2023-12-26T16:59:57+00:00 | [INFO	] (Reporter) Disabled
+2023-12-26T16:59:57+00:00 | [INFO	] (Core) Attempting graceful exit

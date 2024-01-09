@@ -1,0 +1,29 @@
+************************** 2023-11-21T16:45:07+00:00 **************************
+2023-11-21T16:45:10+00:00 | [INFO	] Server up (GameLabs v1.910)
+2023-11-21T16:45:10+00:00 | [INFO	] Experimental speed check is enabled
+2023-11-21T17:45:10+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-11-21T17:45:10+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-11-21T17:45:11+00:00 | [WARN	] RegisterAsync re-authorized
+2023-11-21T18:45:11+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-11-21T18:45:11+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-11-21T18:45:11+00:00 | [WARN	] RegisterAsync re-authorized
+2023-11-21T19:45:16+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-11-21T19:45:16+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-11-21T19:45:16+00:00 | [WARN	] RegisterAsync re-authorized
+2023-11-21T20:45:16+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-11-21T20:45:16+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-11-21T20:45:16+00:00 | [WARN	] RegisterAsync re-authorized
+2023-11-21T21:45:21+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-11-21T21:45:21+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-11-21T21:45:21+00:00 | [WARN	] RegisterAsync re-authorized
+2023-11-21T22:45:21+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-11-21T22:45:21+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-11-21T22:45:21+00:00 | [WARN	] RegisterAsync re-authorized
+2023-11-21T23:45:28+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-11-21T23:45:28+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-11-21T23:45:28+00:00 | [WARN	] RegisterAsync re-authorized
+2023-11-22T00:45:33+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-11-22T00:45:33+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-11-22T00:45:33+00:00 | [WARN	] RegisterAsync re-authorized
+2023-11-22T00:46:38+00:00 | [INFO	] (Reporter) Disabled
+2023-11-22T00:46:38+00:00 | [INFO	] (Core) Attempting graceful exit

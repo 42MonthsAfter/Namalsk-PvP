@@ -1,0 +1,47 @@
+************************** 2023-12-06T11:00:16+00:00 **************************
+2023-12-06T11:00:19+00:00 | [INFO	] Server up (GameLabs v1.910)
+2023-12-06T11:00:19+00:00 | [INFO	] Experimental speed check is enabled
+2023-12-06T12:00:20+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-12-06T12:00:20+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-12-06T12:00:20+00:00 | [WARN	] RegisterAsync re-authorized
+2023-12-06T13:00:25+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-12-06T13:00:25+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-12-06T13:00:25+00:00 | [WARN	] RegisterAsync re-authorized
+2023-12-06T14:00:30+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-12-06T14:00:30+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-12-06T14:00:30+00:00 | [WARN	] RegisterAsync re-authorized
+2023-12-06T14:10:41+00:00 | [WARN	] [Spawn] Spawning WoodenLog (x8) for SurvivorBase<f3768030>
+2023-12-06T14:11:46+00:00 | [WARN	] [Spawn] Spawning HandSaw (x1) for SurvivorBase<f3768030>
+2023-12-06T14:33:56+00:00 | [WARN	] [Teleport] SurvivorBase<f3768030> position=0x0000000023386c30 {<6535.17,25.3119,9112.54>}
+2023-12-06T14:33:58+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-12-06T14:33:58+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-06T14:33:58+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198369601190, distance=25.3119u, unitsPerSecond=10.1248 [threshold=8, inVehicle=0, triggers=1])
+2023-12-06T14:33:58+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-06T14:33:58+00:00 | [WARN	] ****************************************
+2023-12-06T14:35:51+00:00 | [WARN	] [Teleport] SurvivorBase<f3768030> position=0x000000004bc20250 {<7319.02,223.942,6945.75>}
+2023-12-06T14:35:53+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-12-06T14:35:53+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-06T14:35:53+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198369601190, distance=223.942u, unitsPerSecond=89.5767 [threshold=8, inVehicle=0, triggers=2])
+2023-12-06T14:35:53+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-12-06T14:35:53+00:00 | [WARN	] ****************************************
+2023-12-06T14:38:11+00:00 | [WARN	] [Heal] SurvivorBase<f3768030>
+2023-12-06T15:00:31+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-12-06T15:00:31+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-12-06T15:00:32+00:00 | [WARN	] RegisterAsync re-authorized
+2023-12-06T15:08:36+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-06T15:08:41+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-06T15:08:46+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-06T15:08:51+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-06T15:08:56+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-06T15:09:01+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-06T15:09:06+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-06T15:09:11+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-12-06T15:10:36+00:00 | [WARN	] [Teleport] SurvivorBase<f3768030> position=0x000000004bc20250 {<6718.19,15.3365,11070.9>}
+2023-12-06T15:15:46+00:00 | [WARN	] [Teleport] SurvivorBase<f3768030> position=0x000000004bc20250 {<6729.04,15.0944,11183.8>}
+2023-12-06T15:16:06+00:00 | [WARN	] [Teleport] SurvivorBase<f3768030> position=0x000000004bc20250 {<6717.04,15.2,11197.8>}
+2023-12-06T15:33:01+00:00 | [WARN	] [Heal] SurvivorBase<f3768030>
+2023-12-06T16:00:31+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-12-06T16:00:31+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-12-06T16:00:32+00:00 | [WARN	] RegisterAsync re-authorized
+2023-12-06T16:59:59+00:00 | [INFO	] (Reporter) Disabled
+2023-12-06T16:59:59+00:00 | [INFO	] (Core) Attempting graceful exit

@@ -1,0 +1,212 @@
+[COT 2023-10-22 3h:2m:5s] 76561198036774377: Deleted Entity Pot:07638 at <6507.113770, 3.705392, 8523.906250>
+[COT 2023-10-22 3h:2m:27] 76561198036774377: Deleted Entity FBF_FireplaceIgnited:07637 at <6507.112793, 3.098726, 8523.903320>
+[COT 2023-10-22 3h:2m:46] 76561198036774377: Spawned Entity Campfire (FBF_FireplaceIgnited<9d35bfe0>, 100, 100, 0) at <6505.030273, 2.945558, 8526.490234>
+[COT 2023-10-22 3h:12:4s] 76561199108250772: Spawned Entity Hand Saw (HandSaw<b847a560>, 100, 100, 0) at <8171.416992, 15.880015, 10883.970703>
+[COT 2023-10-22 3h:12:6s] 76561199108250772: Spawned Entity Hand Saw (HandSaw<b2aea860>, 100, 100, 0) at <8171.448730, 15.940197, 10884.006836>
+[COT 2023-10-22 3h:12:35] 76561199108250772: Spawned Entity Firewood (Firewood<b88e5a10>, 1, 500, 0) at <8174.868164, 15.885834, 10883.616211>
+[COT 2023-10-22 3h:12:35] 76561199108250772: Spawned Entity Firewood (Firewood<b88fcf00>, 1, 500, 0) at <8174.853027, 16.062447, 10883.684570>
+[COT 2023-10-22 3h:13:12] 76561199108250772: Spawned Entity Firewood (Firewood<b82da340>, 1, 500, 0) at <8174.897461, 15.885834, 10883.757813>
+[COT 2023-10-22 3h:13:12] 76561199108250772: Spawned Entity Firewood (Firewood<b82d3a10>, 1, 500, 0) at <8174.903809, 16.061258, 10883.895508>
+[COT 2023-10-22 3h:13:12] 76561199108250772: Spawned Entity Firewood (Firewood<b82e02e0>, 1, 500, 0) at <8174.909180, 16.228155, 10884.026367>
+[COT 2023-10-22 3h:14:1s] 76561199108250772: Spawned Entity Plank (WoodenPlank<b42322a0>, 10, 100, 0) at <8166.735840, 15.180006, 10880.335938>
+[COT 2023-10-22 3h:14:20] 76561199108250772: Spawned Entity Nails (Nail<b64b9cc0>, 99, 80, 0) at <8167.365234, 15.180002, 10880.156250>
+[COT 2023-10-22 3h:14:34] 76561199108250772: Spawned Entity Hammer (Hammer<b0c7aab0>, 100, 100, 0) at <8167.850098, 15.183506, 10879.977539>
+[COT 2023-10-22 3h:15:12] 76561199108250772: ESP: Viewing ESP
+[COT 2023-10-22 3h:15:20] 76561199108250772: ESP target=Fence<b7e75d10> action=built part=wall_metal_up required_materials=false
+[COT 2023-10-22 3h:15:34] 76561199108250772: ESP target=Fence<b7e75d10> action=built part=wall_wood_down required_materials=false
+[COT 2023-10-22 3h:15:42] 76561199108250772: ESP: Clearing ESP
+[COT 2023-10-22 3h:16:1s] 76561199108250772: Spawned Entity Plank (WoodenPlank<ac735890>, 10, 100, 0) at <8174.398926, 15.880016, 10886.883789>
+[COT 2023-10-22 3h:16:9s] 76561199108250772: Spawned Entity Nails (Nail<b493b270>, 99, 80, 0) at <8174.320801, 16.029322, 10886.858398>
+[COT 2023-10-22 3h:17:46] 76561199108250772: Spawned Entity Firewood (Firewood<b679c3f0>, 1, 500, 0) at <8175.514648, 15.885834, 10883.914063>
+[COT 2023-10-22 3h:17:46] 76561199108250772: Spawned Entity Firewood (Firewood<b6798100>, 1, 500, 0) at <8175.549805, 16.062445, 10883.918945>
+[COT 2023-10-22 3h:17:46] 76561199108250772: Spawned Entity Firewood (Firewood<b6798a90>, 1, 500, 0) at <8175.584961, 16.239056, 10883.922852>
+[COT 2023-10-22 3h:17:53] 76561199108250772: Spawned Entity Fireworks Launcher (FireworksLauncher<99754fe0>, 100, 30, 0) at <8169.692383, 15.880015, 10884.203125>
+[COT 2023-10-22 3h:20:47] 76561199108250772: Set UnlimitedAmmo To true [guid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=]
+[COT 2023-10-22 3h:21:0s] 76561199108250772: Spawned Entity 60rd Standardized Mag (Mag_STANAG_60Rnd<b4a5e530>, 60, 100, 0) at <8170.462402, 16.358521, 10885.397461>
+[COT 2023-10-22 3h:27:56] 76561199108250772: ESP: Viewing ESP
+[COT 2023-10-22 3h:28:3s] 76561199108250772: ESP target=Fence<b7e75d10> action=built part=wall_gate required_materials=false
+[COT 2023-10-22 3h:28:23] 76561199108250772: ESP index=0 target=Fence:09876 position=<8167.555664, 15.179992, 10880.786133> action=delete
+[COT 2023-10-22 3h:28:23] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2023-10-22 3h:28:58] 76561199108250772: Spawned Entity Rope (Rope<b4830130>, 100, 200, 0) at <8178.864746, 15.179968, 10877.102539>
+[COT 2023-10-22 3h:29:9s] 76561199108250772: Spawned Entity Plank (WoodenPlank<b2d90e60>, 10, 100, 0) at <8179.280273, 15.179636, 10877.212891>
+[COT 2023-10-22 3h:29:19] 76561199108250772: Spawned Entity Short Stick (WoodenStick<b2d84590>, 5, 50, 0) at <8179.166504, 15.274002, 10877.108398>
+[COT 2023-10-22 3h:29:44] 76561199108250772: Spawned Entity Nails (Nail<af343500>, 99, 80, 0) at <8179.848145, 15.178243, 10877.526367>
+[COT 2023-10-22 3h:31:1s] 76561199108250772: ESP: Clearing ESP
+[COT 2023-10-22 3h:31:6s] 76561199108250772: ESP: Viewing ESP
+[COT 2023-10-22 3h:31:10] 76561199108250772: ESP target=Fence<a6d12860> action=built part=base required_materials=false
+[COT 2023-10-22 3h:31:13] 76561199108250772: ESP target=Fence<a6d12860> action=built part=wall_base_down required_materials=false
+[COT 2023-10-22 3h:31:16] 76561199108250772: ESP target=Fence<a6d12860> action=built part=wall_wood_down required_materials=false
+[COT 2023-10-22 3h:31:19] 76561199108250772: ESP target=Fence<a6d12860> action=built part=wall_base_up required_materials=false
+[COT 2023-10-22 3h:31:21] 76561199108250772: ESP target=Fence<a6d12860> action=built part=wall_gate required_materials=false
+[COT 2023-10-22 3h:31:24] 76561199108250772: ESP target=Fence<a6d12860> action=built part=wall_wood_up required_materials=false
+[COT 2023-10-22 3h:31:43] 76561199108250772: ESP: Clearing ESP
+[COT 2023-10-22 3h:31:55] 76561199108250772: Spawned Entity CodeLock (CodeLock<b4944b70>, 100, 1500, 0) at <8179.532715, 15.180000, 10875.562500>
+[COT 2023-10-22 3h:32:30] 76561199108250772: Spawned Entity Fence Kit (FenceKit<b3871cb0>, 100, 200, 0) at <8176.712891, 15.180002, 10878.006836>
+[COT 2023-10-22 3h:32:31] 76561199108250772: Spawned Entity Fence Kit (FenceKit<aed3cb30>, 100, 200, 0) at <8176.732910, 15.281491, 10877.915039>
+[COT 2023-10-22 3h:32:31] 76561199108250772: Spawned Entity Fence Kit (FenceKit<aed391d0>, 100, 200, 0) at <8176.751953, 15.395214, 10877.813477>
+[COT 2023-10-22 3h:32:31] 76561199108250772: Spawned Entity Fence Kit (FenceKit<b7104830>, 100, 200, 0) at <8176.774414, 15.528719, 10877.694336>
+[COT 2023-10-22 3h:32:32] 76561199108250772: Spawned Entity Fence Kit (FenceKit<82a46ce0>, 100, 200, 0) at <8176.796875, 15.659905, 10877.580078>
+[COT 2023-10-22 3h:32:32] 76561199108250772: Spawned Entity Fence Kit (FenceKit<b4815c70>, 100, 200, 0) at <8176.810059, 15.735772, 10877.513672>
+[COT 2023-10-22 3h:32:55] 76561199108250772: ESP: Viewing ESP
+[COT 2023-10-22 3h:33:0s] 76561199108250772: ESP target=Fence<b13252a0> action=built part=base required_materials=false
+[COT 2023-10-22 3h:33:4s] 76561199108250772: ESP target=Fence<b13252a0> action=built part=wall_base_down required_materials=false
+[COT 2023-10-22 3h:33:9s] 76561199108250772: ESP target=Fence<b13252a0> action=built part=wall_wood_down required_materials=false
+[COT 2023-10-22 3h:33:12] 76561199108250772: ESP target=Fence<b13252a0> action=built part=wall_base_up required_materials=false
+[COT 2023-10-22 3h:33:13] 76561199108250772: ESP target=Fence<b13252a0> action=built part=wall_gate required_materials=false
+[COT 2023-10-22 3h:33:16] 76561199108250772: ESP target=Fence<b13252a0> action=built part=wall_wood_up required_materials=false
+[COT 2023-10-22 3h:33:29] 76561199108250772: ESP index=0 target=Fence:08748 position=<8175.397949, 15.179950, 10878.856445> action=delete
+[COT 2023-10-22 3h:33:29] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2023-10-22 3h:34:13] 76561199108250772: ESP: Clearing ESP
+[COT 2023-10-22 3h:34:13] 76561199108250772: ESP: Viewing ESP
+[COT 2023-10-22 3h:34:17] 76561199108250772: ESP target=Fence<b1324890> action=built part=base required_materials=false
+[COT 2023-10-22 3h:34:20] 76561199108250772: ESP target=Fence<b1324890> action=built part=wall_base_down required_materials=false
+[COT 2023-10-22 3h:34:25] 76561199108250772: ESP target=Fence<b1324890> action=built part=wall_platform required_materials=false
+[COT 2023-10-22 3h:34:27] 76561199108250772: ESP target=Fence<b1324890> action=built part=wall_metal_down required_materials=false
+[COT 2023-10-22 3h:34:29] 76561199108250772: ESP target=Fence<b1324890> action=built part=wall_base_up required_materials=false
+[COT 2023-10-22 3h:34:30] 76561199108250772: ESP target=Fence<b1324890> action=built part=wall_platform_stairs_left required_materials=false
+[COT 2023-10-22 3h:34:31] 76561199108250772: ESP target=Fence<b1324890> action=built part=wall_wood_up required_materials=false
+[COT 2023-10-22 3h:34:34] 76561199108250772: ESP target=Fence<b1324890> action=built part=wall_platform_stairs_right required_materials=false
+[COT 2023-10-22 3h:34:48] 76561199108250772: ESP: Clearing ESP
+[COT 2023-10-22 3h:35:22] 76561199108250772: ESP: Viewing ESP
+[COT 2023-10-22 3h:35:25] 76561199108250772: ESP target=Fence<b2a2aba0> action=built part=base required_materials=false
+[COT 2023-10-22 3h:35:30] 76561199108250772: ESP target=Fence<b2a2aba0> action=built part=wall_platform required_materials=false
+[COT 2023-10-22 3h:35:32] 76561199108250772: ESP target=Fence<b2a2aba0> action=built part=wall_platform_stairs_left required_materials=false
+[COT 2023-10-22 3h:35:33] 76561199108250772: ESP target=Fence<b2a2aba0> action=built part=wall_base_up required_materials=false
+[COT 2023-10-22 3h:35:35] 76561199108250772: ESP target=Fence<b2a2aba0> action=built part=wall_wood_up required_materials=false
+[COT 2023-10-22 3h:35:36] 76561199108250772: ESP target=Fence<b2a2aba0> action=built part=wall_platform_stairs_right required_materials=false
+[COT 2023-10-22 3h:35:37] 76561199108250772: ESP target=Fence<b2a2aba0> action=built part=wall_base_down required_materials=false
+[COT 2023-10-22 3h:35:39] 76561199108250772: ESP target=Fence<b2a2aba0> action=built part=wall_wood_down required_materials=false
+[COT 2023-10-22 3h:35:51] 76561199108250772: ESP: Clearing ESP
+[COT 2023-10-22 3h:36:24] 76561199108250772: ESP: Viewing ESP
+[COT 2023-10-22 3h:36:28] 76561199108250772: ESP target=Fence<b2a25b20> action=built part=base required_materials=false
+[COT 2023-10-22 3h:36:39] 76561199108250772: ESP: Clearing ESP
+[COT 2023-10-22 3h:37:9s] 76561199108250772: Spawned Entity Nails (Nail<b15f0ae0>, 99, 80, 0) at <8168.399414, 15.612621, 10880.557617>
+[COT 2023-10-22 3h:37:23] 76561199108250772: Spawned Entity Plank (WoodenPlank<ac71b3d0>, 10, 100, 0) at <8168.535645, 15.680666, 10880.627930>
+[COT 2023-10-22 3h:37:41] 76561199108250772: Spawned Entity Hammer (Hammer<aed52370>, 100, 100, 0) at <8167.603027, 15.180000, 10880.851563>
+[COT 2023-10-22 3h:37:42] 76561198036774377: Spawned Entity Jeans (Jeans_BlueDark<aed5cf90>, 100, 110, 0) on 76561198036774377
+[COT 2023-10-22 3h:37:53] 76561198036774377: Spawned Entity Tool Hoodie (Hoodie_ColorBase<aed2ef40>, 100, 100, 0) on 76561198036774377
+[COT 2023-10-22 3h:38:4s] 76561199108250772: ESP: Viewing ESP
+[COT 2023-10-22 3h:38:12] 76561199108250772: ESP target=Fence<b2a25b20> action=built part=wall_base_down required_materials=false
+[COT 2023-10-22 3h:38:16] 76561198036774377: Spawned Entity Radar Cap (RadarCap_Black<b35137f0>, 100, 40, 0) on 76561198036774377
+[COT 2023-10-22 3h:38:26] 76561198036774377: Spawned Entity MVS Combat Belt - Black (Modular_Belt_Base<b0c5d620>, 100, 100, 0) on 76561198036774377
+[COT 2023-10-22 3h:38:41] 76561198036774377: Spawned Entity Classic Glasses (ThickFramesGlasses<b830ffe0>, 100, 50, 0) on 76561198036774377
+[COT 2023-10-22 3h:38:58] 76561198036774377: Spawned Entity MVS Facemask - Black (BalaclavaMask_ColorBase<b147ff90>, 150, 100, 0) on 76561198036774377
+[COT 2023-10-22 3h:39:2s] 76561199108250772: ESP: Clearing ESP
+[COT 2023-10-22 3h:39:7s] 76561198036774377: Spawned Entity MVS Canteen - Black (Canteen<ae9069c0>, 1000, 100, 1) on 76561198036774377
+[COT 2023-10-22 3h:39:14] 76561199108250772: Spawned Entity Plank (WoodenPlank<b6c0b380>, 10, 100, 0) at <8169.099609, 15.926474, 10880.439453>
+[COT 2023-10-22 3h:39:14] 76561198036774377: Spawned Entity MVS Magazine Pouch - Black (MVS_Pouch_Base<b3269150>, 1000, 100, 0) on 76561198036774377
+[COT 2023-10-22 3h:39:20] 76561198036774377: Spawned Entity MVS Raid Pouch - Black (Modular_Pouch_Base_Taco<b15fca20>, 1000, 100, 0) on 76561198036774377
+[COT 2023-10-22 3h:39:29] 76561198036774377: Spawned Entity MVS Medical Pouch - Black (MVS_Pouch_Base<b848d760>, 1000, 100, 0) on 76561198036774377
+[COT 2023-10-22 3h:40:24] 76561199108250772: Entered the Free Camera
+[COT 2023-10-22 3h:40:27] 76561199108250772: Left the Free Camera
+[COT 2023-10-22 3h:40:42] 76561199108250772: ESP: Viewing ESP
+[COT 2023-10-22 3h:40:47] 76561199108250772: ESP target=Fence<b6ad0470> action=built part=base required_materials=false
+[COT 2023-10-22 3h:40:54] 76561199108250772: ESP target=Fence<b6ad0470> action=built part=wall_base_down required_materials=false
+[COT 2023-10-22 3h:40:57] 76561199108250772: ESP target=Fence<b6ad0470> action=built part=wall_wood_down required_materials=false
+[COT 2023-10-22 3h:41:0s] 76561199108250772: ESP target=Fence<b6ad0470> action=built part=wall_base_up required_materials=false
+[COT 2023-10-22 3h:41:3s] 76561199108250772: ESP target=Fence<b6ad0470> action=built part=wall_wood_up required_materials=false
+[COT 2023-10-22 3h:41:12] 76561199108250772: ESP: Clearing ESP
+[COT 2023-10-22 3h:41:49] 76561199108250772: ESP: Viewing ESP
+[COT 2023-10-22 3h:42:0s] 76561199108250772: ESP target=Fence<99762330> action=built part=base required_materials=false
+[COT 2023-10-22 3h:42:1s] 76561199108250772: ESP target=Fence<99762330> action=built part=wall_base_down required_materials=false
+[COT 2023-10-22 3h:42:3s] 76561199108250772: ESP target=Fence<99762330> action=built part=wall_wood_down required_materials=false
+[COT 2023-10-22 3h:42:5s] 76561199108250772: ESP target=Fence<99762330> action=built part=wall_base_up required_materials=false
+[COT 2023-10-22 3h:42:9s] 76561199108250772: ESP target=Fence<99762330> action=built part=wall_wood_up required_materials=false
+[COT 2023-10-22 3h:42:12] 76561199108250772: ESP target=Fence<99762330> action=built part=wall_platform required_materials=false
+[COT 2023-10-22 3h:42:23] 76561199108250772: ESP index=0 target=Fence:08651 position=<8168.724609, 15.630020, 10888.004883> action=delete
+[COT 2023-10-22 3h:42:23] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2023-10-22 3h:42:27] 76561199108250772: ESP: Clearing ESP
+[COT 2023-10-22 3h:42:37] 76561199108250772: Spawned Entity Fence Kit (FenceKit<b7bc2b20>, 100, 200, 0) at <8167.055176, 15.165138, 10890.544922>
+[COT 2023-10-22 3h:42:38] 76561199108250772: Spawned Entity Fence Kit (FenceKit<b7bcd740>, 100, 200, 0) at <8167.001953, 15.265730, 10890.574219>
+[COT 2023-10-22 3h:42:38] 76561199108250772: Spawned Entity Fence Kit (FenceKit<b7bd5d20>, 100, 200, 0) at <8166.928711, 15.407079, 10890.611328>
+[COT 2023-10-22 3h:42:39] 76561199108250772: Spawned Entity Fence Kit (FenceKit<b7a58b20>, 100, 200, 0) at <8166.870117, 15.519207, 10890.642578>
+[COT 2023-10-22 3h:42:47] 76561198036774377: Set GodMode To true [guid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=]
+[COT 2023-10-22 3h:42:49] 76561198036774377: Set UnlimitedStamina To true [guid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=]
+[COT 2023-10-22 3h:42:50] 76561198036774377: Set UnlimitedAmmo To true [guid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=]
+[COT 2023-10-22 3h:43:2s] 76561198036774377: Spawned Entity Model 500 Competitor (SNAFUMagnum500<9baa6630>, 100, 200, 0) on 76561198036774377
+[COT 2023-10-22 3h:43:9s] 76561198036774377: Spawned Entity MVS Holster - Black (PlateCarrierHolster<b815d320>, 100, 100, 0) on 76561198036774377
+[COT 2023-10-22 3h:43:30] 76561199108250772: ESP: Viewing ESP
+[COT 2023-10-22 3h:43:35] 76561199108250772: ESP target=Fence<b6ac6d80> action=built part=base required_materials=false
+[COT 2023-10-22 3h:43:37] 76561199108250772: ESP target=Fence<b6ac6d80> action=built part=wall_base_down required_materials=false
+[COT 2023-10-22 3h:43:41] 76561198036774377: Spawned Entity 500 SW Ammo (Ammunition_Base<a71a8ce0>, 40, 100, 0) on 76561198036774377
+[COT 2023-10-22 3h:43:41] 76561199108250772: ESP target=Fence<b6ac6d80> action=built part=wall_base_up required_materials=false
+[COT 2023-10-22 3h:43:43] 76561199108250772: ESP target=Fence<b6ac6d80> action=built part=wall_gate required_materials=false
+[COT 2023-10-22 3h:43:45] 76561199108250772: ESP target=Fence<b6ac6d80> action=dismantle part=wall_gate
+[COT 2023-10-22 3h:43:47] 76561199108250772: ESP target=Fence<b6ac6d80> action=built part=wall_gate required_materials=false
+[COT 2023-10-22 3h:43:51] 76561199108250772: ESP target=Fence<b6ac6d80> action=dismantle part=wall_gate
+[COT 2023-10-22 3h:43:52] 76561199108250772: ESP target=Fence<b6ac6d80> action=built part=wall_metal_down required_materials=false
+[COT 2023-10-22 3h:43:53] 76561198036774377: Spawned Entity Bandage (BandageDressing<a71aa000>, 4, 50, 0) on 76561198036774377
+[COT 2023-10-22 3h:43:54] 76561199108250772: ESP target=Fence<b6ac6d80> action=built part=wall_platform required_materials=false
+[COT 2023-10-22 3h:43:57] 76561199108250772: ESP target=Fence<b6ac6d80> action=built part=wall_wood_up required_materials=false
+[COT 2023-10-22 3h:44:4s] 76561198036774377: Spawned Entity Morphine Auto-Injector (Morphine<a71b7260>, 4, 50, 0) on 76561198036774377
+[COT 2023-10-22 3h:44:6s] 76561199108250772: ESP: Clearing ESP
+[COT 2023-10-22 3h:44:27] 76561199108250772: ESP: Viewing ESP
+[COT 2023-10-22 3h:44:31] 76561199108250772: ESP target=Fence<b459e4b0> action=built part=base required_materials=false
+[COT 2023-10-22 3h:44:33] 76561199108250772: ESP target=Fence<b459e4b0> action=built part=wall_base_down required_materials=false
+[COT 2023-10-22 3h:44:35] 76561199108250772: ESP target=Fence<b459e4b0> action=built part=wall_wood_down required_materials=false
+[COT 2023-10-22 3h:44:38] 76561198036774377: Spawned Entity MVS Sheath - Black (NylonKnifeSheath<a71d9370>, 100, 100, 0) on 76561198036774377
+[COT 2023-10-22 3h:44:40] 76561199108250772: ESP target=Fence<b459e4b0> action=built part=wall_base_up required_materials=false
+[COT 2023-10-22 3h:44:42] 76561199108250772: ESP target=Fence<b459e4b0> action=built part=wall_wood_up required_materials=false
+[COT 2023-10-22 3h:44:45] 76561198036774377: Spawned Entity Kabar (SNAFU_Kabar<a71db9b0>, 100, 150, 0) on 76561198036774377
+[COT 2023-10-22 3h:44:47] 76561199108250772: ESP: Clearing ESP
+[COT 2023-10-22 3h:45:10] 76561198036774377: Spawned Entity Tetracycline Pills (TetracyclineAntibiotics<b4de8280>, 12, 30, 0) on 76561198036774377
+[COT 2023-10-22 3h:45:15] 76561199108250772: ESP: Viewing ESP
+[COT 2023-10-22 3h:45:19] 76561199108250772: ESP target=Fence<b6ad1890> action=built part=base required_materials=false
+[COT 2023-10-22 3h:45:20] 76561199108250772: ESP target=Fence<b6ad1890> action=built part=wall_base_down required_materials=false
+[COT 2023-10-22 3h:45:22] 76561199108250772: ESP target=Fence<b6ad1890> action=built part=wall_base_up required_materials=false
+[COT 2023-10-22 3h:45:26] 76561199108250772: ESP target=Fence<b6ad1890> action=built part=wall_gate required_materials=false
+[COT 2023-10-22 3h:45:28] 76561199108250772: ESP target=Fence<b6ad1890> action=dismantle part=wall_gate
+[COT 2023-10-22 3h:45:30] 76561199108250772: ESP target=Fence<b6ad1890> action=built part=wall_gate required_materials=false
+[COT 2023-10-22 3h:45:31] 76561199108250772: ESP target=Fence<b6ad1890> action=dismantle part=wall_gate
+[COT 2023-10-22 3h:45:32] 76561199108250772: ESP target=Fence<b6ad1890> action=built part=wall_wood_down required_materials=false
+[COT 2023-10-22 3h:45:34] 76561199108250772: ESP target=Fence<b6ad1890> action=built part=wall_gate required_materials=false
+[COT 2023-10-22 3h:45:36] 76561199108250772: ESP target=Fence<b6ad1890> action=dismantle part=wall_gate
+[COT 2023-10-22 3h:45:38] 76561199108250772: ESP target=Fence<b6ad1890> action=built part=wall_wood_up required_materials=false
+[COT 2023-10-22 3h:45:40] 76561199108250772: ESP target=Fence<b6ad1890> action=built part=wall_platform required_materials=false
+[COT 2023-10-22 3h:45:49] 76561199108250772: ESP: Clearing ESP
+[COT 2023-10-22 3h:46:15] 76561199108250772: ESP: Viewing ESP
+[COT 2023-10-22 3h:46:17] 76561199108250772: ESP target=Fence<9975e6d0> action=built part=base required_materials=false
+[COT 2023-10-22 3h:46:19] 76561199108250772: ESP target=Fence<9975e6d0> action=built part=wall_base_down required_materials=false
+[COT 2023-10-22 3h:46:21] 76561199108250772: ESP target=Fence<9975e6d0> action=built part=wall_base_up required_materials=false
+[COT 2023-10-22 3h:46:23] 76561199108250772: ESP target=Fence<9975e6d0> action=built part=wall_wood_up required_materials=false
+[COT 2023-10-22 3h:46:27] 76561199108250772: ESP target=Fence<9975e6d0> action=built part=wall_wood_down required_materials=false
+[COT 2023-10-22 3h:46:30] 76561199108250772: ESP: Clearing ESP
+[COT 2023-10-22 3h:46:52] 76561199108250772: ESP: Viewing ESP
+[COT 2023-10-22 3h:46:56] 76561199108250772: ESP target=Fence<e780fa60> action=built part=base required_materials=false
+[COT 2023-10-22 3h:46:57] 76561199108250772: ESP target=Fence<e780fa60> action=built part=wall_base_down required_materials=false
+[COT 2023-10-22 3h:46:59] 76561199108250772: ESP target=Fence<e780fa60> action=built part=wall_base_up required_materials=false
+[COT 2023-10-22 3h:47:1s] 76561199108250772: ESP target=Fence<e780fa60> action=built part=wall_wood_up required_materials=false
+[COT 2023-10-22 3h:47:4s] 76561199108250772: ESP target=Fence<e780fa60> action=built part=wall_gate required_materials=false
+[COT 2023-10-22 3h:47:5s] 76561199108250772: ESP target=Fence<e780fa60> action=dismantle part=wall_gate
+[COT 2023-10-22 3h:47:7s] 76561199108250772: ESP target=Fence<e780fa60> action=built part=wall_wood_down required_materials=false
+[COT 2023-10-22 3h:47:10] 76561199108250772: ESP: Clearing ESP
+[COT 2023-10-22 3h:47:27] 76561199108250772: Spawned Entity Fence Kit (FenceKit<b6ff9d40>, 100, 200, 0) at <8184.048828, 15.165919, 10881.001953>
+[COT 2023-10-22 3h:47:45] 76561199108250772: ESP: Viewing ESP
+[COT 2023-10-22 3h:47:50] 76561199108250772: ESP target=Fence<b2a4acd0> action=built part=base required_materials=false
+[COT 2023-10-22 3h:47:51] 76561199108250772: ESP target=Fence<b2a4acd0> action=built part=wall_base_down required_materials=false
+[COT 2023-10-22 3h:47:53] 76561199108250772: ESP target=Fence<b2a4acd0> action=built part=wall_base_up required_materials=false
+[COT 2023-10-22 3h:47:56] 76561199108250772: ESP target=Fence<b2a4acd0> action=built part=wall_wood_down required_materials=false
+[COT 2023-10-22 3h:47:58] 76561199108250772: ESP target=Fence<b2a4acd0> action=built part=wall_gate required_materials=false
+[COT 2023-10-22 3h:48:0s] 76561199108250772: ESP target=Fence<b2a4acd0> action=dismantle part=wall_gate
+[COT 2023-10-22 3h:48:3s] 76561199108250772: ESP target=Fence<b2a4acd0> action=built part=wall_wood_up required_materials=false
+[COT 2023-10-22 3h:48:5s] 76561199108250772: ESP target=Fence<b2a4acd0> action=built part=wall_platform required_materials=false
+[COT 2023-10-22 3h:48:7s] 76561199108250772: ESP target=Fence<b2a4acd0> action=built part=wall_platform_stairs_left required_materials=false
+[COT 2023-10-22 3h:48:13] 76561199108250772: ESP: Clearing ESP
+[COT 2023-10-22 3h:48:21] 76561199108250772: Entered the Free Camera
+[COT 2023-10-22 3h:48:34] 76561199108250772: Left the Free Camera
+[COT 2023-10-22 3h:49:0s] 76561199108250772: Spawned Entity Fire Barrel (BarrelHoles_Yellow<3aecee60>, 200000, 900, 0) at <8178.595215, 15.694281, 10887.595703>
+[COT 2023-10-22 3h:49:53] 76561199108250772: Spawned Entity Firewood (Firewood<b81437f0>, 1, 500, 0) at <8178.258789, 15.694281, 10887.109375>
+[COT 2023-10-22 3h:49:53] 76561199108250772: Spawned Entity Firewood (Firewood<b8311c90>, 1, 500, 0) at <8178.284668, 15.870892, 10887.027344>
+[COT 2023-10-22 3h:49:54] 76561199108250772: Spawned Entity Firewood (Firewood<b82d9020>, 1, 500, 0) at <8178.311035, 16.047504, 10886.948242>
+[COT 2023-10-22 3h:51:13] 76561198036774377: Set GodMode To false [guid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=]
+[COT 2023-10-22 3h:53:15] 76561199108250772: Spawned Entity Flag Pole Kit (TerritoryFlagKit<b2aecea0>, 100, 200, 0) at <8171.903809, 15.880015, 10880.531250>
+[COT 2023-10-22 3h:53:32] 76561199108250772: ESP: Viewing ESP
+[COT 2023-10-22 3h:53:36] 76561199108250772: ESP target=TerritoryFlag<b7e80820> action=built part=base required_materials=false
+[COT 2023-10-22 3h:53:37] 76561199108250772: ESP target=TerritoryFlag<b7e80820> action=built part=support required_materials=false
+[COT 2023-10-22 3h:53:40] 76561199108250772: ESP target=TerritoryFlag<b7e80820> action=built part=pole required_materials=false
+[COT 2023-10-22 3h:53:44] 76561199108250772: ESP: Clearing ESP
+[COT 2023-10-22 3h:53:58] 76561199108250772: Spawned Entity Flag (DOC_Pedro<b8140820>, 100, 100, 0) at <8173.513184, 15.880015, 10880.875000>
+[COT 2023-10-22 3h:57:55] 76561199108250772: Entered the Free Camera
+[COT 2023-10-22 3h:58:3s] 76561199108250772: Left the Free Camera
+[COT 2023-10-22 3h:58:12] 76561199108250772: Entered the Free Camera
+[COT 2023-10-22 3h:58:19] 76561199108250772: Left the Free Camera

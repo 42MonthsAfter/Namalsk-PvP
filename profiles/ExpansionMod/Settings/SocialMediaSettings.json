@@ -1,0 +1,16 @@
+{
+    "m_Version": 2,
+    "NewsFeedTexts": [
+        {
+            "m_Title": "Join our Community!",
+            "m_Text": "Join our Discord for a chance to win our $100 monthly giveaways!"
+        }
+    ],
+    "NewsFeedLinks": [
+        {
+            "m_Label": "Discord",
+            "m_Icon": "set:expansion_iconset image:icon_discord",
+            "m_URL": "http://discord.42MonthsAfter.com"
+        }
+    ]
+}

@@ -86,8 +86,6 @@ class CustomMission: MissionServer
 			SetRandomHealth( itemEnt );
 			itemEnt = itemClothing.GetInventory().CreateInInventory( "RoadFlare" );
 			SetRandomHealth( itemEnt );
-			itemEnt = player.GetInventory().CreateInInventory("ItemPDA");
-				itemEnt.GetInventory().CreateAttachment("Battery9V");
 			player.SetQuickBarEntityShortcut( itemEnt, 1 );
 		}
 

@@ -1,7 +1,0 @@
-************************** 2024-01-09T05:00:08+00:00 **************************
-2024-01-09T05:00:08+00:00 | [INFO	] GameLabs v1.920 start for server 8cfa0bf0-f136-4471-b86d-4a226a4a57ad
-2024-01-09T05:00:11+00:00 | [INFO	] Server up (GameLabs v1.920)
-2024-01-09T05:00:11+00:00 | [INFO	] RPC interface initiated and handler registered
-2024-01-09T05:00:11+00:00 | [INFO	] Experimental speed check is enabled
-2024-01-09T05:36:49+00:00 | [INFO	] (Reporter) Disabled
-2024-01-09T05:36:49+00:00 | [INFO	] (Core) Attempting graceful exit

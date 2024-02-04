@@ -1,0 +1,39 @@
+12:03:35.609 [MissionAirdrop] An airdrop is heading towards "Sedbjan" (pos=<5024.000000, 0.000000, 8919.000000> type=Random_Sedbjan) with a ExpansionAirdropContainer_Basebuilding
+13:13:04.015 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: vxjiRWNqxXzsB0kOVzgi1Ki7LUPHjAJW0lCXiwN31ao=
+13:13:04.019 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+13:13:18.871 [Killfeed] MustBeJay got killed.
+13:29:57.605 [MissionAirdrop] An airdrop is heading towards "Brensk" (pos=<4327.000000, 0.000000, 5230.000000> type=Random_Brensk) with a ExpansionAirdropContainer
+14:57:00.605 [MissionAirdrop] An airdrop is heading towards "Lubjansk" (pos=<4680.000000, 0.000000, 10872.000000> type=Random_Lubjansk) with a ExpansionAirdropContainer_Basebuilding
+16:23:54.605 [MissionAirdrop] An airdrop is heading towards "Brensk" (pos=<4327.000000, 0.000000, 5230.000000> type=Random_Brensk) with a ExpansionAirdropContainer
+17:04:13.644 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: DIc3eXE9j69qy6ANdBUdgssyTthAZwG9YAkx1Jw5Xb4=
+17:04:13.644 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+17:33:11.039 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: oZxaeFviyzgCVe26zl-_EovsFVk0DmnqUpunQGX7Mys=
+17:33:11.039 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+17:43:55.046 [Killfeed] Chaotic got killed.
+17:43:55.328 [Killfeed] Private got killed.
+17:45:03.007 [Killfeed] Private got killed.
+17:45:04.921 [Killfeed] Chaotic got killed.
+17:45:37.218 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+17:45:37.218 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+17:45:40.636 [Killfeed] (ADMIN)BLUE got killed.
+17:45:57.921 [Killfeed] (ADMIN)BLUE got killed.
+17:48:02.589 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): hello all
+17:49:10.488 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+17:49:10.488 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+17:49:10.488 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+17:49:10.488 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+17:49:10.488 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+17:49:10.488 [Expansion Quests] - Create new quest instance for quest: 14 - Player UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+17:50:33.609 [MissionAirdrop] An airdrop is heading towards "Norisnk" (pos=<3974.000000, 0.000000, 7350.000000> type=Random_Norisnk) with a ExpansionAirdropContainer_Medical
+17:50:49.433 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): have yall played on a syberia namalsk before
+17:51:11.324 [Chat - Global]("Chaotic"(id=oZxaeFviyzgCVe26zl-_EovsFVk0DmnqUpunQGX7Mys=)): nope
+17:51:37.945 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): welcom to 42.  we just set this one up.  so expect changes.  
+17:51:39.007 [Chat - Global]("Chaotic"(id=oZxaeFviyzgCVe26zl-_EovsFVk0DmnqUpunQGX7Mys=)): but i dont think im supposed to spawn in the middle of the ocean
+17:51:57.609 [Chat - Global]("Chaotic"(id=oZxaeFviyzgCVe26zl-_EovsFVk0DmnqUpunQGX7Mys=)): oh nice
+17:52:09.828 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): i noticed that also lol im in the same spot
+17:52:33.773 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): gunna die and see if i can pick a diffrent spawn
+17:52:35.437 [Chat - Global]("Chaotic"(id=oZxaeFviyzgCVe26zl-_EovsFVk0DmnqUpunQGX7Mys=)): can you teleport us to the shore or kill me>
+17:53:26.156 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): i need to get my privs set up or else  i would
+17:53:34.375 [Chat - Global]("Chaotic"(id=oZxaeFviyzgCVe26zl-_EovsFVk0DmnqUpunQGX7Mys=)): oh
+17:53:54.671 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): we just set up a alteria we have a deer isle also livonia and chiesmee 
+17:54:06.011 [Chat - Global]("Chaotic"(id=oZxaeFviyzgCVe26zl-_EovsFVk0DmnqUpunQGX7Mys=)): nice

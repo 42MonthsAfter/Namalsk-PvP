@@ -1,0 +1,15 @@
+19:10:15.851 [MissionAirdrop] An airdrop is heading towards "Tara Harbor" (pos=<7493.000000, 0.000000, 7577.000000> type=Random_Tara Harbor) with a ExpansionAirdropContainer_Military_WinterCamo
+20:36:42.843 [MissionAirdrop] An airdrop is heading towards "Sedbjan" (pos=<5024.000000, 0.000000, 8919.000000> type=Random_Sedbjan) with a ExpansionAirdropContainer_Medical
+22:02:18.843 [MissionAirdrop] An airdrop is heading towards "Vorkuta" (pos=<6751.000000, 0.000000, 10900.000000> type=Random_Vorkuta) with a ExpansionAirdropContainer_Military_WinterCamo
+23:30:27.843 [MissionAirdrop] An airdrop is heading towards "Lubjansk" (pos=<4680.000000, 0.000000, 10872.000000> type=Random_Lubjansk) with a ExpansionAirdropContainer
+00:24:16.078 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+00:24:16.078 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+00:24:16.078 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+00:24:16.078 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+00:24:16.078 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+00:24:16.078 [Expansion Quests] - Create new quest instance for quest: 14 - Player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+00:58:00.843 [MissionAirdrop] An airdrop is heading towards "Brensk" (pos=<4327.000000, 0.000000, 5230.000000> type=Random_Brensk) with a ExpansionAirdropContainer_Basebuilding
+01:06:21.843 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+01:06:21.843 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+01:06:51.265 [Killfeed] [Admin] Bunker got killed.
+01:07:09.023 [Killfeed] [Admin] Bunker got killed.

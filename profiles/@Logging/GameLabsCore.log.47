@@ -1,9 +1,0 @@
-************************** 2023-10-22T14:55:47+00:00 **************************
-2023-10-22T14:55:50+00:00 | [INFO	] Server up (GameLabs v1.910)
-2023-10-22T14:55:50+00:00 | [INFO	] Experimental speed check is enabled
-2023-10-22T14:57:42+00:00 | [ERROR	] PlayerConnect errorCode(5)
-2023-10-22T15:01:48+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<e289d130>> fired for already disconnected player [steam64=76561199407766611]
-2023-10-22T15:04:30+00:00 | [ERROR	] PlayerConnect errorCode(5)
-2023-10-22T15:05:51+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<e216a020>> fired for already disconnected player [steam64=76561198036774377]
-2023-10-22T15:06:01+00:00 | [INFO	] (Reporter) Disabled
-2023-10-22T15:06:01+00:00 | [INFO	] (Core) Attempting graceful exit

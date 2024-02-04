@@ -1,0 +1,1147 @@
+{
+    "m_Version": 18,
+    "Enabled": 1,
+    "DespawnTime": 600.0,
+    "RespawnTime": -1.0,
+    "MinDistRadius": 400.0,
+    "MaxDistRadius": 1000.0,
+    "DespawnRadius": 1100.0,
+    "AccuracyMin": -1.0,
+    "AccuracyMax": -1.0,
+    "ThreatDistanceLimit": -1.0,
+    "NoiseInvestigationDistanceLimit": -1.0,
+    "DamageMultiplier": -1.0,
+    "DamageReceivedMultiplier": -1.0,
+    "ObjectPatrols": [
+        {
+            "Name": "",
+            "Faction": "Shamans",
+            "Formation": "Line",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "TTSKOLoadout",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 5.0,
+            "MaxSpreadRadius": 20.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "ClassName": "Wreck_UH1Y"
+        },
+        {
+            "Name": "",
+            "Faction": "Shamans",
+            "Formation": "Line",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "TTSKOLoadout",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 5.0,
+            "MaxSpreadRadius": 20.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "ClassName": "Wreck_Mi8_Crashed"
+        },
+        {
+            "Name": "",
+            "Faction": "Shamans",
+            "Formation": "Line",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "TTSKOLoadout",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "HALT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 5.0,
+            "MaxSpreadRadius": 10.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "ClassName": "Land_Wreck_sed01_aban1_police"
+        },
+        {
+            "Name": "",
+            "Faction": "Shamans",
+            "Formation": "Line",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "TTSKOLoadout",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "HALT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 5.0,
+            "MaxSpreadRadius": 10.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "ClassName": "Land_Wreck_sed01_aban2_police"
+        },
+        {
+            "Name": "",
+            "Faction": "Shamans",
+            "Formation": "Line",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "TTSKOLoadout",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "HALT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 5.0,
+            "MaxSpreadRadius": 10.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "ClassName": "Land_Wreck_hb01_aban1_police"
+        },
+        {
+            "Name": "",
+            "Faction": "Shamans",
+            "Formation": "Line",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "TTSKOLoadout",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "HALT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 5.0,
+            "MaxSpreadRadius": 10.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "ClassName": "Land_Wreck_hb01_aban2_police"
+        }
+    ],
+    "Patrols": [
+        {
+            "Name": "",
+            "Faction": "Shamans",
+            "Formation": "Line",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "TTSKOLoadout",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    6307.7001953125,
+                    14.399999618530274,
+                    11810.599609375
+                ],
+                [
+                    6519.89990234375,
+                    17.299999237060548,
+                    11901.599609375
+                ],
+                [
+                    6967.39990234375,
+                    6.5,
+                    11884.599609375
+                ],
+                [
+                    7216.60009765625,
+                    10.147000312805176,
+                    11843.099609375
+                ],
+                [
+                    7405.77978515625,
+                    23.18000030517578,
+                    11655.7998046875
+                ]
+            ]
+        },
+        {
+            "Name": "",
+            "Faction": "Shamans",
+            "Formation": "Line",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "TTSKOLoadout",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    5028.91015625,
+                    7.420000076293945,
+                    11359.5
+                ],
+                [
+                    4971.7998046875,
+                    9.960000038146973,
+                    11305.5
+                ],
+                [
+                    4852.9599609375,
+                    13.880000114440918,
+                    11257.2001953125
+                ],
+                [
+                    4727.41015625,
+                    14.779999732971192,
+                    11099.7001953125
+                ],
+                [
+                    4690.77978515625,
+                    21.860000610351564,
+                    10948.900390625
+                ],
+                [
+                    4513.77978515625,
+                    22.170000076293947,
+                    10819.0
+                ],
+                [
+                    4333.31005859375,
+                    15.529999732971192,
+                    11054.2998046875
+                ],
+                [
+                    4269.85009765625,
+                    9.430000305175782,
+                    11046.0
+                ]
+            ]
+        },
+        {
+            "Name": "",
+            "Faction": "Shamans",
+            "Formation": "Line",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "TTSKOLoadout",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    4492.009765625,
+                    3.430000066757202,
+                    10429.7001953125
+                ],
+                [
+                    4533.43994140625,
+                    5.010000228881836,
+                    10371.7001953125
+                ],
+                [
+                    4624.5,
+                    13.350000381469727,
+                    10400.099609375
+                ],
+                [
+                    4865.77001953125,
+                    10.34000015258789,
+                    10446.7001953125
+                ],
+                [
+                    4964.16015625,
+                    2.7799999713897707,
+                    10533.5
+                ],
+                [
+                    5129.81982421875,
+                    9.569999694824219,
+                    10510.599609375
+                ],
+                [
+                    5315.18994140625,
+                    15.770000457763672,
+                    10591.0
+                ],
+                [
+                    5493.18994140625,
+                    5.28000020980835,
+                    10593.0
+                ],
+                [
+                    5524.39990234375,
+                    14.199999809265137,
+                    10447.900390625
+                ],
+                [
+                    5483.89990234375,
+                    21.079999923706056,
+                    10348.900390625
+                ],
+                [
+                    5389.419921875,
+                    4.639999866485596,
+                    10169.5
+                ],
+                [
+                    5547.419921875,
+                    5.480000019073486,
+                    10047.0
+                ],
+                [
+                    5637.02978515625,
+                    1.090000033378601,
+                    9960.0
+                ],
+                [
+                    5650.18994140625,
+                    2.9100000858306886,
+                    9899.0595703125
+                ],
+                [
+                    5574.10986328125,
+                    8.270000457763672,
+                    9843.1298828125
+                ],
+                [
+                    5343.64990234375,
+                    10.770000457763672,
+                    9940.6396484375
+                ],
+                [
+                    5154.58984375,
+                    14.699999809265137,
+                    9905.6396484375
+                ],
+                [
+                    4920.509765625,
+                    11.260000228881836,
+                    9685.8701171875
+                ],
+                [
+                    4749.81005859375,
+                    7.860000133514404,
+                    9834.98046875
+                ],
+                [
+                    4795.580078125,
+                    6.039999961853027,
+                    10146.900390625
+                ],
+                [
+                    4580.35986328125,
+                    6.880000114440918,
+                    10154.0
+                ],
+                [
+                    4398.7001953125,
+                    5.980000019073486,
+                    10033.099609375
+                ]
+            ]
+        },
+        {
+            "Name": "",
+            "Faction": "Shamans",
+            "Formation": "Line",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "TTSKOLoadout",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    6805.85986328125,
+                    15.010000228881836,
+                    11660.400390625
+                ],
+                [
+                    6867.16015625,
+                    15.130000114440918,
+                    11474.0
+                ],
+                [
+                    6826.18017578125,
+                    15.119999885559082,
+                    11427.5
+                ],
+                [
+                    6765.64013671875,
+                    15.010000228881836,
+                    11304.2001953125
+                ],
+                [
+                    6713.68994140625,
+                    15.0,
+                    11202.7001953125
+                ],
+                [
+                    6605.509765625,
+                    15.199999809265137,
+                    10994.0
+                ],
+                [
+                    6625.240234375,
+                    15.9399995803833,
+                    10943.099609375
+                ],
+                [
+                    6634.259765625,
+                    16.1200008392334,
+                    10924.7998046875
+                ],
+                [
+                    6583.2900390625,
+                    20.790000915527345,
+                    10864.7998046875
+                ]
+            ]
+        },
+        {
+            "Name": "",
+            "Faction": "Shamans",
+            "Formation": "Line",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "TTSKOLoadout",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    7052.16015625,
+                    6.389999866485596,
+                    10051.400390625
+                ],
+                [
+                    6997.080078125,
+                    4.0,
+                    10063.2001953125
+                ],
+                [
+                    6955.39013671875,
+                    4.449999809265137,
+                    9904.5302734375
+                ],
+                [
+                    6881.6298828125,
+                    5.300000190734863,
+                    9743.5595703125
+                ],
+                [
+                    6760.1201171875,
+                    9.25,
+                    9758.2001953125
+                ],
+                [
+                    6686.009765625,
+                    11.359999656677246,
+                    9858.150390625
+                ],
+                [
+                    6658.22021484375,
+                    9.260000228881836,
+                    9958.58984375
+                ],
+                [
+                    6762.43017578125,
+                    7.050000190734863,
+                    10087.0
+                ]
+            ]
+        },
+        {
+            "Name": "",
+            "Faction": "Shamans",
+            "Formation": "Line",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "TTSKOLoadout",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    4756.10986328125,
+                    153.16000366210938,
+                    7399.41015625
+                ],
+                [
+                    5243.1298828125,
+                    209.35000610351563,
+                    7437.10009765625
+                ],
+                [
+                    5272.81005859375,
+                    271.20599365234377,
+                    7190.85986328125
+                ],
+                [
+                    5270.0400390625,
+                    256.9800109863281,
+                    7017.89990234375
+                ],
+                [
+                    5456.3701171875,
+                    196.3000030517578,
+                    6618.9599609375
+                ],
+                [
+                    5677.009765625,
+                    107.66000366210938,
+                    6280.14013671875
+                ]
+            ]
+        },
+        {
+            "Name": "",
+            "Faction": "Shamans",
+            "Formation": "Line",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "TTSKOLoadout",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    7674.39990234375,
+                    75.95999908447266,
+                    8643.8203125
+                ],
+                [
+                    7864.39990234375,
+                    41.79999923706055,
+                    8563.6201171875
+                ],
+                [
+                    7965.18994140625,
+                    30.0,
+                    8887.5703125
+                ],
+                [
+                    7696.5,
+                    47.779998779296878,
+                    9120.6298828125
+                ],
+                [
+                    7315.10009765625,
+                    26.600000381469728,
+                    8972.650390625
+                ]
+            ]
+        },
+        {
+            "Name": "",
+            "Faction": "Shamans",
+            "Formation": "Line",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "TTSKOLoadout",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    7977.68017578125,
+                    3.930000066757202,
+                    7430.080078125
+                ],
+                [
+                    7731.83984375,
+                    54.310001373291019,
+                    7202.22998046875
+                ],
+                [
+                    7475.490234375,
+                    72.2477035522461,
+                    7486.18017578125
+                ],
+                [
+                    7667.52978515625,
+                    33.29999923706055,
+                    7918.47021484375
+                ],
+                [
+                    7888.60009765625,
+                    3.200000047683716,
+                    7997.02001953125
+                ]
+            ]
+        },
+        {
+            "Name": "",
+            "Faction": "Shamans",
+            "Formation": "Line",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "TTSKOLoadout",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    5301.81982421875,
+                    58.869998931884769,
+                    9602.3896484375
+                ],
+                [
+                    5548.06982421875,
+                    43.18000030517578,
+                    9543.58984375
+                ],
+                [
+                    5725.35986328125,
+                    19.700000762939454,
+                    9450.1396484375
+                ],
+                [
+                    5476.4501953125,
+                    29.84000015258789,
+                    9738.3203125
+                ]
+            ]
+        },
+        {
+            "Name": "",
+            "Faction": "Shamans",
+            "Formation": "Line",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "TTSKOLoadout",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    1198.72998046875,
+                    2.0,
+                    11635.400390625
+                ],
+                [
+                    1353.8399658203126,
+                    2.0,
+                    11604.0
+                ],
+                [
+                    1351.760009765625,
+                    2.0,
+                    11960.400390625
+                ],
+                [
+                    1112.030029296875,
+                    2.0,
+                    12009.2001953125
+                ],
+                [
+                    1112.47998046875,
+                    8.920000076293946,
+                    11898.2998046875
+                ]
+            ]
+        },
+        {
+            "Name": "",
+            "Faction": "Shamans",
+            "Formation": "Line",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "TTSKOLoadout",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    5407.10986328125,
+                    65.41000366210938,
+                    6072.06005859375
+                ],
+                [
+                    5246.0,
+                    40.66999816894531,
+                    6230.4501953125
+                ],
+                [
+                    4805.0,
+                    88.7300033569336,
+                    6460.97021484375
+                ],
+                [
+                    4785.9501953125,
+                    96.61000061035156,
+                    6655.9599609375
+                ]
+            ]
+        },
+        {
+            "Name": "",
+            "Faction": "Shamans",
+            "Formation": "Line",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "TTSKOLoadout",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    2914.75,
+                    4.570000171661377,
+                    11032.5
+                ],
+                [
+                    2442.75,
+                    2.0,
+                    11160.599609375
+                ],
+                [
+                    1997.7900390625,
+                    2.0,
+                    10807.0
+                ],
+                [
+                    2762.989990234375,
+                    2.0,
+                    10394.400390625
+                ]
+            ]
+        },
+        {
+            "Name": "",
+            "Faction": "Shamans",
+            "Formation": "Line",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "TTSKOLoadout",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    5304.60009765625,
+                    40.849998474121097,
+                    10803.599609375
+                ],
+                [
+                    5612.06982421875,
+                    47.779998779296878,
+                    10952.400390625
+                ],
+                [
+                    5713.27001953125,
+                    58.279998779296878,
+                    11090.7998046875
+                ],
+                [
+                    6148.22021484375,
+                    7.699999809265137,
+                    11587.2998046875
+                ]
+            ]
+        },
+        {
+            "Name": "",
+            "Faction": "Shamans",
+            "Formation": "Line",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "TTSKOLoadout",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    4717.85009765625,
+                    111.5199966430664,
+                    7672.93994140625
+                ],
+                [
+                    4311.85986328125,
+                    129.88999938964845,
+                    7290.56982421875
+                ],
+                [
+                    3957.02001953125,
+                    106.41999816894531,
+                    7239.990234375
+                ],
+                [
+                    3498.030029296875,
+                    139.8800048828125,
+                    6967.419921875
+                ],
+                [
+                    3241.25,
+                    104.44999694824219,
+                    7299.5
+                ],
+                [
+                    3663.3701171875,
+                    90.20999908447266,
+                    7627.72021484375
+                ],
+                [
+                    3894.5,
+                    78.87999725341797,
+                    7776.3701171875
+                ]
+            ]
+        }
+    ]
+}

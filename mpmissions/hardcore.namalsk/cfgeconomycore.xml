@@ -17,31 +17,32 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<ce folder="db">
 		<file name="types_dzn.xml" type="types" />
 	</ce>
-	<ce folder="ModTypes/Snafu">
+	<ce folder="expansion_ce">
+		<file name="expansion_types.xml" type="types"/>
+		<file name="expansion_spawnabletypes.xml" type="spawnabletypes"/>
+	</ce>
+	<ce folder="ModTypes/SyberiaMod">
 		<file name="types.xml" type="types" />
 	</ce>
-	<ce folder="ModTypes/42MAVanillaUpdates">
+	<ce folder="ModTypes/42MADocsGuns">
 		<file name="types.xml" type="types" />
 	</ce>
-	<ce folder="ModTypes/TraderPlus">
+	<ce folder="ModTypes/42MADocsTextures">
 		<file name="types.xml" type="types" />
 	</ce>
-	<ce folder="ModTypes/CodeLock">
+	<ce folder="ModTypes/42MAModPack">
 		<file name="types.xml" type="types" />
 	</ce>
-	<ce folder="ModTypes/42MonthsAfter">
+	<ce folder="ModTypes/42MAVanillaClothing">
 		<file name="types.xml" type="types" />
 	</ce>
-	<ce folder="ModTypes/Dogtags">
+	<ce folder="ModTypes/42MAVehicleParts">
 		<file name="types.xml" type="types" />
 	</ce>
-	<ce folder="ModTypes/BuildingFortifications">
+	<ce folder="ModTypes/42MAVehicles">
 		<file name="types.xml" type="types" />
 	</ce>
-	<ce folder="ModTypes/DocsTextures">
-		<file name="types.xml" type="types" />
-	</ce>
-	<ce folder="ModTypes/DocsGuns">
+	<ce folder="ModTypes/FlipTransport">
 		<file name="types.xml" type="types" />
 	</ce>
 </economycore>

@@ -300,12 +300,6 @@
             <child lootmax="0" lootmin="0" max="0" min="1" type="ZmbM_MotobikerFat_Beige"/>
             <child lootmax="0" lootmin="0" max="0" min="1" type="ZmbM_MotobikerFat_Black"/>
             <child lootmax="0" lootmin="0" max="0" min="1" type="ZmbM_MotobikerFat_Blue"/>
-            <child lootmax="0" lootmin="0" max="0" min="1" type="ZmbF_kid"/>
-            <child lootmax="0" lootmin="0" max="0" min="1" type="ZmbF_kid2"/>
-            <child lootmax="0" lootmin="0" max="0" min="1" type="ZmbF_kid3"/>
-            <child lootmax="0" lootmin="0" max="0" min="1" type="ZmbM_kid"/>
-            <child lootmax="0" lootmin="0" max="0" min="1" type="ZmbM_kid2"/>
-            <child lootmax="0" lootmin="0" max="0" min="1" type="ZmbM_kid3"/>
         </children>
     </event>
     <event name="InfectedMedic">
@@ -355,10 +349,6 @@
             <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_CapraHircus_Black"/>
             <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_CapraHircus_Brown"/>
             <child lootmax="0" lootmin="0" max="1" min="1" type="Animal_CapraHircus_White"/>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="baby_goat"/>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="baby_goat2"/>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="baby_goat3"/>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="baby_goat4"/>
         </children>
     </event>
     <event name="AnimalSheep">
@@ -377,7 +367,6 @@
         <children>
             <child lootmax="0" lootmin="0" max="2" min="1" type="Animal_OvisAries"/>
             <child lootmax="0" lootmin="0" max="5" min="3" type="Animal_OvisAriesF"/>
-            <child lootmax="0" lootmin="0" max="2" min="1" type="little_lamb"/>
         </children>
     </event>
     <event name="AnimalRoeDeer">
@@ -396,7 +385,6 @@
         <children>
             <child lootmax="0" lootmin="0" max="1" min="1" type="Animal_CapreolusCapreolus"/>
             <child lootmax="0" lootmin="0" max="4" min="2" type="Animal_CapreolusCapreolusF"/>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="dee_goldenhind"/>
         </children>
     </event>
     <event name="AnimalDeer">
@@ -415,7 +403,6 @@
         <children>
             <child lootmax="0" lootmin="0" max="1" min="1" type="Animal_CervusElaphus"/>
             <child lootmax="0" lootmin="0" max="4" min="2" type="Animal_CervusElaphusF"/>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="deer_whitestag"/>
         </children>
     </event>
     <event name="AnimalWildBoar">
@@ -451,8 +438,6 @@
         <children>
             <child lootmax="0" lootmin="0" max="6" min="2" type="Animal_CanisLupus_Grey"/>
             <child lootmax="0" lootmin="0" max="4" min="0" type="Animal_CanisLupus_White"/>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="wolf_hellhound"/>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="wolf_ghosthound"/>
         </children>
     </event>
     <event name="AnimalBrownBear">

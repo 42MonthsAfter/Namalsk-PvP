@@ -1,0 +1,16 @@
+17:59:09.925 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: oZxaeFviyzgCVe26zl-_EovsFVk0DmnqUpunQGX7Mys=
+17:59:09.925 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+17:59:09.925 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: oZxaeFviyzgCVe26zl-_EovsFVk0DmnqUpunQGX7Mys=
+17:59:09.925 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: oZxaeFviyzgCVe26zl-_EovsFVk0DmnqUpunQGX7Mys=
+17:59:09.925 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: oZxaeFviyzgCVe26zl-_EovsFVk0DmnqUpunQGX7Mys=
+17:59:09.925 [Expansion Quests] - Create new quest instance for quest: 14 - Player UID: oZxaeFviyzgCVe26zl-_EovsFVk0DmnqUpunQGX7Mys=
+17:59:40.390 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: DIc3eXE9j69qy6ANdBUdgssyTthAZwG9YAkx1Jw5Xb4=
+17:59:40.390 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+17:59:40.390 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: DIc3eXE9j69qy6ANdBUdgssyTthAZwG9YAkx1Jw5Xb4=
+17:59:40.390 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: DIc3eXE9j69qy6ANdBUdgssyTthAZwG9YAkx1Jw5Xb4=
+17:59:40.390 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: DIc3eXE9j69qy6ANdBUdgssyTthAZwG9YAkx1Jw5Xb4=
+17:59:40.390 [Expansion Quests] - Create new quest instance for quest: 14 - Player UID: DIc3eXE9j69qy6ANdBUdgssyTthAZwG9YAkx1Jw5Xb4=
+18:02:15.722 [Party] Player "Private" (id=DIc3eXE9j69qy6ANdBUdgssyTthAZwG9YAkx1Jw5Xb4=) joinded the party "Border Patrol" (id=0 ownerUID= ownerName=)
+18:02:15.722 [Party] Player "Private" (id=DIc3eXE9j69qy6ANdBUdgssyTthAZwG9YAkx1Jw5Xb4=) created a party named Border Patrol (brdr)
+18:02:16.722 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 0
+18:03:32.917 [MissionAirdrop] An airdrop is heading towards "Tara Harbor" (pos=<7493.000000, 0.000000, 7577.000000> type=Random_Tara Harbor) with a ExpansionAirdropContainer_Basebuilding

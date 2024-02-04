@@ -1,0 +1,8 @@
+18:05:55.890 [Party] Player "Private" (id=DIc3eXE9j69qy6ANdBUdgssyTthAZwG9YAkx1Jw5Xb4=) joinded the party "Border Patrol" (id=0 ownerUID=DIc3eXE9j69qy6ANdBUdgssyTthAZwG9YAkx1Jw5Xb4= ownerName=Private)
+18:05:55.894 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: DIc3eXE9j69qy6ANdBUdgssyTthAZwG9YAkx1Jw5Xb4=
+18:05:55.894 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 0
+18:05:55.894 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: DIc3eXE9j69qy6ANdBUdgssyTthAZwG9YAkx1Jw5Xb4=
+18:05:55.894 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: DIc3eXE9j69qy6ANdBUdgssyTthAZwG9YAkx1Jw5Xb4=
+18:05:55.894 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: DIc3eXE9j69qy6ANdBUdgssyTthAZwG9YAkx1Jw5Xb4=
+18:05:55.894 [Expansion Quests] - Create new quest instance for quest: 14 - Player UID: DIc3eXE9j69qy6ANdBUdgssyTthAZwG9YAkx1Jw5Xb4=
+18:05:56.847 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0

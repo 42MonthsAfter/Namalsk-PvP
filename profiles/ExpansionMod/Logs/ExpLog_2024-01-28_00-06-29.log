@@ -1,0 +1,13 @@
+00:08:31.920 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+00:08:31.921 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+00:08:31.921 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+00:08:31.921 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+00:08:31.921 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+00:08:31.921 [Expansion Quests] - Create new quest instance for quest: 14 - Player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+00:09:12.255 [AI Patrol] Spawning 1 West bots at <5053.427734, -0.784413, 11422.813477>
+00:09:12.265 [AI Patrol] Spawning 1 West bots at <5675.233887, 51.568321, 11026.316406>
+00:11:20.312 [AI Patrol] Spawning 1 West bots at <6820.012695, 15.110000, 11458.067383>
+00:11:20.322 [AI Patrol] Spawning 1 West bots at <6941.904785, 3.831708, 11939.611328>
+00:11:41.498 [MissionAirdrop] An airdrop is heading towards "Brensk" (pos=<4327.000000, 0.000000, 5230.000000> type=Random_Brensk) with a ExpansionAirdropContainer_Basebuilding
+00:26:19.847 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<8387.893555, 15.000001, 10731.837891>) Entered the safezone
+00:29:22.459 [Killfeed] [Admin] Bunker got killed.

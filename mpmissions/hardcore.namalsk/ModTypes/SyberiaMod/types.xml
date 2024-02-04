@@ -1,0 +1,2847 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+  <type name="AmpouleActaparoxetine">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpouleActovegin">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpouleAdrenalin05">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+  </type>
+  <type name="AmpouleAdrenalin10">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier3" />
+  </type>
+  <type name="AmpouleAdrenalin30">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpouleAlcohol">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpouleAminokaprolSulfat">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpouleAmitriptyline">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpouleAmoksivan">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpouleArsenic">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpouleCarboxyme">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpouleCylaspen">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpouleCypermetrin">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpouleDiazinon">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpouleDiklofenak">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpouleErytromicyn">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpouleErytropoenin">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpouleEtamzilat">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpouleFlemoclav">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpouleGexobarbital">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpouleGrimipenem">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpouleHeptral">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpouleHihlofos">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpouleImipenem">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpouleIrineks">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpouleKetamin">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpouleKetoprofen">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpouleKetorol">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpouleMaltofer">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpouleMeksidol">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpouleMetoclopramid">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpouleMetralindol">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpouleNeiroks">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpouleNimesulid">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpouleNonacogAlpha">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpouleNovocain">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpouleOcsacylin">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpoulePeklitakcel">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpoulePentacin">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpoulePerftoran">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpoulePropanidid">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpoulePropofol">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpouleSodiumOxybutirate">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpouleTiopental">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpouleVikasol">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpouleZeftriaxon">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpouleZerukal">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="AmpouleZivirol">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier3" />
+  </type>
+  <type name="BakedBeansCan_OpenedRotten">
+    <nominal>5</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Coast" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="BandageHemostatic">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Coast" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="BrisketSpread_OpenedRotten">
+    <nominal>5</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Coast" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="CatFoodCan_OpenedRotten">
+    <nominal>5</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Coast" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="DogFoodCan_OpenedRotten">
+    <nominal>5</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Coast" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="InjectorAmoksivan">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="InjectorEpipen">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="InjectorErytropoenin">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="InjectorKetorol">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="InjectorNeiroks">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="InjectorNovichek">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="InjectorPromedol">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="InjectorRadioprotector">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="InjectorTopoizomeraza">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="InjectorZivirol">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Coast" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier3" />
+  </type>
+  <type name="ItemHomebook">
+    <nominal>5</nominal>
+    <lifetime>28800</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Coast" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="ItemPDA">
+    <nominal>5</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Coast" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="Lunchmeat_OpenedRotten">
+    <nominal>5</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Coast" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="MedContainerLarge">
+    <nominal>10</nominal>
+    <lifetime>28800</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Coast" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="MedContainerMedium">
+    <nominal>10</nominal>
+    <lifetime>28800</lifetime>
+    <restock>1800</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Coast" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="MedContainerSmall">
+    <nominal>15</nominal>
+    <lifetime>28800</lifetime>
+    <restock>1800</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Coast" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="Pajka_OpenedRotten">
+    <nominal>5</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Coast" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="Pate_OpenedRotten">
+    <nominal>5</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Coast" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="PeachesCan_OpenedRotten">
+    <nominal>5</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Coast" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="PorkCan_OpenedRotten">
+    <nominal>5</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Coast" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="SalveFinalgon">
+    <nominal>5</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Coast" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="shelves" />
+  </type>
+  <type name="SalveKapsikam">
+    <nominal>5</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Coast" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="shelves" />
+  </type>
+  <type name="SalveViprosal">
+    <nominal>5</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Coast" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="shelves" />
+  </type>
+  <type name="SardinesCan_OpenedRotten">
+    <nominal>5</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Coast" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="SleepingBag_Blue">
+    <nominal>5</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Coast" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="shelves" />
+  </type>
+  <type name="SleepingBag_Woodland">
+    <nominal>5</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Coast" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="shelves" />
+  </type>
+  <type name="SleepingBagPlaced_Blue">
+    <nominal>15</nominal>
+    <lifetime>38800</lifetime>
+    <restock>1800</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <usage name="Historical" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
+    <usage name="Medic" />
+    <usage name="Police" />
+  </type>
+  <type name="SleepingBagPlaced_Woodland">
+    <nominal>5</nominal>
+    <lifetime>38800</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <usage name="Military" />
+    <value name="Tier3" />
+  </type>
+  <type name="SodaCan_MadBull">
+    <nominal>6</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+  </type>
+  <type name="SpaghettiCan_OpenedRotten">
+    <nominal>5</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Coast" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="Stethoscope">
+    <nominal>15</nominal>
+    <lifetime>28800</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Coast" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="SurgicalKit">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Medic" />
+    <tag name="shelves" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+  </type>
+  <type name="SyringeEmpty">
+    <nominal>50</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Farm" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="SyringeFull">
+    <nominal>50</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Coast" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsActaparoxetine">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsAdepress">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsAertal">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsAgteminol">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsAmibaktam">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsAmitriptyline">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsAmoksiklav">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsAmoksivan">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsAmpicylin">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsAnalgin">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsB190">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsCharcoal">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsCyprolet">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsCystamine">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsCytramon">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsDycinon">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsEnterofuril">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsErsefuril">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsFtalazol">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsHeferol">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsIbuprofen">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsIrovit">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsKarbopekt">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsMesalazin">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsMexamine">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsMezimForte">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsMovalis">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsNaiz">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsNifuroksazid">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsNimesil">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsNoopept">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsNurofen">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsParacetamol">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsPentalgin">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsPiperacylin">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsPolisorb">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsPotassiumHexacyanoferrate">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsPotassiumIodide">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsSalofalk">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsSorbiferDurulis">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsTardiferon">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsTetracycline">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsTrihopol">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsVenlafaxine">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsVikasol">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TabletsZerukal">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>300</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Medic" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TacticalBaconCan_OpenedRotten">
+    <nominal>5</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Coast" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="TunaCan_OpenedRotten">
+    <nominal>5</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Coast" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+  <type name="UnknownFoodCan_OpenedRotten">
+    <nominal>5</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Coast" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+  </type>
+</types>

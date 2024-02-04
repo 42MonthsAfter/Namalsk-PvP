@@ -1,0 +1,20 @@
+06:03:31.673 [MissionAirdrop] An airdrop is heading towards "Tara SawMill" (pos=<7114.000000, 0.000000, 6000.000000> type=Random_Tara SawMill) with a ExpansionAirdropContainer_Basebuilding
+07:30:03.671 [MissionAirdrop] An airdrop is heading towards "Vorkuta" (pos=<6751.000000, 0.000000, 10900.000000> type=Random_Vorkuta) with a ExpansionAirdropContainer_Basebuilding
+08:29:09.228 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+08:29:09.230 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+08:29:14.425 [Killfeed] [ADMIN]DrKilledByDeath got killed.
+08:29:35.181 [Killfeed] [ADMIN]DrKilledByDeath got killed.
+08:31:18.253 [Expansion Quests] - InitQuestSystemClient - Got cached player quest data for player with UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+08:31:18.253 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+08:31:49.798 [Killfeed] [ADMIN]DrKilledByDeath got killed.
+08:32:22.804 [Killfeed] [ADMIN]DrKilledByDeath got killed.
+08:32:39.597 [Killfeed] [ADMIN]DrKilledByDeath got killed.
+08:58:32.671 [MissionAirdrop] An airdrop is heading towards "Tara SawMill" (pos=<7114.000000, 0.000000, 6000.000000> type=Random_Tara SawMill) with a ExpansionAirdropContainer_Basebuilding
+10:00:28.656 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=
+10:00:28.656 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+10:00:28.656 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=
+10:00:28.656 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=
+10:00:28.656 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=
+10:00:28.656 [Expansion Quests] - Create new quest instance for quest: 14 - Player UID: sZJ432ovDQIgWd8wMve4ae1CuexC2jM_6lmUd51b4VQ=
+10:24:22.671 [MissionAirdrop] An airdrop is heading towards "Airstrip" (pos=<6140.000000, 0.000000, 9189.000000> type=Random_Airstrip) with a ExpansionAirdropContainer_Military_WinterCamo
+11:51:19.671 [MissionAirdrop] An airdrop is heading towards "Brensk" (pos=<4327.000000, 0.000000, 5230.000000> type=Random_Brensk) with a ExpansionAirdropContainer_Medical

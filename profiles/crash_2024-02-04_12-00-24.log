@@ -1,0 +1,269 @@
+---------------------------------------------
+Log C:\Users\rylic\Documents\Namalsk\servers\Production\profiles\crash_2024-02-04_12-00-24.log started at 04.02. 12:00:59
+
+
+
+------------------------------------
+NAMALSK-SERVER, 04.02 2024 12:00:59
+
+Invalid formation name Line
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\formations\eaiformation.c:117
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:122
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:195
+scripts/3_Game/dayzgame.c:2821
+GameLabs/Scripts/3_Game/3_Hooking/ђръзѝѐ*Рћђ.rtm:7
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:244
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2502 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Namalsk Survival;@Namalsk Island;@Syberia Project;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Namalsk Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+NAMALSK-SERVER, 04.02 2024 12:00:59
+
+Invalid formation name Line
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\formations\eaiformation.c:117
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:122
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:195
+scripts/3_Game/dayzgame.c:2821
+GameLabs/Scripts/3_Game/3_Hooking/ђръзѝѐ*Рћђ.rtm:7
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:244
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2502 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Namalsk Survival;@Namalsk Island;@Syberia Project;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Namalsk Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+NAMALSK-SERVER, 04.02 2024 12:00:59
+
+Invalid formation name Line
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\formations\eaiformation.c:117
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:122
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:195
+scripts/3_Game/dayzgame.c:2821
+GameLabs/Scripts/3_Game/3_Hooking/ђръзѝѐ*Рћђ.rtm:7
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:244
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2502 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Namalsk Survival;@Namalsk Island;@Syberia Project;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Namalsk Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+NAMALSK-SERVER, 04.02 2024 12:00:59
+
+Invalid formation name Line
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\formations\eaiformation.c:117
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:122
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:195
+scripts/3_Game/dayzgame.c:2821
+GameLabs/Scripts/3_Game/3_Hooking/ђръзѝѐ*Рћђ.rtm:7
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:244
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2502 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Namalsk Survival;@Namalsk Island;@Syberia Project;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Namalsk Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+NAMALSK-SERVER, 04.02 2024 12:00:59
+
+Invalid formation name Line
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\formations\eaiformation.c:117
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:122
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:195
+scripts/3_Game/dayzgame.c:2821
+GameLabs/Scripts/3_Game/3_Hooking/ђръзѝѐ*Рћђ.rtm:7
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:244
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2502 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Namalsk Survival;@Namalsk Island;@Syberia Project;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Namalsk Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+NAMALSK-SERVER, 04.02 2024 12:00:59
+
+Invalid formation name Line
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\formations\eaiformation.c:117
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:122
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:195
+scripts/3_Game/dayzgame.c:2821
+GameLabs/Scripts/3_Game/3_Hooking/ђръзѝѐ*Рћђ.rtm:7
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:244
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2502 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Namalsk Survival;@Namalsk Island;@Syberia Project;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Namalsk Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+NAMALSK-SERVER, 04.02 2024 12:00:59
+
+Invalid formation name Line
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\formations\eaiformation.c:117
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:122
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:195
+scripts/3_Game/dayzgame.c:2821
+GameLabs/Scripts/3_Game/3_Hooking/ђръзѝѐ*Рћђ.rtm:7
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:244
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2502 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Namalsk Survival;@Namalsk Island;@Syberia Project;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Namalsk Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+NAMALSK-SERVER, 04.02 2024 12:00:59
+
+Invalid formation name Line
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\formations\eaiformation.c:117
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:122
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:195
+scripts/3_Game/dayzgame.c:2821
+GameLabs/Scripts/3_Game/3_Hooking/ђръзѝѐ*Рћђ.rtm:7
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:244
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2502 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Namalsk Survival;@Namalsk Island;@Syberia Project;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Namalsk Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+NAMALSK-SERVER, 04.02 2024 12:00:59
+
+Invalid formation name Line
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\formations\eaiformation.c:117
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:122
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:195
+scripts/3_Game/dayzgame.c:2821
+GameLabs/Scripts/3_Game/3_Hooking/ђръзѝѐ*Рћђ.rtm:7
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:244
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2502 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Namalsk Survival;@Namalsk Island;@Syberia Project;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Namalsk Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+NAMALSK-SERVER, 04.02 2024 12:00:59
+
+Invalid formation name Line
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\formations\eaiformation.c:117
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:122
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:195
+scripts/3_Game/dayzgame.c:2821
+GameLabs/Scripts/3_Game/3_Hooking/ђръзѝѐ*Рћђ.rtm:7
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:244
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2502 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Namalsk Survival;@Namalsk Island;@Syberia Project;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Namalsk Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+NAMALSK-SERVER, 04.02 2024 12:00:59
+
+Invalid formation name Line
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\formations\eaiformation.c:117
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:122
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:195
+scripts/3_Game/dayzgame.c:2821
+GameLabs/Scripts/3_Game/3_Hooking/ђръзѝѐ*Рћђ.rtm:7
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:244
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2502 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Namalsk Survival;@Namalsk Island;@Syberia Project;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Namalsk Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+NAMALSK-SERVER, 04.02 2024 12:00:59
+
+Invalid formation name Line
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\formations\eaiformation.c:117
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:122
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:195
+scripts/3_Game/dayzgame.c:2821
+GameLabs/Scripts/3_Game/3_Hooking/ђръзѝѐ*Рћђ.rtm:7
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:244
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2502 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Namalsk Survival;@Namalsk Island;@Syberia Project;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Namalsk Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+NAMALSK-SERVER, 04.02 2024 12:00:59
+
+Invalid formation name Line
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\formations\eaiformation.c:117
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:122
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:195
+scripts/3_Game/dayzgame.c:2821
+GameLabs/Scripts/3_Game/3_Hooking/ђръзѝѐ*Рћђ.rtm:7
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:244
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2502 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Namalsk Survival;@Namalsk Island;@Syberia Project;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Namalsk Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+NAMALSK-SERVER, 04.02 2024 12:00:59
+
+Invalid formation name Line
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\formations\eaiformation.c:117
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:122
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:195
+scripts/3_Game/dayzgame.c:2821
+GameLabs/Scripts/3_Game/3_Hooking/ђръзѝѐ*Рћђ.rtm:7
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:244
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2502 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Namalsk Survival;@Namalsk Island;@Syberia Project;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Namalsk Mod Pack;@FlipTransport; 

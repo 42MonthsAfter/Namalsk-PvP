@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
-<!--  ___________ YOU CAN FIND DETAILED INSTRUCTIONS in PvZmoD_CustomisableZombies_HELP.txt file ___________  -->
+<!--  ___________ YOU CAN FIND DETAILED INSTRUCTIONS in PvZmoD_CustomisableZombies_HELP.txt file ___________  -->
 	
 <types>
 	<!--________________ NEW CLASS FROM OTHER ZOMBIE MODS (have to be before the vanilla classes) ______________-->
@@ -11,7 +10,7 @@
 	
 	<!-- Weak but Fast --> 
 	<type name="ZmbF_SkaterYoung_Base">
-        <Health_Points				Day="100" 	Night="100"/>	<!-- Weak -->
+        <Health_Points				Day="33" 	Night="33"/>	<!-- Weak -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/>
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/>
@@ -43,7 +42,7 @@
  		<Can_Throw_Stones			Day="1"		Night="1"/>
     </type>
 	<type name="ZmbF_MilkMaidOld_Base">							
-        <Health_Points				Day="100" 	Night="100"/>	<!-- Weak -->
+        <Health_Points				Day="33" 	Night="33"/>	<!-- Weak -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -75,7 +74,7 @@
  		<Can_Throw_Stones			Day="1"		Night="1"/>
     </type>
 	<type name="ZmbM_PatientSkinny_Base">						
-        <Health_Points				Day="100" 	Night="100"/>	<!-- Weak -->
+        <Health_Points				Day="33" 	Night="33"/>	<!-- Weak -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -106,11 +105,10 @@
  		<Size_Maxi 					Day="1.0"	Night="1.0"/>
  		<Can_Throw_Stones			Day="1"		Night="1"/>
     </type>	
-
-
+
 	<!-- Weak but Always run --> 
 	<type name="ZmbM__Runner_Base">		<!-- Correspond to ZmbM_JoggerSkinny_Base (the vanilla class name have been changed) --> 				
-        <Health_Points				Day="100" 	Night="100"/>	<!-- Normal -->
+        <Health_Points				Day="50" 	Night="50"/>	<!-- Normal -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -142,7 +140,7 @@
  		<Can_Throw_Stones			Day="1"		Night="1"/>
     </type>
 	<type name="ZmbF_Runner_Base">		<!-- Correspond to ZmbF_JoggerSkinny_Base (the vanilla class name have been changed) --> 				
-        <Health_Points				Day="100" 	Night="100"/>	<!-- Normal -->
+        <Health_Points				Day="50" 	Night="50"/>	<!-- Normal -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -173,11 +171,10 @@
  		<Size_Maxi 					Day="1.0"	Night="1.0"/>
  		<Can_Throw_Stones			Day="1"		Night="1"/>
     </type>
-
-
+
 	<!-- Normal health and don't sprint -->
 	<type name="ZmbM_FarmerFat_Base">							
-        <Health_Points				Day="100" 	Night="100"/>	<!-- Normal -->
+        <Health_Points				Day="65" 	Night="65"/>	<!-- Normal -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -209,7 +206,7 @@
  		<Can_Throw_Stones			Day="1"		Night="1"/>
     </type>
 	<type name="ZmbM_VillagerOld_Base">							
-        <Health_Points				Day="100" 	Night="100"/>	<!-- Normal -->
+        <Health_Points				Day="65" 	Night="65"/>	<!-- Normal -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -241,7 +238,7 @@
  		<Can_Throw_Stones			Day="1"		Night="1"/>
     </type>
 	<type name="ZmbF_VillagerOld_Base">							
-        <Health_Points				Day="100" 	Night="100"/>	<!-- Normal -->
+        <Health_Points				Day="65" 	Night="65"/>	<!-- Normal -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -273,7 +270,7 @@
  		<Can_Throw_Stones			Day="1"		Night="1"/>
     </type>
 	<type name="ZmbF_SurvivorNormal_Base">						
-        <Health_Points				Day="100" 	Night="100"/>	<!-- Normal -->
+        <Health_Points				Day="65" 	Night="65"/>	<!-- Normal -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -305,7 +302,7 @@
  		<Can_Throw_Stones			Day="1"		Night="1"/>
     </type>
 	<type name="ZmbM_FishermanOld_Base">						
-        <Health_Points				Day="100" 	Night="100"/>	<!-- Normal -->
+        <Health_Points				Day="65" 	Night="65"/>	<!-- Normal -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -337,7 +334,7 @@
  		<Can_Throw_Stones			Day="1"		Night="1"/>
     </type>
 	<type name="ZmbF_CitizenANormal_Base">						
-        <Health_Points				Day="100" 	Night="100"/>	<!-- Normal -->
+        <Health_Points				Day="65" 	Night="65"/>	<!-- Normal -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -369,7 +366,7 @@
  		<Can_Throw_Stones			Day="1"		Night="1"/>
     </type>
 	<type name="ZmbM_CitizenBFat_Base">							
-        <Health_Points				Day="100" 	Night="100"/>	<!-- Normal -->
+        <Health_Points				Day="65" 	Night="65"/>	<!-- Normal -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -401,7 +398,7 @@
  		<Can_Throw_Stones			Day="1"		Night="1"/>
     </type>
 	<type name="ZmbM_HikerSkinny_Base">							
-        <Health_Points				Day="100" 	Night="100"/>	<!-- Normal -->
+        <Health_Points				Day="65" 	Night="65"/>	<!-- Normal -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -433,7 +430,7 @@
  		<Can_Throw_Stones			Day="1"		Night="1"/>
     </type>
 	<type name="ZmbF_HikerSkinny_Base">							
-        <Health_Points				Day="100" 	Night="100"/>	<!-- Normal -->
+        <Health_Points				Day="65" 	Night="65"/>	<!-- Normal -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -465,7 +462,7 @@
  		<Can_Throw_Stones			Day="1"		Night="1"/>
     </type>
 	<type name="ZmbF_JournalistNormal_Base">					
-        <Health_Points				Day="100" 	Night="100"/>	<!-- Normal -->
+        <Health_Points				Day="65" 	Night="65"/>	<!-- Normal -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -497,7 +494,7 @@
  		<Can_Throw_Stones			Day="1"		Night="1"/>
     </type>
 	<type name="ZmbM_SkaterYoung_Base">							
-        <Health_Points				Day="100" 	Night="100"/>	<!-- Normal -->
+        <Health_Points				Day="65" 	Night="65"/>	<!-- Normal -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -529,7 +526,7 @@
  		<Can_Throw_Stones			Day="1"		Night="1"/>
     </type>
 	<type name="ZmbF_BlueCollarFat_Base">						
-        <Health_Points				Day="100" 	Night="100"/>	<!-- Normal -->
+        <Health_Points				Day="65" 	Night="65"/>	<!-- Normal -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -561,7 +558,7 @@
  		<Can_Throw_Stones			Day="1"		Night="1"/>
     </type>
 	<type name="ZmbM_ClerkFat_Base">							
-        <Health_Points				Day="100" 	Night="100"/>	<!-- Normal -->
+        <Health_Points				Day="65" 	Night="65"/>	<!-- Normal -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -593,7 +590,7 @@
  		<Can_Throw_Stones			Day="1"		Night="1"/>
     </type>
 	<type name="ZmbF_Clerk_Normal_Base">						
-        <Health_Points				Day="100" 	Night="100"/>	<!-- Normal -->
+        <Health_Points				Day="65" 	Night="65"/>	<!-- Normal -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -625,7 +622,7 @@
  		<Can_Throw_Stones			Day="1"		Night="1"/>
     </type>
 	<type name="ZmbF_ClerkFat_Base">							
-        <Health_Points				Day="100" 	Night="100"/>	<!-- Normal -->
+        <Health_Points				Day="65" 	Night="65"/>	<!-- Normal -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -659,7 +656,7 @@
 	
 	<!-- Normal Workers -->
 	<type name="ZmbF_MechanicNormal_Base">						
-        <Health_Points				Day="100" 	Night="100"/>	<!-- Normal -->
+        <Health_Points				Day="65" 	Night="65"/>	<!-- Normal -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -691,7 +688,7 @@
  		<Can_Throw_Stones			Day="1"		Night="1"/>
     </type>
 	<type name="ZmbM_MechanicSkinny_Base">						
-        <Health_Points				Day="100" 	Night="100"/>	<!-- Normal -->
+        <Health_Points				Day="65" 	Night="65"/>	<!-- Normal -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -723,7 +720,7 @@
  		<Can_Throw_Stones			Day="1"		Night="1"/>
     </type>
 	<type name="ZmbM_ConstrWorkerNormal_Base">					
-        <Health_Points				Day="100" 	Night="100"/>	<!-- Normal -->
+        <Health_Points				Day="65" 	Night="65"/>	<!-- Normal -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -755,7 +752,7 @@
  		<Can_Throw_Stones			Day="1"		Night="1"/>
     </type>
 	<type name="ZmbM_HandymanNormal_Base">						
-        <Health_Points				Day="100" 	Night="100"/>	<!-- Normal -->
+        <Health_Points				Day="65" 	Night="65"/>	<!-- Normal -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -789,7 +786,7 @@
 	
 	<!-- Normal Medics -->
 	<type name="ZmbF_DoctorSkinny_Base">						
-        <Health_Points				Day="100" 	Night="100"/>	<!-- Normal -->
+        <Health_Points				Day="65" 	Night="65"/>	<!-- Normal -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -821,7 +818,7 @@
  		<Can_Throw_Stones			Day="1"		Night="1"/>
     </type>
 	<type name="ZmbF_NurseFat_Base">							
-        <Health_Points				Day="100" 	Night="100"/>	<!-- Normal -->
+        <Health_Points				Day="65" 	Night="65"/>	<!-- Normal -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -887,7 +884,7 @@
  		<Can_Throw_Stones			Day="1"		Night="1"/>
     </type>
 	<type name="ZmbM_NBC_Grey">						
-        <Health_Points				Day="100" 	Night="100"/>	<!-- Strong Lvl 2-->
+        <Health_Points				Day="200" 	Night="200"/>	<!-- Strong Lvl 2-->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -1149,7 +1146,7 @@
  		<Can_Throw_Stones			Day="1"		Night="1"/>
     </type>
 	<type name="ZmbM_MotobikerFat_Base">						
-        <Health_Points				Day="100" 	Night="100"/>	<!-- Strong Lvl Negan -->
+        <Health_Points				Day="250" 	Night="250"/>	<!-- Strong Lvl Negan -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -1183,7 +1180,7 @@
 	
 	<!-- Walkers (have to be head shot) -->
 	<type name="ZmbM_Jacket_Base">								
-        <Health_Points				Day="100" 	Night="100"/> <!-- Health increased -->
+        <Health_Points				Day="10000"	Night="10000"/> <!-- Health increased -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="0.1" 	Night="0.1"/> 	<!-- Melee resistance increased to avoid one shot with fists -->
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -1215,7 +1212,7 @@
  		<Can_Throw_Stones			Day="0"		Night="0"/>
     </type>
 	<type name="ZmbF_ShortSkirt_Base">							
-        <Health_Points				Day="100" 	Night="100"/> <!-- Health increased -->
+        <Health_Points				Day="10000"	Night="10000"/> <!-- Health increased -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="0.1" 	Night="0.1"/> 	<!-- Melee resistance increased to avoid one shot with fists -->
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -1249,7 +1246,7 @@
 	
 	<!-- Police -->
 	<type name="ZmbM_PolicemanFat_Base">						
-        <Health_Points				Day="100" 	Night="100"/> 	<!-- Strong Lvl 2 -->
+        <Health_Points				Day="200" 	Night="200"/> 	<!-- Strong Lvl 2 -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -1281,7 +1278,7 @@
  		<Can_Throw_Stones			Day="1"		Night="1"/>
     </type>
 	<type name="ZmbF_PoliceWomanNormal_Base">					
-        <Health_Points				Day="100" 	Night="100"/> 	<!-- Strong Lvl 2 -->
+        <Health_Points				Day="200" 	Night="200"/> 	<!-- Strong Lvl 2 -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -1313,7 +1310,7 @@
  		<Can_Throw_Stones			Day="1"		Night="1"/>
     </type>
 	<type name="ZmbM_PolicemanSpecForce_Heavy">					
-        <Health_Points				Day="100" 	Night="100"/> 	<!-- Strong Lvl 3 -->
+        <Health_Points				Day="250" 	Night="250"/> 	<!-- Strong Lvl 3 -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -1345,7 +1342,7 @@
  		<Can_Throw_Stones			Day="1"		Night="1"/>
     </type>
 	<type name="ZmbM_PolicemanSpecForce_Base">					
-        <Health_Points				Day="100" 	Night="100"/> 	<!-- Strong Lvl 3 -->
+        <Health_Points				Day="250" 	Night="250"/> 	<!-- Strong Lvl 3 -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -1379,7 +1376,7 @@
 	
 	<!-- Military -->
 	<type name="ZmbM_usSoldier_Heavy_Woodland">						
-        <Health_Points				Day="100" 	Night="100"/> 	<!-- Strong Lvl 4 -->
+        <Health_Points				Day="300" 	Night="300"/> 	<!-- Strong Lvl 4 -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -1411,7 +1408,7 @@
  		<Can_Throw_Stones			Day="1"		Night="1"/>
     </type>	
 	<type name="ZmbM_usSoldier_Officer_Convoy">						
-        <Health_Points				Day="100" 	Night="100"/> 	<!-- Strong Lvl 4 -->
+        <Health_Points				Day="300" 	Night="300"/> 	<!-- Strong Lvl 4 -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -1443,7 +1440,7 @@
  		<Can_Throw_Stones			Day="1"		Night="1"/>
     </type>	
 	<type name="ZmbM_usSoldier_Officer_Desert">						
-        <Health_Points				Day="100" 	Night="100"/> 	<!-- Strong Lvl 4 -->
+        <Health_Points				Day="300" 	Night="300"/> 	<!-- Strong Lvl 4 -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -1475,7 +1472,7 @@
  		<Can_Throw_Stones			Day="1"		Night="1"/>
     </type>	
 	<type name="ZmbM_usSoldier_normal_Base">					
-        <Health_Points				Day="100" 	Night="100"/> 	<!-- Strong Lvl 3 -->
+        <Health_Points				Day="250" 	Night="250"/> 	<!-- Strong Lvl 3 -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -1507,7 +1504,7 @@
  		<Can_Throw_Stones			Day="1"		Night="1"/>
     </type>
 	<type name="ZmbM_PatrolNormal_Base">						
-        <Health_Points				Day="100" 	Night="100"/> 	<!-- Strong Lvl 3 -->
+        <Health_Points				Day="250" 	Night="250"/> 	<!-- Strong Lvl 3 -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -1538,8 +1535,7 @@
  		<Size_Maxi 					Day="1.0"	Night="1.0"/>
  		<Can_Throw_Stones			Day="1"		Night="1"/>
     </type>
-
-
+
 	<!-- Specials -->
 	<type name="ZmbM_HermitSkinny_Beige">						
         <Health_Points				Day="100" 	Night="100"/> 	<!-- Strong Lvl 1 -->	
@@ -1574,7 +1570,7 @@
  		<Can_Throw_Stones			Day="1"		Night="1"/>
     </type>
 	<type name="ZmbM_HermitSkinny_Base">
-        <Health_Points				Day="100" 	Night="100"/> 	<!-- Very Weak-->
+        <Health_Points				Day="1" 	Night="1"/> 	<!-- Very Weak-->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/>
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/>
@@ -1606,7 +1602,7 @@
  		<Can_Throw_Stones			Day="1"		Night="1"/>
     </type>
 	<type name="ZmbF_CitizenBSkinny_Base"> 			<!-- Weak but Sharp nails -->
-        <Health_Points				Day="100" 	Night="100"/>	<!-- Weak -->
+        <Health_Points				Day="33" 	Night="33"/>	<!-- Weak -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/>
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/>
@@ -1638,7 +1634,7 @@
  		<Can_Throw_Stones			Day="0"		Night="0"/>
     </type>
 	<type name="ZmbM_HunterOld_Base">
-        <Health_Points				Day="100" 	Night="100"/>	<!-- Strong Lvl 1.5 -->
+        <Health_Points				Day="150" 	Night="150"/>	<!-- Strong Lvl 1.5 -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/>
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/>
@@ -1670,7 +1666,7 @@
  		<Can_Throw_Stones			Day="1"		Night="1"/>
     </type>
 	<type name="ZmbM_DoctorFat_Base">
-        <Health_Points				Day="100" 	Night="100"/> 	<!-- Strong Lvl 3 -->
+        <Health_Points				Day="250" 	Night="250"/> 	<!-- Strong Lvl 3 -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 
@@ -1702,7 +1698,7 @@
  		<Can_Throw_Stones			Day="1"		Night="1"/>
     </type>
 	<type name="ZmbM_Santa">	 					<!-- ! More Dangerous at NIGHT ! -->
-        <Health_Points				Day="100" 	Night="100"/> 	<!--  Very Strong Lvl BadSanta  -->
+        <Health_Points				Day="500" 	Night="500"/> 	<!--  Very Strong Lvl BadSanta  -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/>
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/>
@@ -1734,7 +1730,7 @@
  		<Can_Throw_Stones			Day="1"		Night="1"/>
     </type>
 	<type name="ZmbM_priestPopSkinny_Base">	 		<!-- ! More Dangerous at NIGHT ! -->
-        <Health_Points				Day="100" 	Night="100"/> 	<!--  Very Very Strong Lvl BOSS  -->
+        <Health_Points				Day="1000" 	Night="1000"/> 	<!--  Very Very Strong Lvl BOSS  -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/>
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/>
@@ -1766,7 +1762,7 @@
  		<Can_Throw_Stones			Day="1"		Night="1"/>
     </type>
 	<type name="ZmbM_Mummy">	 					<!-- ! More Dangerous at NIGHT ! -->
-        <Health_Points				Day="100" 	Night="100"/> 	<!--  Very Very Strong Lvl BOSS  -->
+        <Health_Points				Day="1000" 	Night="1000"/> 	<!--  Very Very Strong Lvl BOSS  -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/>
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/>
@@ -1799,7 +1795,7 @@
     </type>
 	
 	<type name="ZmbM_SoldierNormal_Base">			<!-- At the end of vanilla list to not conflict with "HumanZombies" -->			
-        <Health_Points				Day="100" 	Night="100"/> 	<!-- Strong Lvl 4 -->
+        <Health_Points				Day="300" 	Night="300"/> 	<!-- Strong Lvl 4 -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -1835,10 +1831,9 @@
 	<!--___________________________________ FOR THE DARK HORDE MOD ______________________________________________-->
 	
 	<!--____ WARNING : IF YOU USE WINTER CHERNARUS MAP (and maybe other winter maps) WITH THE DARK HORDE MOD ____-->
-	<!-- Keep ZmbM_JournalistSkinny_Base ZmbF_PatientOld_Base ZmbM_CitizenASkinny_Base After the Dark Horde Creatures -->
-
+	<!-- Keep ZmbM_JournalistSkinny_Base ZmbF_PatientOld_Base ZmbM_CitizenASkinny_Base After the Dark Horde Creatures -->
 	<type name="ZmbM_DH_Master_Day">
-        <Health_Points				Day="100" 	Night="100"/> 	<!--  Strong Lvl 5  -->
+        <Health_Points				Day="400" 	Night="400"/> 	<!--  Strong Lvl 5  -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/>
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/>
@@ -1869,9 +1864,8 @@
  		<Size_Maxi 					Day="1.6"	Night="1.6"/>
  		<Can_Throw_Stones			Day="2"		Night="2"/>
     </type>
-
-	<type name="ZmbM_DH_Master_Night">							<!--  This class is use if go through walls option of Dark Horde mod is Activated  -->
-        <Health_Points				Day="100" 	Night="100"/> 	<!--  Strong Lvl 5  -->
+	<type name="ZmbM_DH_Master_Night">							<!--  This class is use if go through walls option of Dark Horde mod is Activated  -->
+        <Health_Points				Day="400" 	Night="400"/> 	<!--  Strong Lvl 5  -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/>
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/>
@@ -1904,7 +1898,7 @@
     </type>
 	
 	<type name="ZmbM_DH_Master_Night_NotThroughWalls">			<!--  This class is use if go through walls option of Dark Horde mod is Deactivated  -->
-        <Health_Points				Day="100" 	Night="100"/> 	<!--  Strong Lvl 5  -->
+        <Health_Points				Day="400" 	Night="400"/> 	<!--  Strong Lvl 5  -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/>
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/>
@@ -1937,7 +1931,7 @@
     </type>
 	
 	<type name="ZmbM_DH_Invisible_Ghillie">						
-        <Health_Points				Day="100" 	Night="100"/>	<!-- Strong Lvl 1.5 -->
+        <Health_Points				Day="150" 	Night="150"/>	<!-- Strong Lvl 1.5 -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -1970,7 +1964,7 @@
     </type>
 	
 	<type name="ZmbM_DH_Invisible_RedEye">
-        <Health_Points				Day="100" 	Night="100"/>	<!-- Strong Lvl 1.5 -->
+        <Health_Points				Day="150" 	Night="150"/>	<!-- Strong Lvl 1.5 -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/>
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/>
@@ -2003,7 +1997,7 @@
     </type>
 	
 	<type name="ZmbF_DH_WhiteLady_Base">							
-        <Health_Points				Day="100" 	Night="100"/>	<!-- Weak -->
+        <Health_Points				Day="33" 	Night="33"/>	<!-- Weak -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -2036,7 +2030,7 @@
     </type>
 	
 	<type name="ZmbM_DH_NightWalker_Base">
-        <Health_Points				Day="100" 	Night="100"/> 	<!-- Health increased -->
+        <Health_Points				Day="10000"	Night="10000"/> 	<!-- Health increased -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="10.0" 	Night="10.0"/> 	<!-- Melee resistance increased to avoid one shot with fists -->
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/>
@@ -2069,7 +2063,7 @@
     </type>
 	
 	<type name="ZmbM_DH_AlmostTransparent_Base">							
-        <Health_Points				Day="100" 	Night="100"/>	<!-- Very Weak -->
+        <Health_Points				Day="10" 	Night="10"/>	<!-- Very Weak -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -2103,7 +2097,7 @@
 	
 	<!--__________________________________ ! THESE THREE CLASSES HAVE TO BE AFTER DARK HORDE ZOMBIES ! ____________________________________________-->	
 	<type name="ZmbM_JournalistSkinny_Base">	<!-- ! KEEP THIS CLASS AFTER DARK HORDE ZOMBIES ! -->					
-        <Health_Points				Day="100" 	Night="100"/>	<!-- Normal -->
+        <Health_Points				Day="65" 	Night="65"/>	<!-- Normal -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -2136,7 +2130,7 @@
     </type>
 	
 	<type name="ZmbF_PatientOld_Base">			<!-- ! KEEP THIS CLASS AFTER DARK HORDE ZOMBIES ! -->						
-        <Health_Points				Day="100" 	Night="100"/>	<!-- Normal -->
+        <Health_Points				Day="65" 	Night="65"/>	<!-- Normal -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -2169,7 +2163,7 @@
     </type>
 	
 	<type name="ZmbM_CitizenASkinny_Base">			<!-- ! KEEP THIS CLASS AFTER DARK HORDE ZOMBIES ! -->
-        <Health_Points				Day="100" 	Night="100"/>	<!-- Normal -->
+        <Health_Points				Day="65" 	Night="65"/>	<!-- Normal -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -2270,7 +2264,7 @@
     </type>
 	
 	<type name="Example_OTHER_MOD_Zombies_whith_their_VANILLA_Config">	<!-- Example to use if you want to add zombies from other mod and keep the health of the mod ... -->
-        <Health_Points				Day="100" 	Night="100"/>
+        <Health_Points				Day="-1" 	Night="-1"/>
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -2334,8 +2328,7 @@
  		<Size_Maxi 					Day="-99"	Night="-99"/>
  		<Can_Throw_Stones			Day="1"		Night="1"/>
     </type>
-
-
+
 	<!--____________________________________ DEFAULT CONFIG ____________________________________________________-->	
 	<type name="ZombieBase">									<!-- KEEP THIS CLASS (ZombieBase) IN LAST POSITION -->
         <Health_Points				Day="100" 	Night="100"/> 	<!-- Integer (Quantity) [1 to 10000] -->		
@@ -2372,7 +2365,5 @@
 	<!--________________________ DON'T ADD NEW CLASS AFTER DEFAULT CONFIG ________________________________-->
 </types>
 <!--  ___________ YOU CAN FIND DETAILED INSTRUCTIONS in PvZmoD_CustomisableZombies_HELP.txt file ___________  -->
-
-
-
-
+
+

@@ -1,0 +1,83 @@
+{
+  "m_spawnpoints": [
+    {
+      "m_name": "Namalsk",
+      "m_positions": [
+        {
+          "m_pos": [
+            5802,
+            0.0,
+            11638
+          ],
+          "m_radius": 10.0
+        },
+        {
+          "m_pos": [
+            6245,
+            0.0,
+            11924
+          ],
+          "m_radius": 10.0
+        },
+        {
+          "m_pos": [
+            7321,
+            0.0,
+            11869
+          ],
+          "m_radius": 10.0
+        },
+        {
+          "m_pos": [
+            8588,
+            0.0,
+            11275
+          ],
+          "m_radius": 10.0
+        },
+        {
+          "m_pos": [
+            5014,
+            0.0,
+            11358
+          ],
+          "m_radius": 10.0
+        }
+      ]
+    }
+  ],
+  "m_gearBody": [
+    "DOC_TSHIRT_42"
+  ],
+  "m_gearPants": [
+    "Jeans_Black",
+    "Jeans_BlueDark",
+    "Jeans_Blue",
+    "Jeans_Brown",
+    "Jeans_Green",
+    "Jeans_Grey"
+  ],
+  "m_gearFoot": [
+    "AthleticShoes_Black; H0.5",
+    "AthleticShoes_Blue; H0.5",
+    "AthleticShoes_Brown; H0.5",
+    "AthleticShoes_Green; H0.5",
+    "AthleticShoes_Grey; H0.5"
+  ],
+  "m_gearHead": [],
+  "m_gearMask": [],
+  "m_gearGloves": [],
+  "m_gearVest": [],
+  "m_gearBackpack": [],
+  "m_gearWeapon": [],
+  "m_gearItems": [
+    {
+      "m_name": "Default starter pack",
+      "m_items": [
+        "Heatpack",
+        "Roadflare",
+        "Rag; Q4"
+      ]
+    }
+  ]
+}

@@ -1008,17 +1008,239 @@
         </btn>
     </input>
     <input name="UAPVEZOpenAdminMenu" />
-    <input name="UAOpenVPPMap">
+    <input name="UATogglePoliceLights">
+        <btn name="kP" />
+    </input>
+    <input name="UAToggleNeonLights">
+        <btn name="k4" />
+    </input>
+    <input name="UAToggleFogLights">
+        <btn name="k5" />
+    </input>
+    <input name="UAToggleSyberiaSkillsMenu">
+        <btn name="kO" />
+    </input>
+    <input name="UAToggleSyberiaHideItem">
+        <btn name="kV" />
+    </input>
+    <input name="UAToggleSyberiaUseBackpack">
+        <btn name="kB" />
+    </input>
+    <input name="UAToggleSyberiaUsePDA">
+        <btn name="kP" />
+    </input>
+    <input name="UATransportBeep">
+        <btn name="k2" />
+    </input>
+    <input name="UAExpansionPartyHUDToggle">
+        <btn name="kMultiply" />
+    </input>
+    <input name="UAExpansionMapDeleteMarker">
+        <btn name="kDelete" />
+    </input>
+    <input name="UAExpansionMapToggle">
         <btn name="kM" />
     </input>
-    <input name="UAToggleVPPMap3DMarkers">
+    <input name="UAExpansionGPSToggle">
+        <btn name="kN" />
+    </input>
+    <input name="UAExpansionCompassToggle">
+        <btn name="kI" />
+    </input>
+    <input name="UAExpansionGPSMapScaleDown">
+        <btn name="mWheelDown" />
+    </input>
+    <input name="UAExpansionGPSMapScaleUp">
+        <btn name="mWheelUp" />
+    </input>
+    <input name="UAExpansion3DMarkerToggle">
         <btn name="kK" />
     </input>
-    <input name="UAToggleNotifcationSound">
-        <btn name="kRBracket" />
+    <input name="UAExpansionQuickMarker">
+        <btn name="kH" />
     </input>
-    <input name="SPOpenPanelMenu">
+    <input name="UAExpansionPlayerListToggle">
         <btn name="kPause" />
+    </input>
+    <input name="UAExpansionEarplugsToggle">
+        <btn name="kP" />
+    </input>
+    <input name="UAExpansionAutoRunToggle">
+        <btn name="kZ" />
+    </input>
+    <input name="UAExpansionHeliRocket">
+        <btn name="kSpace" />
+    </input>
+    <input name="UAExpansionHeliFreeLook">
+        <btn name="kLMenu" />
+    </input>
+    <input name="UAExpansionHeliAutoHover">
+        <btn name="kX" />
+    </input>
+    <input name="UAExpansionHeliCyclicForward">
+        <btn name="kW" />
+        <btn name="x1LeftThumbUp" />
+    </input>
+    <input name="UAExpansionHeliCyclicBackward">
+        <btn name="kS" />
+        <btn name="x1LeftThumbDown" />
+    </input>
+    <input name="UAExpansionHeliCyclicLeft">
+        <btn name="kA" />
+        <btn name="x1LeftThumbLeft" />
+    </input>
+    <input name="UAExpansionHeliCyclicRight">
+        <btn name="kD" />
+        <btn name="x1LeftThumbRight" />
+    </input>
+    <input name="UAExpansionHeliCollectiveUp">
+        <btn name="kLShift" />
+        <btn name="x1TriggerRight" />
+    </input>
+    <input name="UAExpansionHeliCollectiveDown">
+        <btn name="kZ" />
+        <btn name="x1TriggerLeft" />
+    </input>
+    <input name="UAExpansionHeliAntiTorqueLeft">
+        <btn name="kQ" />
+        <btn name="x1ShoulderLeft" />
+    </input>
+    <input name="UAExpansionHeliAntiTorqueRight">
+        <btn name="kE" />
+        <btn name="x1ShoulderRight" />
+    </input>
+    <input name="UAExpansionHeliCargoDoorUp" />
+    <input name="UAExpansionHeliCargoDoorDown" />
+    <input name="UAExpansionPlaneFlare">
+        <btn name="kSpace" />
+    </input>
+    <input name="UAExpansionPlaneEngine" />
+    <input name="UAExpansionPlaneEngineUp">
+        <btn name="kLShift" />
+    </input>
+    <input name="UAExpansionPlaneEngineDown">
+        <btn name="kLControl" />
+    </input>
+    <input name="UAExpansionPlaneBrake" />
+    <input name="UAExpansionPlaneBrakeUp">
+        <btn name="kH" />
+    </input>
+    <input name="UAExpansionPlaneBrakeDown">
+        <btn name="kN" />
+    </input>
+    <input name="UAExpansionPlaneElevatorUp">
+        <btn name="kS" />
+    </input>
+    <input name="UAExpansionPlaneElevatorDown">
+        <btn name="kW" />
+    </input>
+    <input name="UAExpansionPlaneAileronLeft">
+        <btn name="kA" />
+    </input>
+    <input name="UAExpansionPlaneAileronRight">
+        <btn name="kD" />
+    </input>
+    <input name="UAExpansionPlaneRudderLeft">
+        <btn name="kQ" />
+    </input>
+    <input name="UAExpansionPlaneRudderRight">
+        <btn name="kE" />
+    </input>
+    <input name="UAExpansionPlaneFlapsUp">
+        <btn name="kG" />
+    </input>
+    <input name="UAExpansionPlaneFlapsDown">
+        <btn name="kB" />
+    </input>
+    <input name="UAExpansionPlaneWheelBrake">
+        <btn name="kJ" />
+    </input>
+    <input name="UAExpansionBoatMoveForward">
+        <btn name="kW" />
+    </input>
+    <input name="UAExpansionBoatMoveBackward">
+        <btn name="kS" />
+    </input>
+    <input name="UAExpansionBoatRotateLeft">
+        <btn name="kA" />
+    </input>
+    <input name="UAExpansionBoatRotateRight">
+        <btn name="kD" />
+    </input>
+    <input name="UAExpansionBoatTurbo">
+        <btn name="kLShift" />
+    </input>
+    <input name="UAExpansionBikeGearUp">
+        <btn name="kE" />
+    </input>
+    <input name="UAExpansionBikeGearDown">
+        <btn name="kQ" />
+    </input>
+    <input name="UAExpansionBikeMoveForward">
+        <btn name="kW" />
+    </input>
+    <input name="UAExpansionBikeMoveBackward">
+        <btn name="kS" />
+    </input>
+    <input name="UAExpansionBikeRotateLeft">
+        <btn name="kA" />
+    </input>
+    <input name="UAExpansionBikeRotateRight">
+        <btn name="kD" />
+    </input>
+    <input name="UAExpansionBikeGentle">
+        <btn name="kLControl" />
+    </input>
+    <input name="UAExpansionBikeTurbo">
+        <btn name="kLShift" />
+    </input>
+    <input name="UAExpansionCarHorn">
+        <btn name="kH" />
+    </input>
+    <input name="UAExpansionCarRefill">
+        <btn name="kR" />
+    </input>
+    <input name="eAICommandMenu">
+        <btn name="kT" />
+    </input>
+    <input name="eAITestInput">
+        <btn name="kY" />
+    </input>
+    <input name="eAITestLRIncrease">
+        <btn name="kRight" />
+    </input>
+    <input name="eAITestLRDecrease">
+        <btn name="kLeft" />
+    </input>
+    <input name="eAITestUDIncrease">
+        <btn name="kUp" />
+    </input>
+    <input name="eAITestUDDecrease">
+        <btn name="kDown" />
+    </input>
+    <input name="UAExpansionSnappingDirectionNext">
+        <btn name="mWheelUp" />
+    </input>
+    <input name="UAExpansionSnappingDirectionPrevious">
+        <btn name="mWheelDown" />
+    </input>
+    <input name="UAExpansionSnappingToggle">
+        <btn name="kX" />
+    </input>
+    <input name="UAExpansionBookToggle">
+        <btn name="kB" />
+    </input>
+    <input name="UAExpansionChatSwitchChannel">
+        <btn name="kComma" />
+    </input>
+    <input name="UAExpansionHideChatToggle">
+        <btn name="kDivide" />
+    </input>
+    <input name="UAExpansionQuestToggle">
+        <btn name="kSlash" />
+    </input>
+    <input name="UAExpansionQuestLogToggle">
+        <btn name="kO" />
     </input>
     <controller name="PCKeyboard">
         <limit name="doubleclick" value="0.500000" />

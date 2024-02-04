@@ -6,6 +6,14 @@
             "Address": "",
             "Types": [
                 {
+                    "Name": "ExpansionCOTTerritoriesModule",
+                    "Enabled": 0
+                },
+                {
+                    "Name": "ExpansionCOTGroupModule",
+                    "Enabled": 0
+                },
+                {
                     "Name": "COTModule",
                     "Enabled": 0
                 },
@@ -39,6 +47,10 @@
                 },
                 {
                     "Name": "JMPlayerModuleKick",
+                    "Enabled": 0
+                },
+                {
+                    "Name": "JMPlayerModuleMessage",
                     "Enabled": 0
                 },
                 {
@@ -94,15 +106,15 @@
                     "Enabled": 0
                 },
                 {
-                    "Name": "JMESPModuleCar_Unstuck",
+                    "Name": "JMESPModuleVehicle_Unstuck",
                     "Enabled": 0
                 },
                 {
-                    "Name": "JMESPModuleCar_Repair",
+                    "Name": "JMESPModuleRepair",
                     "Enabled": 0
                 },
                 {
-                    "Name": "JMESPModuleCar_Refuel",
+                    "Name": "JMESPModuleVehicle_Refuel",
                     "Enabled": 0
                 },
                 {

@@ -1,0 +1,6 @@
+03:23:14.309 [Party] Player "Mister Grey" (id=alBZ-ZL8MzNBtl2I3gppWwkNM3QqMiItqAFzALQOYaw=) joinded the party "RECON" (id=1 ownerUID=alBZ-ZL8MzNBtl2I3gppWwkNM3QqMiItqAFzALQOYaw= ownerName=Mister Grey)
+03:28:15.375 [MissionAirdrop] An airdrop is heading towards "Brensk" (pos=<4327.000000, 0.000000, 5230.000000> type=Random_Brensk) with a ExpansionAirdropContainer
+03:28:55.374 [MissionAirdrop] An airdrop is heading towards "Tara Harbor" (pos=<7493.000000, 0.000000, 7577.000000> type=Random_Tara Harbor) with a ExpansionAirdropContainer
+03:29:50.893 [AI Patrol] Spawning 3 Shamans bots at <5196.743652, 37.058002, 6274.454590>
+03:32:52.459 [ExplosionDamageSystem] About to explode FlashGrenade_Ammo from FlashGrenade<a8730d70> at <5983.45, 21.92, 6774.67> EXPLOSION range 20 dropoff 5
+04:17:59.729 [Party] Player "Mister Grey" (id=alBZ-ZL8MzNBtl2I3gppWwkNM3QqMiItqAFzALQOYaw=) left the party "RECON" (id=1 ownerUID=alBZ-ZL8MzNBtl2I3gppWwkNM3QqMiItqAFzALQOYaw= ownerName=Mister Grey)

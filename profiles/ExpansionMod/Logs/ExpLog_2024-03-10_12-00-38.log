@@ -1,0 +1,11 @@
+12:10:03.644 [Party] Player "Mister Grey" (id=alBZ-ZL8MzNBtl2I3gppWwkNM3QqMiItqAFzALQOYaw=) joinded the party "RECON" (id=1 ownerUID=alBZ-ZL8MzNBtl2I3gppWwkNM3QqMiItqAFzALQOYaw= ownerName=Mister Grey)
+12:10:03.652 [AI Patrol] Spawning 3 Shamans bots at <4384.555664, 127.536499, 7293.052246>
+12:10:41.734 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<24ab54d0> at <4232.81, 78.05, 8100.41> EXPLOSION range 20 dropoff 5
+12:15:10.578 [MissionAirdrop] An airdrop is heading towards "Norisnk" (pos=<3974.000000, 0.000000, 7350.000000> type=Random_Norisnk) with a ExpansionAirdropContainer
+12:15:30.578 [MissionAirdrop] An airdrop is heading towards "Sedbjan" (pos=<5024.000000, 0.000000, 8919.000000> type=Random_Sedbjan) with a ExpansionAirdropContainer_Military_WinterCamo
+13:22:07.230 [Party] Player "Mister Grey" (id=alBZ-ZL8MzNBtl2I3gppWwkNM3QqMiItqAFzALQOYaw=) left the party "RECON" (id=1 ownerUID=alBZ-ZL8MzNBtl2I3gppWwkNM3QqMiItqAFzALQOYaw= ownerName=Mister Grey)
+14:10:28.972 [Party] Player "Mister Grey" (id=alBZ-ZL8MzNBtl2I3gppWwkNM3QqMiItqAFzALQOYaw=) joinded the party "RECON" (id=1 ownerUID=alBZ-ZL8MzNBtl2I3gppWwkNM3QqMiItqAFzALQOYaw= ownerName=Mister Grey)
+14:10:33.578 [MissionAirdrop] An airdrop is heading towards "Norisnk" (pos=<3974.000000, 0.000000, 7350.000000> type=Random_Norisnk) with a ExpansionAirdropContainer
+14:10:43.578 [MissionAirdrop] An airdrop is heading towards "Airstrip" (pos=<6140.000000, 0.000000, 9189.000000> type=Random_Airstrip) with a ExpansionAirdropContainer_Basebuilding
+14:19:10.867 [AI Patrol] Spawning 3 Shamans bots at <5227.238770, 271.205994, 7200.311523>
+14:24:08.531 [Party] Player "Mister Grey" (id=alBZ-ZL8MzNBtl2I3gppWwkNM3QqMiItqAFzALQOYaw=) left the party "RECON" (id=1 ownerUID=alBZ-ZL8MzNBtl2I3gppWwkNM3QqMiItqAFzALQOYaw= ownerName=Mister Grey)

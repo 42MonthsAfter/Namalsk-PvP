@@ -1,0 +1,5 @@
+08:42:20.220 [AI Patrol] Spawning 3 Shamans bots at <5070.305176, 4.643603, 11312.424805>
+08:42:20.353 [AI Patrol] Spawning 3 Shamans bots at <5735.294434, 57.513634, 11164.583984>
+08:46:36.398 [MissionAirdrop] An airdrop is heading towards "Jalovisko" (pos=<8008.000000, 0.000000, 10747.000000> type=Random_Jalovisko) with a ExpansionAirdropContainer_Military_WinterCamo
+08:46:56.396 [MissionAirdrop] An airdrop is heading towards "Norisnk" (pos=<3974.000000, 0.000000, 7350.000000> type=Random_Norisnk) with a ExpansionAirdropContainer_Military_WinterCamo
+09:10:29.828 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<238b6c40> at <4483.31, 11.77, 11136.3> EXPLOSION range 20 dropoff 5

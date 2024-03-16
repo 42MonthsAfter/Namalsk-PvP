@@ -1,0 +1,30 @@
+12:01:19.707 [AI Patrol] Spawning 3 Shamans bots at <5033.216797, 9.043426, 11265.892578>
+12:01:19.839 [AI Patrol] Spawning 3 Shamans bots at <5608.211914, 52.648525, 11007.246094>
+12:06:22.781 [MissionAirdrop] An airdrop is heading towards "Airstrip" (pos=<6140.000000, 0.000000, 9189.000000> type=Random_Airstrip) with a ExpansionAirdropContainer_Military_WinterCamo
+12:06:32.777 [MissionAirdrop] An airdrop is heading towards "Brensk" (pos=<4327.000000, 0.000000, 5230.000000> type=Random_Brensk) with a ExpansionAirdropContainer
+12:08:53.761 [AI Patrol] Spawning 3 Shamans bots at <6875.785156, 15.368159, 11672.617188>
+12:21:59.097 [AI Patrol] Spawning 3 Shamans bots at <7331.981445, 15.109699, 11630.655273>
+12:39:09.449 [AI Patrol] Spawning 3 Shamans bots at <7027.817871, 9.313421, 10087.436523>
+12:40:02.707 [AI Patrol] Spawning 3 Shamans bots at <5479.324707, 29.345526, 9739.308594>
+13:19:19.804 [AI Patrol] Spawning 3 Shamans bots at <4451.625000, 5.010000, 10376.451172>
+13:32:50.789 [MissionAirdrop] An airdrop is heading towards "Brensk" (pos=<4327.000000, 0.000000, 5230.000000> type=Random_Brensk) with a ExpansionAirdropContainer
+13:33:06.789 [MissionAirdrop] An airdrop is heading towards "Sedbjan" (pos=<5024.000000, 0.000000, 8919.000000> type=Random_Sedbjan) with a ExpansionAirdropContainer_Medical
+13:37:31.941 [BaseRaiding] ExpansionSafeMedium (<4506.121094, 15.759299, 10947.648438>) player "Hillbilly" (ID = "qOowzXYHFyJFCnpfpXlMeaeg1Yaz6p4vnVRhOWvjkp0=" at <4506.182129, 15.797623, 10948.950195>) failed to enter the correct code.
+13:37:31.941 [BaseRaiding] ExpansionSafeMedium (<4506.121094, 15.759299, 10947.648438>) The correct code was 220286 and the player tried 111111
+13:37:37.375 [BaseRaiding] ExpansionSafeMedium (<4506.121094, 15.759299, 10947.648438>) player "Hillbilly" (ID = "qOowzXYHFyJFCnpfpXlMeaeg1Yaz6p4vnVRhOWvjkp0=" at <4506.182129, 15.797623, 10948.950195>) failed to enter the correct code.
+13:37:37.375 [BaseRaiding] ExpansionSafeMedium (<4506.121094, 15.759299, 10947.648438>) The correct code was 220286 and the player tried 111111
+13:37:45.082 [BaseRaiding] ExpansionSafeMedium (<4506.121094, 15.759299, 10947.648438>) player "Hillbilly" (ID = "qOowzXYHFyJFCnpfpXlMeaeg1Yaz6p4vnVRhOWvjkp0=" at <4506.182129, 15.797623, 10948.950195>) failed to enter the correct code.
+13:37:45.082 [BaseRaiding] ExpansionSafeMedium (<4506.121094, 15.759299, 10947.648438>) The correct code was 220286 and the player tried 999999
+14:59:22.812 [MissionAirdrop] An airdrop is heading towards "Airstrip" (pos=<6140.000000, 0.000000, 9189.000000> type=Random_Airstrip) with a ExpansionAirdropContainer_Military_WinterCamo
+14:59:32.812 [MissionAirdrop] An airdrop is heading towards "Brensk" (pos=<4327.000000, 0.000000, 5230.000000> type=Random_Brensk) with a ExpansionAirdropContainer
+16:26:02.812 [MissionAirdrop] An airdrop is heading towards "Brensk" (pos=<4327.000000, 0.000000, 5230.000000> type=Random_Brensk) with a ExpansionAirdropContainer
+16:26:22.812 [MissionAirdrop] An airdrop is heading towards "Sedbjan" (pos=<5024.000000, 0.000000, 8919.000000> type=Random_Sedbjan) with a ExpansionAirdropContainer_Medical
+16:48:43.351 [BaseRaiding] ExpansionSafeMedium (<4506.121094, 15.759299, 10947.648438>) player "Zookyook" (ID = "ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=" at <4506.342285, 15.797874, 10948.553711>) failed to enter the correct code.
+16:48:43.351 [BaseRaiding] ExpansionSafeMedium (<4506.121094, 15.759299, 10947.648438>) The correct code was 220286 and the player tried 1111
+16:48:45.546 [BaseRaiding] ExpansionSafeMedium (<4506.121094, 15.759299, 10947.648438>) player "Zookyook" (ID = "ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=" at <4506.342285, 15.797874, 10948.553711>) failed to enter the correct code.
+16:48:45.546 [BaseRaiding] ExpansionSafeMedium (<4506.121094, 15.759299, 10947.648438>) The correct code was 220286 and the player tried 11111
+16:48:49.039 [BaseRaiding] ExpansionSafeMedium (<4506.121094, 15.759299, 10947.648438>) player "Zookyook" (ID = "ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=" at <4506.342285, 15.797874, 10948.553711>) failed to enter the correct code.
+16:48:49.039 [BaseRaiding] ExpansionSafeMedium (<4506.121094, 15.759299, 10947.648438>) The correct code was 220286 and the player tried 111111
+17:03:30.718 [Chat - Global]("Hillbilly"(id=qOowzXYHFyJFCnpfpXlMeaeg1Yaz6p4vnVRhOWvjkp0=)): anybody on needs some food, i got a bit xtra
+17:52:59.843 [MissionAirdrop] An airdrop is heading towards "Vorkuta" (pos=<6751.000000, 0.000000, 10900.000000> type=Random_Vorkuta) with a ExpansionAirdropContainer
+17:53:02.843 [MissionAirdrop] An airdrop is heading towards "Brensk" (pos=<4327.000000, 0.000000, 5230.000000> type=Random_Brensk) with a ExpansionAirdropContainer

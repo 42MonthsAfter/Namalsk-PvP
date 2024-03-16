@@ -1,0 +1,24 @@
+18:05:34.691 [AI Patrol] Spawning 3 Shamans bots at <5519.783691, 41.748253, 9617.880859>
+18:05:34.820 [AI Patrol] Spawning 3 Shamans bots at <5267.408203, 35.405788, 10778.306641>
+18:06:33.363 [AI Patrol] Spawning 3 Shamans bots at <6657.092285, 16.991014, 10849.919922>
+18:07:21.601 [AI Patrol] Spawning 3 Shamans bots at <6842.010742, 1.442994, 10052.650391>
+18:07:22.203 [AI Patrol] Spawning 3 Shamans bots at <7247.444824, 5.026788, 11862.516602>
+18:07:28.609 [AI Patrol] Spawning 3 Shamans bots at <5549.146973, 4.262761, 10535.184570>
+18:10:35.085 [MissionAirdrop] An airdrop is heading towards "Brensk" (pos=<4327.000000, 0.000000, 5230.000000> type=Random_Brensk) with a ExpansionAirdropContainer_Medical
+18:10:45.085 [MissionAirdrop] An airdrop is heading towards "Lubjansk" (pos=<4680.000000, 0.000000, 10872.000000> type=Random_Lubjansk) with a ExpansionAirdropContainer
+19:30:41.500 [BaseRaiding] ExpansionSafeMedium (<7224.063477, 13.314960, 10886.745117>) player "Ding Chavez" (ID = "DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=" at <7223.155273, 12.559715, 10887.652344>) failed to enter the correct code.
+19:30:41.500 [BaseRaiding] ExpansionSafeMedium (<7224.063477, 13.314960, 10886.745117>) The correct code was 0988 and the player tried 1111
+19:30:56.515 [BaseRaiding] ExpansionSafeMedium (<7224.063477, 13.314960, 10886.745117>) player "Ding Chavez" (ID = "DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=" at <7223.006836, 12.559783, 10887.581055>) failed to enter the correct code.
+19:30:56.515 [BaseRaiding] ExpansionSafeMedium (<7224.063477, 13.314960, 10886.745117>) The correct code was 0988 and the player tried 0000
+19:31:06.601 [BaseRaiding] ExpansionSafeMedium (<7224.063477, 13.314960, 10886.745117>) player "Zookyook" (ID = "ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=" at <7223.285156, 12.559655, 10887.689453>) failed to enter the correct code.
+19:31:06.601 [BaseRaiding] ExpansionSafeMedium (<7224.063477, 13.314960, 10886.745117>) The correct code was 0988 and the player tried 1111
+19:37:42.101 [MissionAirdrop] An airdrop is heading towards "Brensk" (pos=<4327.000000, 0.000000, 5230.000000> type=Random_Brensk) with a ExpansionAirdropContainer_Medical
+19:37:52.101 [MissionAirdrop] An airdrop is heading towards "Tara SawMill" (pos=<7114.000000, 0.000000, 6000.000000> type=Random_Tara SawMill) with a ExpansionAirdropContainer_Medical
+20:20:48.828 [AI Patrol] Spawning 3 Shamans bots at <7657.874512, 77.311272, 8555.372070>
+21:04:18.164 [MissionAirdrop] An airdrop is heading towards "Brensk" (pos=<4327.000000, 0.000000, 5230.000000> type=Random_Brensk) with a ExpansionAirdropContainer_Medical
+21:04:21.164 [MissionAirdrop] An airdrop is heading towards "Lubjansk" (pos=<4680.000000, 0.000000, 10872.000000> type=Random_Lubjansk) with a ExpansionAirdropContainer
+21:04:29.453 [AI Patrol] Spawning 3 Shamans bots at <7721.780273, 54.697281, 7265.188965>
+22:01:19.914 [AI Patrol] Spawning 3 Shamans bots at <5157.265137, 40.669998, 6231.938965>
+22:29:42.562 [AI Patrol] Spawning 3 Shamans bots at <5291.506836, 209.350006, 7465.920898>
+22:31:11.210 [MissionAirdrop] An airdrop is heading towards "Norisnk" (pos=<3974.000000, 0.000000, 7350.000000> type=Random_Norisnk) with a ExpansionAirdropContainer
+22:31:21.210 [MissionAirdrop] An airdrop is heading towards "Sedbjan" (pos=<5024.000000, 0.000000, 8919.000000> type=Random_Sedbjan) with a ExpansionAirdropContainer

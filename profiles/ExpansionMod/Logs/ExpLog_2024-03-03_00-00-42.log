@@ -1,0 +1,10 @@
+00:01:22.055 [Party] Player "Mister Grey" (id=alBZ-ZL8MzNBtl2I3gppWwkNM3QqMiItqAFzALQOYaw=) joinded the party "RECON" (id=1 ownerUID=alBZ-ZL8MzNBtl2I3gppWwkNM3QqMiItqAFzALQOYaw= ownerName=Mister Grey)
+00:06:26.449 [MissionAirdrop] An airdrop is heading towards "Tara SawMill" (pos=<7114.000000, 0.000000, 6000.000000> type=Random_Tara SawMill) with a ExpansionAirdropContainer_Military_WinterCamo
+00:06:36.447 [MissionAirdrop] An airdrop is heading towards "Airstrip" (pos=<6140.000000, 0.000000, 9189.000000> type=Random_Airstrip) with a ExpansionAirdropContainer_Medical
+00:09:54.036 [AI Patrol] Spawning 3 Shamans bots at <5692.779785, 59.626102, 11103.784180>
+00:10:43.461 [AI Patrol] Spawning 3 Shamans bots at <4389.901855, 14.596727, 11010.585938>
+00:11:47.488 [ExplosionDamageSystem] About to explode LandFuelFeed_Ammo from land_fuelstation_w_feed<5eb4d0c0> at <4864.78, 13.84, 10874.8> EXPLOSION range 20 dropoff 5
+00:27:43.455 [AI Patrol] Spawning 3 Shamans bots at <5243.523926, 15.750066, 9900.535156>
+00:40:24.634 [AI Patrol] Spawning 3 Shamans bots at <7433.292969, 22.975895, 11595.143555>
+00:41:56.099 [AI Patrol] Spawning 3 Shamans bots at <6695.235352, 15.192376, 10965.896484>
+00:54:50.175 [Party] Player "Mister Grey" (id=alBZ-ZL8MzNBtl2I3gppWwkNM3QqMiItqAFzALQOYaw=) left the party "RECON" (id=1 ownerUID=alBZ-ZL8MzNBtl2I3gppWwkNM3QqMiItqAFzALQOYaw= ownerName=Mister Grey)

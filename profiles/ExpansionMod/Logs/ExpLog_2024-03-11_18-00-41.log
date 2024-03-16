@@ -1,0 +1,7 @@
+18:27:41.500 [AI Patrol] Spawning 3 Shamans bots at <4309.830566, 12.142892, 10998.264648>
+18:27:41.625 [AI Patrol] Spawning 3 Shamans bots at <5619.043945, 56.976543, 11102.413086>
+18:27:41.640 [AI Patrol] Spawning 3 Shamans bots at <5303.898926, 33.823471, 10666.097656>
+18:32:03.703 [MissionAirdrop] An airdrop is heading towards "Norisnk" (pos=<3974.000000, 0.000000, 7350.000000> type=Random_Norisnk) with a ExpansionAirdropContainer
+18:32:23.695 [MissionAirdrop] An airdrop is heading towards "Brensk" (pos=<4327.000000, 0.000000, 5230.000000> type=Random_Brensk) with a ExpansionAirdropContainer
+18:40:33.398 [BaseRaiding] ExpansionSafeMedium (<4506.121094, 15.759299, 10947.648438>) player "Raznor" (ID = "BZz0hyFqGrI6vSUKdT6BUZEeMn550blvc48Zb082isE=" at <4506.811523, 15.797268, 10948.479492>) failed to enter the correct code.
+18:40:33.398 [BaseRaiding] ExpansionSafeMedium (<4506.121094, 15.759299, 10947.648438>) The correct code was 220286 and the player tried 246800

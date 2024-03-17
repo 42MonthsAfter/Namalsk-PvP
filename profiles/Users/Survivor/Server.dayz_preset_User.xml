@@ -1014,7 +1014,6 @@
             <event name="hold" />
         </btn>
     </input>
-    <input name="UAPVEZOpenAdminMenu" />
     <input name="UATogglePoliceLights">
         <btn name="kP" />
     </input>
